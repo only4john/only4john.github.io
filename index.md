@@ -1,6 +1,6 @@
 ## 费 腾  
-
-博士 , 副教授  
+[Link](url) and ![Image](src)
+博士， 武汉大学资源与环境科学学院 副教授  
 研究方向： 城市地理大数据，生态遥感应用，地理信息科学  
 Email: feiteng@whu.edu.cn  
 
@@ -35,41 +35,3 @@ Twente University, the Netherlands, PhD
 硕士研究生招生方向：地图学与地理信息科学/测绘工程 
 
 *  本人患有先天性面容失认症(prosop-agnosia)，俗称脸盲，请多理解!
-
-
-
-You can use the [editor on GitHub](https://github.com/only4john/only4john.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/only4john/only4john.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
