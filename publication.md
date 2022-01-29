@@ -4,7 +4,7 @@
 
 --- 2022 ---
 
-Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.***, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.
+Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.***, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.[生态遥感]
 
 
 --- 2021 ---
