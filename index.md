@@ -30,6 +30,14 @@ Twente University, the Netherlands, PhD
 
 2010/07 - 2012/06，武汉大学，资源与环境科学学院，博士后研究  
 
+---
+
+硕士研究生招生方向：地图学与地理信息科学/测绘工程 
+
+*  本人患有先天性面容失认症(prosop-agnosia)，俗称脸盲，请多理解!
+
+
+
 You can use the [editor on GitHub](https://github.com/only4john/only4john.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
