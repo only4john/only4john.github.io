@@ -1,5 +1,5 @@
-# 费  腾
-![avatar](http://faculty.whu.edu.cn/__local/3/B1/6B/2F5A9FC32FA32795C6C9BE0E8DA_6704A2F5_D7B9.jpg)
+# 费    腾  
+
 博士 , 副教授  
 研究方向： 城市地理大数据，生态遥感应用，地理信息科学  
 Email: feiteng@whu.edu.cn  
@@ -11,8 +11,8 @@ Email: feiteng@whu.edu.cn
 
 ## 受教育经历：
 
-2006/09-2013/06， 武汉大学，资源与环境科学学院，博士  
-                  Twente University, the Netherlands, PhD   
+2006/09-2013/03， 武汉大学，资源与环境科学学院，博士  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Twente University, the Netherlands, PhD   
 2004/09-2006/06， International Institute for Geo-Information Science and Earth Observation (ITC)，the Netherlands, MSc 科学硕士  
 1999/09-2003/06， 武汉大学，遥感信息工程学院，学士  
 
