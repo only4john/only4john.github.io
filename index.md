@@ -12,7 +12,7 @@ Email: feiteng@whu.edu.cn
 ## 受教育经历：
 
 2006/09-2013/03， 武汉大学，资源与环境科学学院，博士  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 Twente University, the Netherlands, PhD  
 
 2004/09-2006/06， International Institute for Geo-Information Science and Earth Observation (ITC)，the Netherlands, MSc 科学硕士  
@@ -21,7 +21,8 @@ Twente University, the Netherlands, PhD
 
 ## 研究工作经历：
 
-2013/01 - 今，&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;武汉大学，资源与环境科学学院，副教授  
+2013/01 - 今，&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+武汉大学，资源与环境科学学院，副教授  
 
 2019/09 - 2020/09，伊利诺伊大学厄巴纳香槟分校（UIUC），访问学者  
 
