@@ -1,4 +1,5 @@
 # 费  腾
+![avatar](http://faculty.whu.edu.cn/__local/3/B1/6B/2F5A9FC32FA32795C6C9BE0E8DA_6704A2F5_D7B9.jpg)
 博士 , 副教授  
 研究方向： 城市地理大数据，生态遥感应用，地理信息科学  
 Email: feiteng@whu.edu.cn  
