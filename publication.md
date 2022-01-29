@@ -4,11 +4,12 @@
 
 --- 2022 ---
 
-Wang L, Bie W, Li H, Liao T, Ding X, Wu G, **Fei T***. (2022) Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan.22. 
+Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.***, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.
+
 
 --- 2021 ---
 
-卞萌, 郭树毅, 王威, 欧阳昱晖*, 黄颖菁, **费腾**. 融合植被遥感数据的北京市次日花粉浓度预测[J]. 地球信息科学学报, 2021, 23(9): 1705-1713.DOI:10.12082/dqxxkx.2021.200475 [生态遥感]
+卞萌, 郭树毅, 王威, 欧阳昱晖*, 黄颖菁, **费腾**.(2021) 融合植被遥感数据的北京市次日花粉浓度预测[J]. 地球信息科学学报, 23(9): 1705-1713.DOI:10.12082/dqxxkx.2021.200475 [生态遥感]
 
 Yuan, D., Yu, B., Liang, S., ***Fei, T.***, Tang, H., Kang, R., Li, Y., Ye, L., Jia, P.*, Yang, S.*, 2022. HIV-1 genetic transmission networks among people living with HIV/AIDS in Sichuan, China: a genomic and spatial epidemiological analysis. The Lancet Regional Health - Western Pacific 18, 100318. https://doi.org/10.1016/j.lanwpc.2021.100318 [健康地理]
 
