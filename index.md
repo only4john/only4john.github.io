@@ -45,4 +45,4 @@ Twente University, the Netherlands, PhD
 
 硕士研究生招生方向：地图学与地理信息科学/测绘工程 
 
-*  本人患有先天性面容失认症(prosop-agnosia)，俗称脸盲，请多理解!
+_本人患有先天性面容失认症(prosop-agnosia)，俗称脸盲，请多理解!_
