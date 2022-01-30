@@ -1,8 +1,3 @@
-layout: post
-title: "POST TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
-
 # 项目
 
 主持武汉大学2021年研究生精品课程《资源与环境遥感》建设工作，2021
