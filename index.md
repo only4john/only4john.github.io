@@ -1,5 +1,5 @@
 ## 费 腾  
-![a pixelated photo of Teng Fei](img\icon_small.jpg)  
+![a pixelated photo of Teng Fei](img\icon_small.jpg "Fei Teng")  
 
 博士， 武汉大学资源与环境科学学院 副教授  
 研究方向： 城市地理大数据，生态遥感应用，地理信息科学  
