@@ -1,8 +1,8 @@
 ## 费&ensp;&ensp;腾  
 
-<img src='img\icon.jpg' style=' float:right; width:120px;height: px'/>
+<img src='img\icon.jpg' style=' float:right; width:150px;height: px'/>
 
-博士， 武汉大学资源与环境科学学院 副教授  
+博士， 武汉大学 资源与环境科学学院 副教授  
 研究方向： 城市地理大数据，生态遥感应用，地理信息科学  
 Email: feiteng[@]whu.edu.cn  
 
@@ -39,7 +39,7 @@ Twente University, the Netherlands, PhD
 - 遥感实习
 - 新生讨论课
 - 地理信息科学进展
-- 资源环境遥感（研究生）
+- 资源环境遥感（硕）
 
 ---
 
