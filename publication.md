@@ -27,7 +27,7 @@ Kong, W., **Fei, T.***., Jencks, T. (2021). Emotion and color in paintings: a no
 
 Yu X., **T. Fei**, X. Li*. (2021) Analyzing the association between emotions and socioeconomic characteristics of census tracts via user-generated content. Transactions in GIS. 2021; 00:1–16.  https://doi.org/10.1111/tgis.12718 [情绪地理]
 
-Zhang, S, **T. Fei**, You, X, Wan, Y, Wang, Y, Bian, M. Two hyperspectral indices for detecting cadmium and lead contamination from arice canopy spectrum. Land Degrad Dev. 2020; 1– 13. https://doi.org/10.1002/ldr.3721 [生态遥感]
+Zhang, S, **T. Fei***, You, X, Wan, Y, Wang, Y, Bian, M.* Two hyperspectral indices for detecting cadmium and lead contamination from arice canopy spectrum. Land Degrad Dev. 2020; 1– 13. https://doi.org/10.1002/ldr.3721 [生态遥感]
 
 Zhou, C., Kang, R., Liang, S., **Fei, T.**, Li, Y., Su, L., Li, L., Ye, L., Zhang, Y., Yuan, D.*, 2021. Risk Factors of Drug Resistance and the Potential Risk of HIV-1 Transmission of Patients with ART Virological Failure: A Population-Based Study in Sichuan, China. IDR Volume 14, 5219–5233. https://doi.org/10.2147/IDR.S334598
 
@@ -41,7 +41,7 @@ Wanjuan Bie, **Teng Fei***, Xinyu Liu, Huizeng Liu; Guofeng Wu (2020) Small wate
 
 蔡忠亮，翁敏，苏世亮，亢孟军，**费腾**，天晶，任福. ”地理素养与测绘技能“双驱动的GIS专业大学生创新能力培养模式的探索[J]，测绘通报，2020（8）:148 - 152. DOI: 10.13474/j-enki.11-2246.2020.0268
 
-Wang B, **Fei T***, Kang Y, Li M, Du Q*, Han M, et al. (2020) Understanding the spatial dimension of natural language by measuring the spatial semantic similarity of words through a scalable geospatial context window. PLoS ONE 15 (7): e0236347. https://doi.org/10.1371/journal. pone.0236347 [空间大数据]
+Wang B., **Fei T.***, Kang Y., Li M., Du Q.*, et al. (2020) Understanding the spatial dimension of natural language by measuring the spatial semantic similarity of words through a scalable geospatial context window. PLoS ONE 15 (7): e0236347. https://doi.org/10.1371/journal. pone.0236347 [地理大数据]
 
 S. Yang,X. Chen, L. Wang, T. Wu, **T. Fei**, Q. Xiao, G. Zhang, Y. Ning*, P.Jia*，(2020), Walkability indices and childhood obesity: A review of epidemiologic evidence，Obesity reviews, https://doi.org/10.1111/obr.13096 [健康地理]
 
