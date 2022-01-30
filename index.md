@@ -1,6 +1,6 @@
-# 费&ensp;腾  
-# 学 生
-<p align="right">![a pixelated photo of Teng Fei](img\icon_small.jpg "Fei Teng") </p>
+# 费&ensp;&ensp;腾  
+
+![a pixelated photo of Teng Fei](img\icon_small.jpg#pic_right "Fei Teng" ) 
 
 博士， 武汉大学资源与环境科学学院 副教授  
 研究方向： 城市地理大数据，生态遥感应用，地理信息科学  
@@ -33,7 +33,7 @@ Twente University, the Netherlands, PhD
 
 2010/07 - 2012/06，武汉大学，资源与环境科学学院，博士后研究  
 
-## 教授课程：
+## 讲授课程：
 
 - 遥感概论
 - 遥感实习
