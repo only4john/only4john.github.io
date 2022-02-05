@@ -19,7 +19,7 @@
 
 ---
 
-## 合作过的硕士生:
+## 合作过的硕士生: <img src='img\church.jpg' style=' float:right; width:450px;height: px'/>  
 
 王继伟 
 罗娟娟 
