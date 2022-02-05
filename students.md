@@ -8,7 +8,7 @@
 
 请大家即使毕业了也继续提供和update自己的页面~ 帮助我们keep the list alive.
 
-## 有个人主页的学生：
+## 有个人主页的学生：<img src='img\church.jpg' style=' float:right; width:200px;height: px'/> 
 
 黄颖菁：www.researchgate.net/profile/Yingjing_Huang
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 合作过的硕士生: <img src='img\church.jpg' style=' float:right; width:200px;height: px'/>  
+## 合作过的硕士生:  
 
 王继伟 
 罗娟娟 
