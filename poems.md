@@ -188,4 +188,4 @@ disappeared in vain
 而是  
 来由  
 
-<img src='img\church.jpg' style=' float:right; width:450px;height: px'/>  
+<img src='img\church.jpg' style=' float:right,top; width:450px;'/>  
