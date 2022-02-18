@@ -12,13 +12,10 @@ Email: feiteng[at]whu.edu.cn
 
 ## 受教育经历：
 
-2006/09-2013/03， 武汉大学，资源与环境科学学院，博士  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-Twente University, the Netherlands, PhD  
-
-2004/09-2006/06， International Institute for Geo-Information Science and Earth Observation (ITC)，the Netherlands, MSc 科学硕士  
-
-1999/09-2003/06， 武汉大学，遥感信息工程学院，学士  
+武汉大学，资源与环境科学学院，博士  
+Twente University, the Netherlands, PhD 哲学博士
+International Institute for Geo-Information Science and Earth Observation (ITC)，the Netherlands, MSc 科学硕士  
+武汉大学，遥感信息工程学院，学士  
 
 ## 研究工作经历：
 
