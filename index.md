@@ -38,6 +38,6 @@ International Institute for Geo-Information Science and Earth Observation (ITC)�
 
 ---
 
-硕士研究生招生方向：地图学与地理信息科学/测绘工程 
+硕士研究生招生方向：地图学与地理信息科学 （抱歉2022年没有名额了）
 
 _本人患有先天性面容失认症(prosop-agnosia)，俗称脸盲，请多理解!_
