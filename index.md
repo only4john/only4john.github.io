@@ -13,7 +13,7 @@ Email: feiteng[at]whu.edu.cn
 ## 受教育经历：
 
 武汉大学，资源与环境科学学院，博士  
-Twente University, the Netherlands, PhD 哲学博士  
+Twente University, the Netherlands, PhD 哲学博士
 International Institute for Geo-Information Science and Earth Observation (ITC)，the Netherlands, MSc 科学硕士  
 武汉大学，遥感信息工程学院，学士  
 
@@ -38,6 +38,6 @@ International Institute for Geo-Information Science and Earth Observation (ITC)�
 
 ---
 
-硕士研究生招生方向：地图学与地理信息科学 （抱歉2022年没有名额了）
+硕士研究生招生方向：地图学与地理信息科学 
 
-_本人患有先天性面容失认症(prosop-agnosia)，俗称脸盲，请多理解!_
+_本人患有先天性面容失认症(prosop-agnosia)，俗称脸盲_
