@@ -3,6 +3,7 @@
 ## 发表论文（ * 为通讯作者）
 
 --- 2022 ---
+Yuhao Kang, Kunlin Wu, Song Gao*, Ignavier Ng, Jinmeng Rao, Shan Ye, Fan Zhang & **Teng Fei** (2022) STICC: a multivariate spatial clustering method for repeated geographic pattern discovery with consideration of spatial contiguity, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2022.2053980
 
 Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.***, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.[生态遥感]
 
@@ -80,7 +81,7 @@ W. Kong, J. Cheng, X. Liu, F. Zhang, and **T. Fei*** (2019), "Incorporating noct
 
 Chen Jia, Yunyan Du, Siying Wang, Tianyang Bai, **Teng Fei*** (2019), "Measuring the vibrancy of urban neighborhoods using mobile phone data with an improved PageRank algorithm", Transascions in GIS, 23(2): 241 - 258 [城市活力]
 
-王梦雪,李俊,贾清源,**费腾*** (2019). ""基于内容和协同过滤的英语创意写作推荐系统."" 计算机应用与软件, 2019, 36 (2): 98 -102. [为了好玩]
+王梦雪,李俊,贾清源,**费腾*** (2019). 基于内容和协同过滤的英语创意写作推荐系统, 计算机应用与软件, 2019, 36 (2): 98 -102. [为了好玩]
 
 
 --- 2018 ---
