@@ -102,20 +102,20 @@ Y Kang, Zeng X, hang Z, and **T Fei*** (2018) "Who are happier? Spatial-temporal
 
 张双印, 王云将, 欧阳炜 and **费腾*** (2018). ""基于成像高光谱数据的温室水稻重金属胁迫诊断研究."" 安徽农业科学 46(1): 5-9.[生态遥感]
 
-邹祺玥，孔文苑，**费腾*** (2018). ""基于改进人工蚁群算法的公园道路涌现式规划."" 地理信息世界,131(25):103 - 108
+邹祺玥，孔文苑，**费腾*** (2018). 基于改进人工蚁群算法的公园道路涌现式规划." 地理信息世界,131(25):103 - 108
 
-Peng, H., Y. Du, Z. Liu, J. Yi, Y. Kang and **T. Fei** (2018). ""Uncovering patterns of ties among regions within metropolitan areas using data from mobile phones and online mass media."" GeoJournal，https://doi.org/10.1007/s10708-018-9885-0: 1-17.[空间大数据]
+Peng, H., Y. Du, Z. Liu, J. Yi, Y. Kang and **T. Fei** (2018). Uncovering patterns of ties among regions within metropolitan areas using data from mobile phones and online mass media." GeoJournal，https://doi.org/10.1007/s10708-018-9885-0: 1-17.[空间大数据]
 
 
 --- 2017 ---
 
-Y Kang, J Wang, Y Wang, S Angsuesser and T Fei* (2017) ""Mapping the Sensitivity of the Public Emotion to the Movement of Stock Market Value: A Case Study of Manhattan."", International Archives of the Photogrammetry, Remote Sensing; Spatial Information Sciences,XLII-2/W7:1213-1221.[情绪地理]
+Y Kang, J Wang, Y Wang, S Angsuesser and T Fei* (2017), Mapping the Sensitivity of the Public Emotion to the Movement of Stock Market Value: A Case Study of Manhattan, International Archives of the Photogrammetry, Remote Sensing; Spatial Information Sciences,XLII-2/W7:1213-1221.[情绪地理]
 
-陈奕云, 齐天赐, 黄颖菁, 万远, 赵瑞瑛, 亓林, 张超 and **费腾** (2017). "土壤有机质含量可见-近红外光谱反演模型校正集优选方法."" Transactions of the Chinese Society of Agricultural Engineering 33(6). [生态遥感]
+陈奕云, 齐天赐, 黄颖菁, 万远, 赵瑞瑛, 亓林, 张超 and **费腾** (2017), 土壤有机质含量可见-近红外光谱反演模型校正集优选方法, Transactions of the Chinese Society of Agricultural Engineering 33(6). [生态遥感]
 
-刘潇, 蔡忠亮, 卢威, 何建华 and **费腾** (2017). ""欧洲地理学研究生课程体系分析及借鉴."" 地理空间信息 12: 034.
+刘潇, 蔡忠亮, 卢威, 何建华 and **费腾** (2017), 欧洲地理学研究生课程体系分析及借鉴. 地理空间信息 12: 034.
 
-Liu, H., T. Shi, Y. Chen, J. Wang, **T. Fei** and G. Wu (2017). ""Improving spectral estimation of soil organic carbon content through semi-supervised regression."" Remote Sensing 9(1): 29.[生态遥感]
+Liu, H., T. Shi, Y. Chen, J. Wang, **T. Fei** and G. Wu (2017), Improving spectral estimation of soil organic carbon content through semi-supervised regression. Remote Sensing 9(1): 29.[生态遥感]
 
 Chen, Y., T. Qi, Y. Huang, Y. Wan, R. Zhao, L. Qi, C. Zhang and **T. Fei** (2017). ""Optimization method of calibration dataset for VIS-NIR spectral inversion model of soil organic matter content."" Transactions of the Chinese Society of Agricultural Engineering 33(6): 107-114. [生态遥感]
 
