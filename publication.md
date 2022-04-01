@@ -2,7 +2,8 @@
 
 ## 发表论文（ * 为通讯作者）
 
---- 2022 ---
+--- 2022 ---  
+
 Yuhao Kang, Kunlin Wu, Song Gao*, Ignavier Ng, Jinmeng Rao, Shan Ye, Fan Zhang & **Teng Fei** (2022), STICC: a multivariate spatial clustering method for repeated geographic pattern discovery with consideration of spatial contiguity, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2022.2053980
 
 Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.***, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.[生态遥感]
