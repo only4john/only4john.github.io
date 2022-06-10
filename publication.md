@@ -30,11 +30,11 @@ Jun Li, Jian Wang, Stephen Nicholas, Elizabeth Maitland, **Teng Fei*** (2021) Re
 
 Jia, Chen; Liu, Yuefeng; Du, Yunyan; Huang, Jianfeng, **Fei, Teng***. (2021). "Evaluation of Urban Vibrancy and Its Relationship with the Economic Landscape: A Case Study of Beijing" ISPRS Int. J. Geo-Inf. 10, no. 2: 72. https://doi.org/10.3390/ijgi10020072 [城市活力]
 
-Kong, W., **Fei, T.***., Jencks, T. (2021). Emotion and color in paintings: a novel temporal and spatial quantitative perspective.https://arxiv.org/abs/2102.00407 [情绪艺术史]
+Kong, W., **Fei, T.***, Jencks, T. (2021). Emotion and color in paintings: a novel temporal and spatial quantitative perspective.https://arxiv.org/abs/2102.00407 [情绪艺术史]
 
 Yu X., **T. Fei**, X. Li*. (2021) Analyzing the association between emotions and socioeconomic characteristics of census tracts via user-generated content. Transactions in GIS. 2021; 00:1–16.  https://doi.org/10.1111/tgis.12718 [情绪地理]
 
-Zhang, S, **T. Fei***, You, X, Wan, Y, Wang, Y, Bian, M.* Two hyperspectral indices for detecting cadmium and lead contamination from arice canopy spectrum. Land Degrad Dev. 2020; 1– 13. https://doi.org/10.1002/ldr.3721 [生态遥感]
+Zhang, S, **T. Fei ***, You, X, Wan, Y, Wang, Y, Bian, M.* Two hyperspectral indices for detecting cadmium and lead contamination from arice canopy spectrum. Land Degrad Dev. 2020; 1– 13. https://doi.org/10.1002/ldr.3721 [生态遥感]
 
 Zhou, C., Kang, R., Liang, S., **Fei, T.**, Li, Y., Su, L., Li, L., Ye, L., Zhang, Y., Yuan, D.*, 2021. Risk Factors of Drug Resistance and the Potential Risk of HIV-1 Transmission of Patients with ART Virological Failure: A Population-Based Study in Sichuan, China. IDR Volume 14, 5219–5233. https://doi.org/10.2147/IDR.S334598
 
