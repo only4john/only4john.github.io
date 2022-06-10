@@ -4,7 +4,7 @@
 
 --- 2022 ---  
 
-Shuangyin Zhang, **Teng Fei**, Yiyun Chen, Yongsheng Hong, (2022). Estimating cadmium-lead concentrations in rice blades through fractional order derivatives of foliar spectra,
+Shuangyin Zhang, **Teng Fei***, Yiyun Chen, Yongsheng Hong, (2022). Estimating cadmium-lead concentrations in rice blades through fractional order derivatives of foliar spectra,
 Biosystems Engineering, Volume 219, 2022, 177-188, https://doi.org/10.1016/j.biosystemseng.2022.04.023.
 
 Siying Wang, **Teng Fei**, Weifeng Li, Anqi Zhang, Huagui Guo & Yunyan Du*, (2022). Incorporation of intra-city human mobility into urban growth simulation: A case study in Beijing,  J. Geogr. Sci. 32, 892 - 912, https://doi.org/10.1007/s11442-022-1977-6
