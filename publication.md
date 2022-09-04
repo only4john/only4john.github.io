@@ -73,7 +73,7 @@ Zhang S.Y, Y. Zhu*,M. Wang 1*, and **T. Fei**  (2019). Selection of the Optimal 
 
 李瀚祺,贾鹏,**费腾*** （2019）. 基于众源数据挖掘的中国饮食口味与慢性病的空间关联[J]. 地理学报. 74(8): 1637-1649. [健康地理]
 
-Yizhuo Li, **Teng Fei*** and Fan Zhang (2019) A regionalization method for clustering and partitioning based on trajectories from NLP perspective, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2019.1643025 [空间大数据]
+Yizhuo Li, **Teng Fei*** and Fan Zhang (2019) A regionalization method for clustering and partitioning based on trajectories from NLP perspective, International Journal of Geographical Information Science, 33:12, 2385-2405, DOI: 10.1080/13658816.2019.1643025 [空间大数据]
 
 Kang, Y., Q. Jia, S. Gao*, X. Zeng, Y. Wang, S. Angsuesser, Y. Liu, X. Ye and **T. Fei*** (2019), Extracting human emotions at different places based on facial expressions and spatial clustering analysis. Transaction in GIS. 23(3): p. 450-480. [情绪地理]
 
