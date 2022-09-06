@@ -18,7 +18,7 @@ Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.***, (2022). Sma
 
 卞萌, 郭树毅, 王威, 欧阳昱晖*, 黄颖菁, **费腾**.(2021) 融合植被遥感数据的北京市次日花粉浓度预测[J]. 地球信息科学学报, 23(9): 1705-1713.DOI:10.12082/dqxxkx.2021.200475 [生态遥感]
 
-Yuan, D., Yu, B., Liang, S., **Fei, T.** *, Tang, H., Kang, R., Li, Y., Ye, L., Jia, P. *, Yang, S.*, 2022. HIV-1 genetic transmission networks among people living with HIV/AIDS in Sichuan, China: a genomic and spatial epidemiological analysis. The Lancet Regional Health - Western Pacific 18, 100318. https://doi.org/10.1016/j.lanwpc.2021.100318 [健康地理]
+Yuan, D., Yu, B., Liang, S., **Fei, Teng***, Tang, H., Kang, R., Li, Y., Ye, L., Jia, Peng*, Yang, Shujuan*, 2022. HIV-1 genetic transmission networks among people living with HIV/AIDS in Sichuan, China: a genomic and spatial epidemiological analysis. The Lancet Regional Health - Western Pacific 18, 100318. https://doi.org/10.1016/j.lanwpc.2021.100318 [健康地理]
 
 Ziyu Liu and **Teng Fei***. (2021) Road PV production estimation at city scale: A predictive model towards feasible assessing regional energy generation from solar roads. Journal of Cleaner Production. 321:129010. https://doi.org/10.1016/j.jclepro.2021.129010  [光伏产能]
 
