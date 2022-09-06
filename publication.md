@@ -4,14 +4,14 @@
 
 --- 2022 ---  
 
-Shuangyin Zhang, **Teng Fei***, Yiyun Chen, Yongsheng Hong, (2022). Estimating cadmium-lead concentrations in rice blades through fractional order derivatives of foliar spectra,
+Shuangyin Zhang, **Teng Fei**\*, Yiyun Chen, Yongsheng Hong, (2022). Estimating cadmium-lead concentrations in rice blades through fractional order derivatives of foliar spectra,
 Biosystems Engineering, Volume 219, 2022, 177-188, https://doi.org/10.1016/j.biosystemseng.2022.04.023.
 
 Siying Wang, **Teng Fei**, Weifeng Li, Anqi Zhang, Huagui Guo & Yunyan Du*, (2022). Incorporation of intra-city human mobility into urban growth simulation: A case study in Beijing,  J. Geogr. Sci. 32, 892 - 912, https://doi.org/10.1007/s11442-022-1977-6
 
 Yuhao Kang, Kunlin Wu, Song Gao*, Ignavier Ng, Jinmeng Rao, Shan Ye, Fan Zhang & **Teng Fei** ,(2022), STICC: a multivariate spatial clustering method for repeated geographic pattern discovery with consideration of spatial contiguity, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2022.2053980 [空间聚类]
 
-Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.***, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.[生态遥感]
+Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.**\*, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.[生态遥感]
 
 
 --- 2021 ---
@@ -22,19 +22,19 @@ Yuan, D., Yu, B., Liang, S., **Fei, T.**\*, Tang, H., Kang, R., Li, Y., Ye, L., 
 
 Ziyu Liu and **Teng Fei**\*. (2021) Road PV production estimation at city scale: A predictive model towards feasible assessing regional energy generation from solar roads. Journal of Cleaner Production. 321:129010. https://doi.org/10.1016/j.jclepro.2021.129010  [光伏产能]
 
-Kong W, Liao C, Xu Q, Wang J, **Fei T***. (2021) An In-Depth Analysis of Parking Patterns in a Typical Chinese Danwei via Customized Data Collection App. ISPRS International Journal of Geo-Information. 10(8):567. https://doi.org/10.3390/ijgi10080567 [校园停车]
+Kong W, Liao C, Xu Q, Wang J, **Fei T**\*. (2021) An In-Depth Analysis of Parking Patterns in a Typical Chinese Danwei via Customized Data Collection App. ISPRS International Journal of Geo-Information. 10(8):567. https://doi.org/10.3390/ijgi10080567 [校园停车]
 
-Li, Y.,  **Fei, T.***,  Wang, J.*,  Nicholas, S.,  Li, J.,  Xu, L., et al. (2021).  Influencing indicators and spatial variation of diabetes mellitus prevalence in Shandong, China: A framework for using data‐driven and spatial methods.GeoHealth, 5, e2020GH000320. https://doi.org/10.1029/2020GH000320 [健康地理]
+Li, Y.,  **Fei, T.**\*,  Wang, J.*,  Nicholas, S.,  Li, J.,  Xu, L., et al. (2021).  Influencing indicators and spatial variation of diabetes mellitus prevalence in Shandong, China: A framework for using data‐driven and spatial methods.GeoHealth, 5, e2020GH000320. https://doi.org/10.1029/2020GH000320 [健康地理]
 
-Jun Li, Jian Wang, Stephen Nicholas, Elizabeth Maitland, **Teng Fei*** (2021) Regional differences of hepatitis B discrimination in rural China, Human Vaccines and Immunotherapeutics, DOI: 10.1080/21645515.2020.1853999 [健康地理]
+Jun Li, Jian Wang, Stephen Nicholas, Elizabeth Maitland, **Teng Fei**\* (2021) Regional differences of hepatitis B discrimination in rural China, Human Vaccines and Immunotherapeutics, DOI: 10.1080/21645515.2020.1853999 [健康地理]
 
-Jia, Chen; Liu, Yuefeng; Du, Yunyan; Huang, Jianfeng, **Fei, Teng***. (2021). "Evaluation of Urban Vibrancy and Its Relationship with the Economic Landscape: A Case Study of Beijing" ISPRS Int. J. Geo-Inf. 10, no. 2: 72. https://doi.org/10.3390/ijgi10020072 [城市活力]
+Jia, Chen; Liu, Yuefeng; Du, Yunyan; Huang, Jianfeng, **Fei, Teng**\*. (2021). "Evaluation of Urban Vibrancy and Its Relationship with the Economic Landscape: A Case Study of Beijing" ISPRS Int. J. Geo-Inf. 10, no. 2: 72. https://doi.org/10.3390/ijgi10020072 [城市活力]
 
-Kong, W., **Fei, T.***, Jencks, T. (2021). Emotion and color in paintings: a novel temporal and spatial quantitative perspective.https://arxiv.org/abs/2102.00407 [情绪艺术史]
+Kong, W., **Fei, T.**\*, Jencks, T. (2021). Emotion and color in paintings: a novel temporal and spatial quantitative perspective.https://arxiv.org/abs/2102.00407 [情绪艺术史]
 
 Yu X., **T. Fei**, X. Li*. (2021) Analyzing the association between emotions and socioeconomic characteristics of census tracts via user-generated content. Transactions in GIS. 2021; 00:1–16.  https://doi.org/10.1111/tgis.12718 [情绪地理]
 
-Zhang, S, **T. Fei ***, You, X, Wan, Y, Wang, Y, Bian, M.* Two hyperspectral indices for detecting cadmium and lead contamination from arice canopy spectrum. Land Degrad Dev. 2020; 1– 13. https://doi.org/10.1002/ldr.3721 [生态遥感]
+Zhang, S, **T. Fei **\*, You, X, Wan, Y, Wang, Y, Bian, M.* Two hyperspectral indices for detecting cadmium and lead contamination from arice canopy spectrum. Land Degrad Dev. 2020; 1– 13. https://doi.org/10.1002/ldr.3721 [生态遥感]
 
 Zhou, C., Kang, R., Liang, S., **Fei, T.**, Li, Y., Su, L., Li, L., Ye, L., Zhang, Y., Yuan, D.*, 2021. Risk Factors of Drug Resistance and the Potential Risk of HIV-1 Transmission of Patients with ART Virological Failure: A Population-Based Study in Sichuan, China. IDR Volume 14, 5219–5233. https://doi.org/10.2147/IDR.S334598
 
@@ -44,25 +44,25 @@ Huang, Y., **Fei T**.*, Kwan, M.-P., Kang, Y., Li, J., Li, Y., Li, X., Bian, M. 
 
 李响,杨飞,王丽娜,俞鑫楷,**费腾**,江南.网络空间地图制图方法研究综述[J].测绘科学技术学报,2019,36(06):620-631.
 
-Wanjuan Bie, **Teng Fei***, Xinyu Liu, Huizeng Liu; Guofeng Wu (2020) Small water bodies mapped from Sentinel-2 MSI (MultiSpectral Imager) imagery with higher accuracy, International Journal of Remote Sensing, 41:20, 7912-7930, DOI: 10.1080/01431161.2020.1766150 [生态遥感]
+Wanjuan Bie, **Teng Fei**\*, Xinyu Liu, Huizeng Liu; Guofeng Wu (2020) Small water bodies mapped from Sentinel-2 MSI (MultiSpectral Imager) imagery with higher accuracy, International Journal of Remote Sensing, 41:20, 7912-7930, DOI: 10.1080/01431161.2020.1766150 [生态遥感]
 
 蔡忠亮，翁敏，苏世亮，亢孟军，**费腾**，天晶，任福. ”地理素养与测绘技能“双驱动的GIS专业大学生创新能力培养模式的探索[J]，测绘通报，2020（8）:148 - 152. DOI: 10.13474/j-enki.11-2246.2020.0268
 
-Wang B., **Fei T.***, Kang Y., Li M., Du Q.*, et al. (2020) Understanding the spatial dimension of natural language by measuring the spatial semantic similarity of words through a scalable geospatial context window. PLoS ONE 15 (7): e0236347. https://doi.org/10.1371/journal. pone.0236347 [地理大数据]
+Wang B., **Fei T.**\*, Kang Y., Li M., Du Q.*, et al. (2020) Understanding the spatial dimension of natural language by measuring the spatial semantic similarity of words through a scalable geospatial context window. PLoS ONE 15 (7): e0236347. https://doi.org/10.1371/journal. pone.0236347 [地理大数据]
 
 S. Yang,X. Chen, L. Wang, T. Wu, **T. Fei**, Q. Xiao, G. Zhang, Y. Ning*, P.Jia*，(2020), Walkability indices and childhood obesity: A review of epidemiologic evidence，Obesity reviews, https://doi.org/10.1111/obr.13096 [健康地理]
 
 M.Luo, H.Li, X.Pan, **T. Fei**, S.Dai, G.Qiu, Y.Zou, H.Vos, J.Luo* and P.Jia*. (2020). Neighbourhood speed limit and childhood obesity. Obesity Reviews. 2020; 1– 11. https://doi.org/10.1111/obr.13052 [健康地理]
 
-Li, H., Jia, P.; **Fei, T.***. (2020). Associations between taste preferences and chronic diseases: A population-based exploratory study in China. Public Health Nutrition, 1-12. doi:10.1017/S136898002000035X [健康地理]
+Li, H., Jia, P.; **Fei, T.**\*. (2020). Associations between taste preferences and chronic diseases: A population-based exploratory study in China. Public Health Nutrition, 1-12. doi:10.1017/S136898002000035X [健康地理]
 
-Yizhuo Li, **T. Fei***, Y. Huang, J. Li, X. Li, F. Zhang, Y. Kang, G. Wu (2020). Emotional habitat: mapping the global geographic distribution of human emotion with physical environmental factors using a species distribution model, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2020.1755040 [情绪地理]
+Yizhuo Li, **T. Fei**\*, Y. Huang, J. Li, X. Li, F. Zhang, Y. Kang, G. Wu (2020). Emotional habitat: mapping the global geographic distribution of human emotion with physical environmental factors using a species distribution model, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2020.1755040 [情绪地理]
 
-Huang Yinjing, J. Li, G. Wu, **T. Fei***, (2020). Quantifying the bias in place emotion extracted from photos on social networking sites: A case study on a university campus, Cities, DOI: https://doi.org/10.1016/j.cities.2020.102719 [情绪地理]
+Huang Yinjing, J. Li, G. Wu, **T. Fei**\*, (2020). Quantifying the bias in place emotion extracted from photos on social networking sites: A case study on a university campus, Cities, DOI: https://doi.org/10.1016/j.cities.2020.102719 [情绪地理]
 
-Wang, Jingmeng and **Fei, Teng***, Does Listening to Pop Music Help Build English Vocabulary? (2020). Available at SSRN: https://ssrn.com/abstract=3543127 [为了好玩]
+Wang, Jingmeng and **Fei, Teng**\*, Does Listening to Pop Music Help Build English Vocabulary? (2020). Available at SSRN: https://ssrn.com/abstract=3543127 [为了好玩]
 
-Zhang, S.; Li, J.; Wang, S.; Huang, Y.; Li, Y.; Chen, Y.; **Fei, T.*** (2020). Repaid Identification and Prediction of Cadmium–Lead Cross-Stress of Different Stress Levels in Rice Canopy Based on Visible and Near-Infrared Spectroscopy. Remote Sensing, 2020, 12, 469. [生态遥感]
+Zhang, S.; Li, J.; Wang, S.; Huang, Y.; Li, Y.; Chen, Y.; **Fei, T.**\* (2020). Repaid Identification and Prediction of Cadmium–Lead Cross-Stress of Different Stress Levels in Rice Canopy Based on Visible and Near-Infrared Spectroscopy. Remote Sensing, 2020, 12, 469. [生态遥感]
 
 Xu, L.; Hong, Y.; Wei, Y.; Guo, L.; Shi, T.; Liu, Y.; Jiang, Q.; **Fei, T.**; Liu, Y.; Mouazen, A.M.; Chen, Y*.（2020） Estimation of Organic Carbon in Anthropogenic Soil by VIS-NIR Spectroscopy: Effect of Variable Selection. Remote Sens. 2020, 12, 3394.  [生态遥感]
 
@@ -71,44 +71,44 @@ Xu, L.; Hong, Y.; Wei, Y.; Guo, L.; Shi, T.; Liu, Y.; Jiang, Q.; **Fei, T.**; Li
 
 Zhang S.Y, Y. Zhu*,M. Wang 1*, and **T. Fei**  (2019). Selection of the Optimal Spectral Resolution for the Cadmium-Lead Cross Contamination Diagnosing Based on the Hyperspectral Reflectance of Rice Canopy, Sensors 2019, 19(18), 3889 [生态遥感]
 
-李瀚祺,贾鹏,**费腾*** （2019）. 基于众源数据挖掘的中国饮食口味与慢性病的空间关联[J]. 地理学报. 74(8): 1637-1649. [健康地理]
+李瀚祺,贾鹏,**费腾**\* （2019）. 基于众源数据挖掘的中国饮食口味与慢性病的空间关联[J]. 地理学报. 74(8): 1637-1649. [健康地理]
 
-Yizhuo Li, **Teng Fei*** and Fan Zhang (2019) A regionalization method for clustering and partitioning based on trajectories from NLP perspective, International Journal of Geographical Information Science, 33:12, 2385-2405, DOI: 10.1080/13658816.2019.1643025 [空间大数据]
+Yizhuo Li, **Teng Fei**\* and Fan Zhang (2019) A regionalization method for clustering and partitioning based on trajectories from NLP perspective, International Journal of Geographical Information Science, 33:12, 2385-2405, DOI: 10.1080/13658816.2019.1643025 [空间大数据]
 
-Kang, Y., Q. Jia, S. Gao*, X. Zeng, Y. Wang, S. Angsuesser, Y. Liu, X. Ye and **T. Fei*** (2019), Extracting human emotions at different places based on facial expressions and spatial clustering analysis. Transaction in GIS. 23(3): p. 450-480. [情绪地理]
+Kang, Y., Q. Jia, S. Gao*, X. Zeng, Y. Wang, S. Angsuesser, Y. Liu, X. Ye and **T. Fei**\* (2019), Extracting human emotions at different places based on facial expressions and spatial clustering analysis. Transaction in GIS. 23(3): p. 450-480. [情绪地理]
 
-Yuanwen Yue, Jiaqi Ding, Yuhao Kang, Yueyao Wang, Kunlin Wu, and **Teng Fei***. 2019. A location-based social network system integrating mobile augmented reality and user generated content. In Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Location-based Recommendations, Geosocial Networks and Geoadvertising (LocalRec '19). Association for Computing Machinery, New York, NY, USA, Article 12, 1–4. DOI:https://doi.org/10.1145/3356994.3365507 （顶会优秀短论文奖）[现实增强]
+Yuanwen Yue, Jiaqi Ding, Yuhao Kang, Yueyao Wang, Kunlin Wu, and **Teng Fei**\*. 2019. A location-based social network system integrating mobile augmented reality and user generated content. In Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Location-based Recommendations, Geosocial Networks and Geoadvertising (LocalRec '19). Association for Computing Machinery, New York, NY, USA, Article 12, 1–4. DOI:https://doi.org/10.1145/3356994.3365507 （顶会优秀短论文奖）[现实增强]
 
 Liu, Y.; Liu, Y.; Chen, Y.; Zhang, Y.; Shi, T.; Wang, J.; Hong, Y.; **Fei, T.**; Zhang, Y.  (2019) The Influence of Spectral Pretreatment on the Selection of Representative Calibration Samples for Soil Organic Matter Estimation Using Vis-NIR Reflectance Spectroscopy. Remote Sens. 11, 450. [生态遥感]
 
-Ziyu Liu, Anqi Yang, Mengyao Gao, Hong Jiang, Yuhao Kang, Fan Zhang, **Teng Fei*** (2019), "Towards feasibility of photovoltaic road for urban traffic-solar energy estimation using street view image", Journal of Cleaner Production, 228, 303-318 [光伏产能]
+Ziyu Liu, Anqi Yang, Mengyao Gao, Hong Jiang, Yuhao Kang, Fan Zhang, **Teng Fei**\* (2019), "Towards feasibility of photovoltaic road for urban traffic-solar energy estimation using street view image", Journal of Cleaner Production, 228, 303-318 [光伏产能]
 
-W. Kong, J. Cheng, X. Liu, F. Zhang, and **T. Fei*** (2019), "Incorporating nocturnal uav side-view images with viirs data for accurate population estimation: a test at the urban administrative district scale". International Journal of Remote Sensing, 05, 1–19. [夜景遥感/侧视遥感]
+W. Kong, J. Cheng, X. Liu, F. Zhang, and **T. Fei**\* (2019), "Incorporating nocturnal uav side-view images with viirs data for accurate population estimation: a test at the urban administrative district scale". International Journal of Remote Sensing, 05, 1–19. [夜景遥感/侧视遥感]
 
-Chen Jia, Yunyan Du, Siying Wang, Tianyang Bai, **Teng Fei*** (2019), "Measuring the vibrancy of urban neighborhoods using mobile phone data with an improved PageRank algorithm", Transascions in GIS, 23(2): 241 - 258 [城市活力]
+Chen Jia, Yunyan Du, Siying Wang, Tianyang Bai, **Teng Fei**\* (2019), "Measuring the vibrancy of urban neighborhoods using mobile phone data with an improved PageRank algorithm", Transascions in GIS, 23(2): 241 - 258 [城市活力]
 
-王梦雪,李俊,贾清源,**费腾*** (2019). 基于内容和协同过滤的英语创意写作推荐系统, 计算机应用与软件, 2019, 36 (2): 98 -102. [为了好玩]
+王梦雪,李俊,贾清源,**费腾**\* (2019). 基于内容和协同过滤的英语创意写作推荐系统, 计算机应用与软件, 2019, 36 (2): 98 -102. [为了好玩]
 
 
 --- 2018 ---
 
-Wang, S., Y. Du, C. Jia, M. Bian and **T. Fei*** (2018). "Integrating algebraic multigrid method in spatial aggregation of massive trajectory data." International Journal of Geographical Information Science: 1-20. [空间大数据]
+Wang, S., Y. Du, C. Jia, M. Bian and **T. Fei**\* (2018). "Integrating algebraic multigrid method in spatial aggregation of massive trajectory data." International Journal of Geographical Information Science: 1-20. [空间大数据]
 
-Tu, Y., M. Bian, Y. Wan and **T. Fei*** (2018). "Tea cultivar classification and biochemical parameter estimation from hyperspectral imagery obtained by UAV." PeerJ 6: e4858. [生态遥感]
+Tu, Y., M. Bian, Y. Wan and **T. Fei**\* (2018). "Tea cultivar classification and biochemical parameter estimation from hyperspectral imagery obtained by UAV." PeerJ 6: e4858. [生态遥感]
 
-Zhang, Shuang-Yin; **Fei, Teng***; Ran, Yan-Hong (2018), “Diagnosis of heavy metal cross contamination in leaf of rice based on hyperspectral image : a greenhouse experiment”，proceedings of the 2018 ieee international conference on advanced manufacturing (ieee icam): 159-162 [生态遥感]
+Zhang, Shuang-Yin; **Fei, Teng**\*; Ran, Yan-Hong (2018), “Diagnosis of heavy metal cross contamination in leaf of rice based on hyperspectral image : a greenhouse experiment”，proceedings of the 2018 ieee international conference on advanced manufacturing (ieee icam): 159-162 [生态遥感]
 
-康雨豪，王玥瑶，高梦泽，彭建，张晶 and **费腾*** (2018). "基于虚拟现实技术的电子地图系统设计", 测绘地理信息, 43(6),16-18.
+康雨豪，王玥瑶，高梦泽，彭建，张晶 and **费腾**\* (2018). "基于虚拟现实技术的电子地图系统设计", 测绘地理信息, 43(6),16-18.
 
-刘子煜，朱正，安方军，康雨豪，陈慧瑕，郑斯元，戴晓瑜 and **费腾*** (2018). "手势识别技术在智能家居中的应用研究." 计算机应用研究,23
+刘子煜，朱正，安方军，康雨豪，陈慧瑕，郑斯元，戴晓瑜 and **费腾**\* (2018). "手势识别技术在智能家居中的应用研究." 计算机应用研究,23
 
-Y Kang, Zeng X, hang Z, and **T Fei*** (2018) "Who are happier? Spatial-temporal analysis of worldwide human emotion based on geocrowdsourcing faces. UPINLBS 2018. [情绪地理]
+Y Kang, Zeng X, hang Z, and **T Fei**\* (2018) "Who are happier? Spatial-temporal analysis of worldwide human emotion based on geocrowdsourcing faces. UPINLBS 2018. [情绪地理]
 
-王云将 and **费腾*** (2018). ""基于 UHD185 成像光谱仪的茶叶叶绿素含量反演."" 地理空间信息 16(3): 50-53. [生态遥感]
+王云将 and **费腾**\* (2018). ""基于 UHD185 成像光谱仪的茶叶叶绿素含量反演."" 地理空间信息 16(3): 50-53. [生态遥感]
 
-张双印, 王云将, 欧阳炜 and **费腾*** (2018). ""基于成像高光谱数据的温室水稻重金属胁迫诊断研究."" 安徽农业科学 46(1): 5-9.[生态遥感]
+张双印, 王云将, 欧阳炜 and **费腾**\* (2018). ""基于成像高光谱数据的温室水稻重金属胁迫诊断研究."" 安徽农业科学 46(1): 5-9.[生态遥感]
 
-邹祺玥，孔文苑，**费腾*** (2018). 基于改进人工蚁群算法的公园道路涌现式规划." 地理信息世界,131(25):103 - 108
+邹祺玥，孔文苑，**费腾**\* (2018). 基于改进人工蚁群算法的公园道路涌现式规划." 地理信息世界,131(25):103 - 108
 
 Peng, H., Y. Du, Z. Liu, J. Yi, Y. Kang and **T. Fei** (2018). Uncovering patterns of ties among regions within metropolitan areas using data from mobile phones and online mass media." GeoJournal，https://doi.org/10.1007/s10708-018-9885-0: 1-17.[空间大数据]
 
@@ -136,17 +136,17 @@ Jiang, Q.; Chen, Y.; Guo, L.; **Fei, T.**; Qi, K. (2016) Estimating Soil Organic
 
 潘润秋, 罗启源, 肖迪 and **费腾** (2016). ""基于 CLUE-S 模型的深圳海岸带土地利用变化模拟."" 测绘与空间地理信息 39(4): 32-36.[生态遥感]
 
-涂晔昕 and **费腾*** (2016). ""从植被高光谱遥感到土壤重金属污染诊断的研究进展."" 湖北农业科学 55(6): 1361-1368.[生态遥感]
+涂晔昕 and **费腾**\* (2016). ""从植被高光谱遥感到土壤重金属污染诊断的研究进展."" 湖北农业科学 55(6): 1361-1368.[生态遥感]
 
-涂晔昕, 沈玉莲, 卢艺, 邬国锋 and **费腾*** (2016). ""使用多源遥感影像监测深圳市海岸线变迁."" 海洋开发与管理(10): 83-88.[生态遥感]
+涂晔昕, 沈玉莲, 卢艺, 邬国锋 and **费腾**\* (2016). ""使用多源遥感影像监测深圳市海岸线变迁."" 海洋开发与管理(10): 83-88.[生态遥感]
 
-沈玉莲, 肖迪 and **费腾*** (2016). ""深圳市海岸带土地利用遥感监测方法探索."" 海洋开发与管理(5): 24-31.[生态遥感]
+沈玉莲, 肖迪 and **费腾**\* (2016). ""深圳市海岸带土地利用遥感监测方法探索."" 海洋开发与管理(5): 24-31.[生态遥感]
 
 Jiang, Q., Y. Chen, L. Guo, **T. Fei** and K. Qi (2016). Estimating soil organic carbon of cropland soil at different levels of soil moisture using VIS-NIR spectroscopy. Remote Sensing 8(9): 755.[生态遥感]
 
 Wu, G., L. Cui, L. Liu, F. Chen, **T. Fei** and Y. Liu (2015). ""Statistical model development and estimation of suspended particulate matter concentrations with Landsat 8 OLI images of Dongting Lake, China."" International Journal of Remote Sensing 36(1): 343-360.[生态遥感]
 
-李海军, 张萱, 乔延军, 李天择, 周佳丽, 陈志雄 and **费腾*** (2014). ""残疾人城市公共空间友好度格局分析--以武汉市武昌区为例."" 残疾人研究(1).
+李海军, 张萱, 乔延军, 李天择, 周佳丽, 陈志雄 and **费腾**\* (2014). ""残疾人城市公共空间友好度格局分析--以武汉市武昌区为例."" 残疾人研究(1).
 
 Wu, G., L. Liu, F. Chen and **T. Fei** (2014). "Developing MODIS-based retrieval models of suspended particulate matter concentration in Dongting Lake, China." International Journal of Applied Earth Observation and Geoinformation 32: 46-53.
 
@@ -170,7 +170,7 @@ Shi, T., L. Cui, J. Wang, **T. Fei**, Y. Chen and G. Wu (2013). ""Comparison of 
 
 Cui, L., Y. Qiu, **T. Fei**, Y. Liu and G. Wu (2013). ""Using remotely sensed suspended sediment concentration variation to improve management of Poyang Lake, China."" Lake and Reservoir Management 29(1): 47-60.
 
-Cui, L., **T. Fei***, Q. Qi, Y. Liu and G. Wu (2013). ""Estimating carex quality with laboratory-based hyperspectral measurements."" International journal of remote sensing 34(5): 1866-1878.
+Cui, L., **T. Fei**\*, Q. Qi, Y. Liu and G. Wu (2013). ""Estimating carex quality with laboratory-based hyperspectral measurements."" International journal of remote sensing 34(5): 1866-1878.
 
 Chen, Y., Y. Liu, **T. Fei**, Q. Jiang, J. Wang and T. Shi (2013). Statistical understanding on the pre-processing of vnir spectra data from soil samples with different preparations. International Symposium on Satellite Mapping Technology and Application (ISSMTA2013).
 
@@ -184,7 +184,7 @@ Wu, G., L. Cui, H. Duan, **T. Fei** and Y. Liu (2011). "Absorption and backscatt
 
 **Fei, T.**, A. K. Skidmore, V. Venus, T. Wang, M. Schlerf, B. Toxopeus, S. van Overjijk, M. Bian and Y. Liu (2011). "A body temperature model for lizards as estimated from the thermal environment." Journal of Thermal Biology.
 
-Liu, Y., **T. Fei***, M. Bian and F. Corsi (2010). ""Assessment of underwater light climate for Lake Dahuchi using field spectral data and Landsat TM."" International Journal of Remote Sensing 31(6): 1625-1643.
+Liu, Y., **T. Fei**\*, M. Bian and F. Corsi (2010). ""Assessment of underwater light climate for Lake Dahuchi using field spectral data and Landsat TM."" International Journal of Remote Sensing 31(6): 1625-1643.
 
 BIAN, M., A. K. SKIDMORE, M. SCHLERF, **T. Fei**, Y. LIU and T. WANG (2010). ""Reflectance Spectroscopy of Biochemical Components as Indicators of Tea (Camellia Sinensis) Quality."" Photogrammetric engineering and remote sensing 76(12): 1385-1392.
 
