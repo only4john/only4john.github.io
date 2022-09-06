@@ -5,9 +5,9 @@
 --- 2022 ---  
 
 Shuangyin Zhang, **Teng Fei**\*, Yiyun Chen, Yongsheng Hong, (2022). Estimating cadmium-lead concentrations in rice blades through fractional order derivatives of foliar spectra,
-Biosystems Engineering, Volume 219, 2022, 177-188, https://doi.org/10.1016/j.biosystemseng.2022.04.023.
+Biosystems Engineering, Volume 219, 2022, 177-188, https://doi.org/10.1016/j.biosystemseng.2022.04.023.[生态遥感]
 
-Siying Wang, **Teng Fei**, Weifeng Li, Anqi Zhang, Huagui Guo & Yunyan Du*, (2022). Incorporation of intra-city human mobility into urban growth simulation: A case study in Beijing,  J. Geogr. Sci. 32, 892 - 912, https://doi.org/10.1007/s11442-022-1977-6
+Siying Wang, **Teng Fei**, Weifeng Li, Anqi Zhang, Huagui Guo & Yunyan Du*, (2022). Incorporation of intra-city human mobility into urban growth simulation: A case study in Beijing,  J. Geogr. Sci. 32, 892 - 912, https://doi.org/10.1007/s11442-022-1977-6 [地理大数据]
 
 Yuhao Kang, Kunlin Wu, Song Gao*, Ignavier Ng, Jinmeng Rao, Shan Ye, Fan Zhang & **Teng Fei** ,(2022), STICC: a multivariate spatial clustering method for repeated geographic pattern discovery with consideration of spatial contiguity, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2022.2053980 [空间聚类]
 
@@ -30,13 +30,13 @@ Jun Li, Jian Wang, Stephen Nicholas, Elizabeth Maitland, **Teng Fei**\* (2021) R
 
 Jia, Chen; Liu, Yuefeng; Du, Yunyan; Huang, Jianfeng, **Fei, Teng**\*. (2021). "Evaluation of Urban Vibrancy and Its Relationship with the Economic Landscape: A Case Study of Beijing" ISPRS Int. J. Geo-Inf. 10, no. 2: 72. https://doi.org/10.3390/ijgi10020072 [城市活力]
 
-Kong, W., **Fei, T.**\*, Jencks, T. (2021). Emotion and color in paintings: a novel temporal and spatial quantitative perspective.https://arxiv.org/abs/2102.00407 [情绪艺术史]
+Kong, W., **Fei, T.**\*, Jencks, T. (2021). Emotion and color in paintings: a novel temporal and spatial quantitative perspective.https://arxiv.org/abs/2102.00407 [艺术史]
 
 Yu X., **T. Fei**, X. Li*. (2021) Analyzing the association between emotions and socioeconomic characteristics of census tracts via user-generated content. Transactions in GIS. 2021; 00:1–16.  https://doi.org/10.1111/tgis.12718 [情绪地理]
 
 Zhang, S, **T. Fei **\*, You, X, Wan, Y, Wang, Y, Bian, M.* Two hyperspectral indices for detecting cadmium and lead contamination from arice canopy spectrum. Land Degrad Dev. 2020; 1– 13. https://doi.org/10.1002/ldr.3721 [生态遥感]
 
-Zhou, C., Kang, R., Liang, S., **Fei, T.**, Li, Y., Su, L., Li, L., Ye, L., Zhang, Y., Yuan, D.*, 2021. Risk Factors of Drug Resistance and the Potential Risk of HIV-1 Transmission of Patients with ART Virological Failure: A Population-Based Study in Sichuan, China. IDR Volume 14, 5219–5233. https://doi.org/10.2147/IDR.S334598
+Zhou, C., Kang, R., Liang, S., **Fei, T.**, Li, Y., Su, L., Li, L., Ye, L., Zhang, Y., Yuan, D.*, 2021. Risk Factors of Drug Resistance and the Potential Risk of HIV-1 Transmission of Patients with ART Virological Failure: A Population-Based Study in Sichuan, China. IDR Volume 14, 5219–5233. https://doi.org/10.2147/IDR.S334598[健康地理]
 
 --- 2020 ---
 
@@ -73,7 +73,7 @@ Zhang S.Y, Y. Zhu*,M. Wang 1*, and **T. Fei**  (2019). Selection of the Optimal 
 
 李瀚祺,贾鹏,**费腾**\* （2019）. 基于众源数据挖掘的中国饮食口味与慢性病的空间关联[J]. 地理学报. 74(8): 1637-1649. [健康地理]
 
-Yizhuo Li, **Teng Fei**\* and Fan Zhang (2019) A regionalization method for clustering and partitioning based on trajectories from NLP perspective, International Journal of Geographical Information Science, 33:12, 2385-2405, DOI: 10.1080/13658816.2019.1643025 [空间大数据]
+Yizhuo Li, **Teng Fei**\* and Fan Zhang (2019) A regionalization method for clustering and partitioning based on trajectories from NLP perspective, International Journal of Geographical Information Science, 33:12, 2385-2405, DOI: 10.1080/13658816.2019.1643025 [地理大数据]
 
 Kang, Y., Q. Jia, S. Gao*, X. Zeng, Y. Wang, S. Angsuesser, Y. Liu, X. Ye and **T. Fei**\* (2019), Extracting human emotions at different places based on facial expressions and spatial clustering analysis. Transaction in GIS. 23(3): p. 450-480. [情绪地理]
 
