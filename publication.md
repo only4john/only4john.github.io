@@ -7,9 +7,9 @@
 Shuangyin Zhang, **Teng Fei**\*, Yiyun Chen, Yongsheng Hong, (2022). Estimating cadmium-lead concentrations in rice blades through fractional order derivatives of foliar spectra,
 Biosystems Engineering, Volume 219, 2022, 177-188, https://doi.org/10.1016/j.biosystemseng.2022.04.023.[生态遥感]
 
-Siying Wang, **Teng Fei**, Weifeng Li, Anqi Zhang, Huagui Guo & Yunyan Du*, (2022). Incorporation of intra-city human mobility into urban growth simulation: A case study in Beijing,  J. Geogr. Sci. 32, 892 - 912, https://doi.org/10.1007/s11442-022-1977-6 [地理大数据]
+Siying Wang, **Teng Fei**, Weifeng Li, Anqi Zhang, Huagui Guo & Yunyan Du*, (2022). Incorporation of intra-city human mobility into urban growth simulation: A case study in Beijing,  J. Geogr. Sci. 32, 892 - 912, https://doi.org/10.1007/s11442-022-1977-6[空间大数据]
 
-Yuhao Kang, Kunlin Wu, Song Gao*, Ignavier Ng, Jinmeng Rao, Shan Ye, Fan Zhang & **Teng Fei** ,(2022), STICC: a multivariate spatial clustering method for repeated geographic pattern discovery with consideration of spatial contiguity, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2022.2053980 [空间聚类]
+Yuhao Kang, Kunlin Wu, Song Gao\*, Ignavier Ng, Jinmeng Rao, Shan Ye, Fan Zhang & **Teng Fei** ,(2022), STICC: a multivariate spatial clustering method for repeated geographic pattern discovery with consideration of spatial contiguity, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2022.2053980 [空间聚类]
 
 Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.**\*, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.[生态遥感]
 
@@ -24,7 +24,7 @@ Ziyu Liu and **Teng Fei**\*. (2021) Road PV production estimation at city scale:
 
 Kong W, Liao C, Xu Q, Wang J, **Fei T**\*. (2021) An In-Depth Analysis of Parking Patterns in a Typical Chinese Danwei via Customized Data Collection App. ISPRS International Journal of Geo-Information. 10(8):567. https://doi.org/10.3390/ijgi10080567 [校园停车]
 
-Li, Y.,  **Fei, T.**\*,  Wang, J.*,  Nicholas, S.,  Li, J.,  Xu, L., et al. (2021).  Influencing indicators and spatial variation of diabetes mellitus prevalence in Shandong, China: A framework for using data‐driven and spatial methods.GeoHealth, 5, e2020GH000320. https://doi.org/10.1029/2020GH000320 [健康地理]
+Li, Y.,  **Fei, T.**\*,  Wang, J.\*,  Nicholas, S.,  Li, J.,  Xu, L., et al. (2021).  Influencing indicators and spatial variation of diabetes mellitus prevalence in Shandong, China: A framework for using data‐driven and spatial methods.GeoHealth, 5, e2020GH000320. https://doi.org/10.1029/2020GH000320 [健康地理]
 
 Jun Li, Jian Wang, Stephen Nicholas, Elizabeth Maitland, **Teng Fei**\* (2021) Regional differences of hepatitis B discrimination in rural China, Human Vaccines and Immunotherapeutics, DOI: 10.1080/21645515.2020.1853999 [健康地理]
 
@@ -32,11 +32,11 @@ Jia, Chen; Liu, Yuefeng; Du, Yunyan; Huang, Jianfeng, **Fei, Teng**\*. (2021). "
 
 Kong, W., **Fei, T.**\*, Jencks, T. (2021). Emotion and color in paintings: a novel temporal and spatial quantitative perspective.https://arxiv.org/abs/2102.00407 [艺术史]
 
-Yu X., **T. Fei**, X. Li*. (2021) Analyzing the association between emotions and socioeconomic characteristics of census tracts via user-generated content. Transactions in GIS. 2021; 00:1–16.  https://doi.org/10.1111/tgis.12718 [情绪地理]
+Yu X., **T. Fei**, X. Li\*. (2021) Analyzing the association between emotions and socioeconomic characteristics of census tracts via user-generated content. Transactions in GIS. 2021; 00:1–16.  https://doi.org/10.1111/tgis.12718 [情绪地理]
 
-Zhang, S, **T. Fei **\*, You, X, Wan, Y, Wang, Y, Bian, M.* Two hyperspectral indices for detecting cadmium and lead contamination from arice canopy spectrum. Land Degrad Dev. 2020; 1– 13. https://doi.org/10.1002/ldr.3721 [生态遥感]
+Zhang, S, **T. Fei **\*, You, X, Wan, Y, Wang, Y, Bian, M.\* Two hyperspectral indices for detecting cadmium and lead contamination from arice canopy spectrum. Land Degrad Dev. 2020; 1– 13. https://doi.org/10.1002/ldr.3721 [生态遥感]
 
-Zhou, C., Kang, R., Liang, S., **Fei, T.**, Li, Y., Su, L., Li, L., Ye, L., Zhang, Y., Yuan, D.*, 2021. Risk Factors of Drug Resistance and the Potential Risk of HIV-1 Transmission of Patients with ART Virological Failure: A Population-Based Study in Sichuan, China. IDR Volume 14, 5219–5233. https://doi.org/10.2147/IDR.S334598[健康地理]
+Zhou, C., Kang, R., Liang, S., **Fei, T.**, Li, Y., Su, L., Li, L., Ye, L., Zhang, Y., Yuan, D.\*, 2021. Risk Factors of Drug Resistance and the Potential Risk of HIV-1 Transmission of Patients with ART Virological Failure: A Population-Based Study in Sichuan, China. IDR Volume 14, 5219–5233. https://doi.org/10.2147/IDR.S334598
 
 --- 2020 ---
 
@@ -50,9 +50,9 @@ Wanjuan Bie, **Teng Fei**\*, Xinyu Liu, Huizeng Liu; Guofeng Wu (2020) Small wat
 
 Wang B., **Fei T.**\*, Kang Y., Li M., Du Q.*, et al. (2020) Understanding the spatial dimension of natural language by measuring the spatial semantic similarity of words through a scalable geospatial context window. PLoS ONE 15 (7): e0236347. https://doi.org/10.1371/journal. pone.0236347 [地理大数据]
 
-S. Yang,X. Chen, L. Wang, T. Wu, **T. Fei**, Q. Xiao, G. Zhang, Y. Ning*, P.Jia*，(2020), Walkability indices and childhood obesity: A review of epidemiologic evidence，Obesity reviews, https://doi.org/10.1111/obr.13096 [健康地理]
+S. Yang,X. Chen, L. Wang, T. Wu, **T. Fei**, Q. Xiao, G. Zhang, Y. Ning\*, P.Jia\*，(2020), Walkability indices and childhood obesity: A review of epidemiologic evidence，Obesity reviews, https://doi.org/10.1111/obr.13096 [健康地理]
 
-M.Luo, H.Li, X.Pan, **T. Fei**, S.Dai, G.Qiu, Y.Zou, H.Vos, J.Luo* and P.Jia*. (2020). Neighbourhood speed limit and childhood obesity. Obesity Reviews. 2020; 1– 11. https://doi.org/10.1111/obr.13052 [健康地理]
+M.Luo, H.Li, X.Pan, **T. Fei**, S.Dai, G.Qiu, Y.Zou, H.Vos, J.Luo\* and P.Jia\*. (2020). Neighbourhood speed limit and childhood obesity. Obesity Reviews. 2020; 1– 11. https://doi.org/10.1111/obr.13052 [健康地理]
 
 Li, H., Jia, P.; **Fei, T.**\*. (2020). Associations between taste preferences and chronic diseases: A population-based exploratory study in China. Public Health Nutrition, 1-12. doi:10.1017/S136898002000035X [健康地理]
 
@@ -64,7 +64,7 @@ Wang, Jingmeng and **Fei, Teng**\*, Does Listening to Pop Music Help Build Engli
 
 Zhang, S.; Li, J.; Wang, S.; Huang, Y.; Li, Y.; Chen, Y.; **Fei, T.**\* (2020). Repaid Identification and Prediction of Cadmium–Lead Cross-Stress of Different Stress Levels in Rice Canopy Based on Visible and Near-Infrared Spectroscopy. Remote Sensing, 2020, 12, 469. [生态遥感]
 
-Xu, L.; Hong, Y.; Wei, Y.; Guo, L.; Shi, T.; Liu, Y.; Jiang, Q.; **Fei, T.**; Liu, Y.; Mouazen, A.M.; Chen, Y*.（2020） Estimation of Organic Carbon in Anthropogenic Soil by VIS-NIR Spectroscopy: Effect of Variable Selection. Remote Sens. 2020, 12, 3394.  [生态遥感]
+Xu, L.; Hong, Y.; Wei, Y.; Guo, L.; Shi, T.; Liu, Y.; Jiang, Q.; **Fei, T.**; Liu, Y.; Mouazen, A.M.; Chen, Y\*.（2020） Estimation of Organic Carbon in Anthropogenic Soil by VIS-NIR Spectroscopy: Effect of Variable Selection. Remote Sens. 2020, 12, 3394.  [生态遥感]
 
 
 --- 2019 ---
@@ -73,7 +73,7 @@ Zhang S.Y, Y. Zhu*,M. Wang 1*, and **T. Fei**  (2019). Selection of the Optimal 
 
 李瀚祺,贾鹏,**费腾**\* （2019）. 基于众源数据挖掘的中国饮食口味与慢性病的空间关联[J]. 地理学报. 74(8): 1637-1649. [健康地理]
 
-Yizhuo Li, **Teng Fei**\* and Fan Zhang (2019) A regionalization method for clustering and partitioning based on trajectories from NLP perspective, International Journal of Geographical Information Science, 33:12, 2385-2405, DOI: 10.1080/13658816.2019.1643025 [地理大数据]
+Yizhuo Li, **Teng Fei**\* and Fan Zhang (2019) A regionalization method for clustering and partitioning based on trajectories from NLP perspective, International Journal of Geographical Information Science, 33:12, 2385-2405, DOI: 10.1080/13658816.2019.1643025 [空间大数据]
 
 Kang, Y., Q. Jia, S. Gao*, X. Zeng, Y. Wang, S. Angsuesser, Y. Liu, X. Ye and **T. Fei**\* (2019), Extracting human emotions at different places based on facial expressions and spatial clustering analysis. Transaction in GIS. 23(3): p. 450-480. [情绪地理]
 
