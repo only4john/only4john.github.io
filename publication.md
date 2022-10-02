@@ -4,6 +4,8 @@
 
 --- 2022 ---  
 
+L. Wang, **T. Fei**\*, M. Bian, Y. Xu, H. Zhang, Y. Zheng*, H. Zhu, Response of microscopical hyperspectral data to past climatic variable, Theoretical and Applied Climatology. (2022). https://doi.org/10.1007/s00704-022-04219-w.[古气象学]
+
 Q. Wang, Duojizhuoma, C. Feng, **T. Fei**, H. Ma, S. Wang, Cirenwangla, T. Yang, H. Ling, B. Ma, W. Yu, H. Liu, J. Zhou, X. Zhao, P. Jia*, S. Yang*, Associations and pathways between residential greenness and hyperuricemia among adults in rural and urban China, Environmental Research. (2022) 114406. https://doi.org/10.1016/j.envres.2022.114406 [健康地理]
 
 
@@ -11,7 +13,7 @@ Shuangyin Zhang, **Teng Fei**\*, Yiyun Chen, Yongsheng Hong, (2022). Estimating 
 
 Siying Wang, **Teng Fei**, Weifeng Li, Anqi Zhang, Huagui Guo & Yunyan Du*, (2022). Incorporation of intra-city human mobility into urban growth simulation: A case study in Beijing,  J. Geogr. Sci. 32, 892 - 912, https://doi.org/10.1007/s11442-022-1977-6[空间大数据]
 
-Yuhao Kang, Kunlin Wu, Song Gao\*, Ignavier Ng, Jinmeng Rao, Shan Ye, Fan Zhang & **Teng Fei** ,(2022), STICC: a multivariate spatial clustering method for repeated geographic pattern discovery with consideration of spatial contiguity, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2022.2053980 [空间聚类]
+Yuhao Kang, Kunlin Wu, Song Gao\*, Ignavier Ng, Jinmeng Rao, Shan Ye, Fan Zhang & **Teng Fei** ,(2022), STICC: a multivariate spatial clustering method for repeated geographic pattern discovery with consideration of spatial contiguity, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2022.2053980 [聚类方法]
 
 Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.**\*, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.[生态遥感]
 
