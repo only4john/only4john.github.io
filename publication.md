@@ -8,7 +8,6 @@ L. Wang, **T. Fei**\*, M. Bian, Y. Xu, H. Zhang, Y. Zheng*, H. Zhu, Response of 
 
 Q. Wang, Duojizhuoma, C. Feng, **T. Fei**, H. Ma, S. Wang, Cirenwangla, T. Yang, H. Ling, B. Ma, W. Yu, H. Liu, J. Zhou, X. Zhao, P. Jia*, S. Yang*, Associations and pathways between residential greenness and hyperuricemia among adults in rural and urban China, Environmental Research. (2022) 114406. https://doi.org/10.1016/j.envres.2022.114406 [健康地理]
 
-
 Shuangyin Zhang, **Teng Fei**\*, Yiyun Chen, Yongsheng Hong, (2022). Estimating cadmium-lead concentrations in rice blades through fractional order derivatives of foliar spectra, Biosystems Engineering, Volume 219, 2022, 177-188, https://doi.org/10.1016/j.biosystemseng.2022.04.023.[生态遥感]
 
 Siying Wang, **Teng Fei**, Weifeng Li, Anqi Zhang, Huagui Guo & Yunyan Du*, (2022). Incorporation of intra-city human mobility into urban growth simulation: A case study in Beijing,  J. Geogr. Sci. 32, 892 - 912, https://doi.org/10.1007/s11442-022-1977-6[空间大数据]
@@ -20,13 +19,15 @@ Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.**\*, (2022). Sm
 
 --- 2021 ---
 
-卞萌, 郭树毅, 王威, 欧阳昱晖*, 黄颖菁, **费腾**.(2021) 融合植被遥感数据的北京市次日花粉浓度预测[J]. 地球信息科学学报, 23(9): 1705-1713.DOI:10.12082/dqxxkx.2021.200475 [生态遥感]
-
 Yuan, D., Yu, B., Liang, S., **Fei, T.**\*, Tang, H., Kang, R., Li, Y., Ye, L., Jia, P.\*, Yang, S.\*, 2022. HIV-1 genetic transmission networks among people living with HIV/AIDS in Sichuan, China: a genomic and spatial epidemiological analysis. The Lancet Regional Health - Western Pacific 18, 100318. https://doi.org/10.1016/j.lanwpc.2021.100318 [健康地理]
+
+Zhou C, Kang R, Liang S, **Fei T**, Li Y, Su L, Li L, Ye L, Zhang Y, Yuan D. Risk Factors of Drug Resistance and the Potential Risk of HIV-1 Transmission of Patients with ART Virological Failure: A Population-Based Study in Sichuan, China. Infect Drug Resist. 2021 Dec 7;14:5219-5233. doi: 10.2147/IDR.S334598. [健康地理]
 
 Ziyu Liu and **Teng Fei**\*. (2021) Road PV production estimation at city scale: A predictive model towards feasible assessing regional energy generation from solar roads. Journal of Cleaner Production. 321:129010. https://doi.org/10.1016/j.jclepro.2021.129010  [光伏产能]
 
 Kong W, Liao C, Xu Q, Wang J, **Fei T**\*. (2021) An In-Depth Analysis of Parking Patterns in a Typical Chinese Danwei via Customized Data Collection App. ISPRS International Journal of Geo-Information. 10(8):567. https://doi.org/10.3390/ijgi10080567 [校园停车]
+
+卞萌, 郭树毅, 王威, 欧阳昱晖*, 黄颖菁, **费腾**.(2021) 融合植被遥感数据的北京市次日花粉浓度预测[J]. 地球信息科学学报, 23(9): 1705-1713.DOI:10.12082/dqxxkx.2021.200475 [生态遥感]
 
 Li, Y.,  **Fei, T.**\*,  Wang, J.\*,  Nicholas, S.,  Li, J.,  Xu, L., et al. (2021).  Influencing indicators and spatial variation of diabetes mellitus prevalence in Shandong, China: A framework for using data‐driven and spatial methods.GeoHealth, 5, e2020GH000320. https://doi.org/10.1029/2020GH000320 [健康地理]
 
