@@ -4,6 +4,8 @@
 
 --- 2022 ---  
 
+Feng, C., Yu, B., **Fei, T.**, Jia, P., Dou, Q., & Yang, S.* (2022). Association between residential greenness and all-cause mortality and the joint mediation effect of air pollutants among old people with disability: A prospective cohort study. Science of The Total Environment, 159604.
+
 L. Wang, **T. Fei**\*, M. Bian, Y. Xu, H. Zhang, Y. Zheng*, H. Zhu, Response of microscopical hyperspectral data to past climatic variable, Theoretical and Applied Climatology. (2022). https://doi.org/10.1007/s00704-022-04219-w.[古气象学]
 
 Q. Wang, Duojizhuoma, C. Feng, **T. Fei**, H. Ma, S. Wang, Cirenwangla, T. Yang, H. Ling, B. Ma, W. Yu, H. Liu, J. Zhou, X. Zhao, P. Jia*, S. Yang*, Associations and pathways between residential greenness and hyperuricemia among adults in rural and urban China, Environmental Research. (2022) 114406. https://doi.org/10.1016/j.envres.2022.114406 [健康地理]
