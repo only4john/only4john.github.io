@@ -4,7 +4,7 @@
 
 --- 2022 ---  
 
-Feng, C., Yu, B., **Fei, T.**, Jia, P., Dou, Q., & Yang, S.* (2022). Association between residential greenness and all-cause mortality and the joint mediation effect of air pollutants among old people with disability: A prospective cohort study. Science of The Total Environment, 159604.
+Feng, C., Yu, B., **Fei, T.**, Jia, P., Dou, Q., & Yang, S.* (2022). Association between residential greenness and all-cause mortality and the joint mediation effect of air pollutants among old people with disability: A prospective cohort study. Science of The Total Environment, 159604.[健康地理]
 
 L. Wang, **T. Fei**\*, M. Bian, Y. Xu, H. Zhang, Y. Zheng*, H. Zhu, Response of microscopical hyperspectral data to past climatic variable, Theoretical and Applied Climatology. (2022). https://doi.org/10.1007/s00704-022-04219-w.[古气象学]
 
