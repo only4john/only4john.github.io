@@ -92,7 +92,7 @@ Ziyu Liu, Anqi Yang, Mengyao Gao, Hong Jiang, Yuhao Kang, Fan Zhang, **Teng Fei*
 
 W. Kong, J. Cheng, X. Liu, F. Zhang, and **T. Fei**\* (2019), "Incorporating nocturnal uav side-view images with viirs data for accurate population estimation: a test at the urban administrative district scale". International Journal of Remote Sensing, 05, 1–19. [夜景遥感/侧视遥感]
 
-Chen Jia, Yunyan Du, Siying Wang, Tianyang Bai, **Teng Fei**\* (2019), "Measuring the vibrancy of urban neighborhoods using mobile phone data with an improved PageRank algorithm", Transascions in GIS, 23(2): 241 - 258 [城市活力]
+Chen Jia, Yunyan Du, Siying Wang, Tianyang Bai, **Teng Fei**\* (2019), "Measuring the vibrancy of urban neighborhoods using mobile phone data with an improved PageRank algorithm", Transacions in GIS, 23(2): 241 - 258 [城市活力]
 
 王梦雪,李俊,贾清源,**费腾**\* (2019). 基于内容和协同过滤的英语创意写作推荐系统, 计算机应用与软件, 2019, 36 (2): 98 -102. [为了好玩]
 
