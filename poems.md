@@ -44,6 +44,8 @@
 一瓶用来下决心  
 ——去忘记你  
 
+<img src='img\little_princes2.png' style=' float:right; width:450px;height: px'/>  
+
 ## AN END IS MISSING  
 Like a function  
 which is lame  
