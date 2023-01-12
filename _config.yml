@@ -1,7 +1,7 @@
 title: Fei Teng
 description: Fei teng @ Wuhan University
 show_downloads: true
-google_analytics:G-896MKX9NCV
+google_analytics:
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
