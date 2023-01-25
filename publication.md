@@ -2,6 +2,10 @@
 
 ## 发表论文（ * 为通讯作者）
 
+--- 2023 ---  
+
+Jiao D, **Fei T.**\* (2023). Pedestrian walking speed monitoring at street scale by an in-flight drone. PeerJ Computer Science 9: e1226 DOI 10.7717/peerj-cs.1226 [城市遥感]
+
 --- 2022 ---  
 
 Feng, C., Yu, B., **Fei, T.**, Jia, P., Dou, Q., & Yang, S.* (2022). Association between residential greenness and all-cause mortality and the joint mediation effect of air pollutants among old people with disability: A prospective cohort study. Science of The Total Environment, 159604.[健康地理]
