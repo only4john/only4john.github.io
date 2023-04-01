@@ -22,6 +22,8 @@ Yuhao Kang, Kunlin Wu, Song Gao\*, Ignavier Ng, Jinmeng Rao, Shan Ye, Fan Zhang 
 
 Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.**\*, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.[生态遥感]
 
+游想, 张双印, **费腾**\*,用户标签揭示进出口量：基于标签共现的空间关联性分析[J]. 测绘地理信息, 2022, 47(3): 161-164. DOI:10.14188/j.2095-6045.2019405 
+
 
 --- 2021 ---
 
