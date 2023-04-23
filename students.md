@@ -8,22 +8,14 @@
 
 硕士生招生偏好：爱科学，爱钻研，主动沟通，以学术为发展目标的学生。联系我：feiteng[at]whu.edu.cn （请把[at]替换为@）. 也鼓励先和我在读和毕业的学生们聊聊（名单附后）。
 
-----
-基于地理位置的小广告(本周末过期哦)：
 
-我办公室新来年轻老师兰天，是我院引进人才，招硕士。想了解详情请移步 http://jszy.whu.edu.cn/tian_lan 
+～～请有个人主页的学生和前学生请提供链接给我哦，在这里做广告～～
 
-隔壁办公室的万幼老师，专注城市大数据和可达性相关研究，招硕士。详情移步 http://jszy.whu.edu.cn/wanyou/ 
-----
-
-
-～～请大家即使毕业了也继续提供和update自己的页面~ 帮助我们keep the list alive.～～
-
-## 有个人主页的学生：
+## 有个人主页的前学生：
 
 黄颖菁：www.researchgate.net/profile/Yingjing_Huang
 
-康雨豪：www.kkyyhh96.site
+康雨豪：www.kkyyhh96.site （广告：目前南卡罗来纳大学地理系助理教授，招博士）
 
 吴坤霖：www.wklwkl96.com
 
