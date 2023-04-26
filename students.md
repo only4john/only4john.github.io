@@ -13,13 +13,14 @@
 
 ## 有个人主页的前学生：
 
-黄颖菁：www.researchgate.net/profile/Yingjing_Huang
+黄颖菁：www.researchgate.net/profile/Yingjing_Huang  
 
 康雨豪：www.kkyyhh96.site （广告：目前南卡罗来纳大学地理系助理教授，招博士）
 
-吴坤霖：www.wklwkl96.com
+吴坤霖：www.wklwkl96.com  
 
 疫情期间我们一起做过[地图](https://only4john.github.io/img/图述简介720低.mp4)的[学生们](https://only4john.github.io/img/地图封底0317.mp4)
+
 ---
 
 ## 合作过的硕士生:  
