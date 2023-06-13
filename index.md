@@ -13,8 +13,8 @@ Email: feiteng[at]whu.edu.cn
 
 ## 受教育经历：
 
+Twente University, the Netherlands, PhD    
 武汉大学，资源与环境科学学院，博士  
-Twente University, the Netherlands, PhD 哲学博士  
 ITC，the Netherlands, MSc 科学硕士  
 武汉大学，遥感信息工程学院，学士  
 
