@@ -1,7 +1,7 @@
 ## 费&ensp;&ensp;腾 [<img src='img\icon.jpg' style=' float:right; width:150px;height: px'/>](http://47.101.135.251:4396/#/)   
 
 
-博士， 武汉大学 资源与环境科学学院，副教授  
+博士， 武汉大学 资源与环境科学学院，副教授，博导  
 研究方向： 城市地理大数据，生态遥感应用，地理信息科学  
 Email: feiteng[at]whu.edu.cn  
 
@@ -15,7 +15,7 @@ Email: feiteng[at]whu.edu.cn
 
 武汉大学，资源与环境科学学院，博士  
 Twente University, the Netherlands, PhD 哲学博士  
-International Institute for Geo-Information Science and Earth Observation (ITC)，the Netherlands, MSc 科学硕士  
+ITC，the Netherlands, MSc 科学硕士  
 武汉大学，遥感信息工程学院，学士  
 
 ## 研究工作经历：
