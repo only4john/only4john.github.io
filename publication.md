@@ -3,6 +3,8 @@
 ## 发表论文（ * 为通讯作者）
 
 --- 2023 ---  
+Luo, J., **Fei T.**\*, Tian, M. et al. Sensitivity metrics of complex network based on co-occurrence truth table: exemplified by a high-speed rail network. Journal of Geographical System (2023). https://doi.org/10.1007/s10109-023-00419-8
+
 万江琴,**费腾**\* (2023). 基于街景图像的“三生空间”识别方法研究[J].地球信息科学学报,25(4):838-851. DOI:10.12082/dqxxkx.2023.220534
 
 Jiao D, **Fei T.**\* (2023). Pedestrian walking speed monitoring at street scale by an in-flight drone. PeerJ Computer Science 9: e1226 DOI 10.7717/peerj-cs.1226 [城市遥感]
