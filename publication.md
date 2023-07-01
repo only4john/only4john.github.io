@@ -3,9 +3,9 @@
 ## 发表论文（ * 为通讯作者）
 
 --- 2023 ---  
-Luo, J., **Fei T.**\*, Tian, M. et al. Sensitivity metrics of complex network based on co-occurrence truth table: exemplified by a high-speed rail network. Journal of Geographical System (2023). https://doi.org/10.1007/s10109-023-00419-8
+Luo, J., **Fei T.**\*, Tian, M. et al. Sensitivity metrics of complex network based on co-occurrence truth table: exemplified by a high-speed rail network. Journal of Geographical System (2023). https://doi.org/10.1007/s10109-023-00419-8 [复杂网络]
 
-万江琴,**费腾**\* (2023). 基于街景图像的“三生空间”识别方法研究[J].地球信息科学学报,25(4):838-851. DOI:10.12082/dqxxkx.2023.220534
+万江琴,**费腾**\* (2023). 基于街景图像的“三生空间”识别方法研究[J].地球信息科学学报,25(4):838-851. DOI:10.12082/dqxxkx.2023.220534 [街景大数据]
 
 Jiao D, **Fei T.**\* (2023). Pedestrian walking speed monitoring at street scale by an in-flight drone. PeerJ Computer Science 9: e1226 DOI 10.7717/peerj-cs.1226 [城市遥感]
 
@@ -25,7 +25,7 @@ Yuhao Kang, Kunlin Wu, Song Gao\*, Ignavier Ng, Jinmeng Rao, Shan Ye, Fan Zhang 
 
 Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.**\*, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.[生态遥感]
 
-游想, 张双印, **费腾**\*,用户标签揭示进出口量：基于标签共现的空间关联性分析[J]. 测绘地理信息, 2022, 47(3): 161-164. DOI:10.14188/j.2095-6045.2019405 
+游想, 张双印, **费腾**\*,用户标签揭示进出口量：基于标签共现的空间关联性分析[J]. 测绘地理信息, 2022, 47(3): 161-164. DOI:10.14188/j.2095-6045.2019405 [城市大数据]
 
 
 --- 2021 ---
@@ -52,7 +52,7 @@ Yu X., **T. Fei**, X. Li\*. (2021) Analyzing the association between emotions an
 
 Zhang, S, **T. Fei**\*, You, X, Wan, Y, Wang, Y, Bian, M.\* Two hyperspectral indices for detecting cadmium and lead contamination from arice canopy spectrum. Land Degrad Dev. 2021; 1– 13. https://doi.org/10.1002/ldr.3721 [生态遥感]
 
-Zhou, C., Kang, R., Liang, S., **Fei, T.**, Li, Y., Su, L., Li, L., Ye, L., Zhang, Y., Yuan, D.\*, 2021. Risk Factors of Drug Resistance and the Potential Risk of HIV-1 Transmission of Patients with ART Virological Failure: A Population-Based Study in Sichuan, China. IDR Volume 14, 5219–5233. https://doi.org/10.2147/IDR.S334598
+Zhou, C., Kang, R., Liang, S., **Fei, T.**, Li, Y., Su, L., Li, L., Ye, L., Zhang, Y., Yuan, D.\*, 2021. Risk Factors of Drug Resistance and the Potential Risk of HIV-1 Transmission of Patients with ART Virological Failure: A Population-Based Study in Sichuan, China. IDR Volume 14, 5219–5233. https://doi.org/10.2147/IDR.S334598 [健康地理]
 
 --- 2020 ---
 
@@ -62,7 +62,7 @@ Huang, Y., **Fei T**.*, Kwan, M.-P., Kang, Y., Li, J., Li, Y., Li, X., Bian, M. 
 
 Wanjuan Bie, **Teng Fei**\*, Xinyu Liu, Huizeng Liu; Guofeng Wu (2020) Small water bodies mapped from Sentinel-2 MSI (MultiSpectral Imager) imagery with higher accuracy, International Journal of Remote Sensing, 41:20, 7912-7930, DOI: 10.1080/01431161.2020.1766150 [生态遥感]
 
-蔡忠亮，翁敏，苏世亮，亢孟军，**费腾**，天晶，任福. ”地理素养与测绘技能“双驱动的GIS专业大学生创新能力培养模式的探索[J]，测绘通报，2020（8）:148 - 152. DOI: 10.13474/j-enki.11-2246.2020.0268
+蔡忠亮，翁敏，苏世亮，亢孟军，**费腾**，天晶，任福. ”地理素养与测绘技能“双驱动的GIS专业大学生创新能力培养模式的探索[J]，测绘通报，2020（8）:148 - 152. DOI: 10.13474/j-enki.11-2246.2020.0268 
 
 Wang B., **Fei T.**\*, Kang Y., Li M., Du Q.*, et al. (2020) Understanding the spatial dimension of natural language by measuring the spatial semantic similarity of words through a scalable geospatial context window. PLoS ONE 15 (7): e0236347. https://doi.org/10.1371/journal. pone.0236347 [地理大数据]
 
