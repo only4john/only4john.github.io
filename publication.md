@@ -30,7 +30,7 @@ Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.**\*, (2022). Sm
 
 --- 2021 ---
 
-Yuan, D., Yu, B., Liang, S., **Fei, T.**\*, Tang, H., Kang, R., Li, Y., Ye, L., Jia, P.\*, Yang, S.\*, 2022. HIV-1 genetic transmission networks among people living with HIV/AIDS in Sichuan, China: a genomic and spatial epidemiological analysis. The Lancet Regional Health - Western Pacific 18, 100318. https://doi.org/10.1016/j.lanwpc.2021.100318 [健康地理]
+Yuan, D., Yu, B., Liang, S., **Fei, T.**\*, Tang, H., Kang, R., Li, Y., Ye, L., Jia, P.\*, Yang, S.\*, 2022. HIV-1 genetic transmission networks among people living with HIV/AIDS in Sichuan, China: a genomic and spatial epidemiological analysis. The Lancet Regional Health - Western Pacific 18, 100318. https://doi.org/10.1016/j.lanwpc.2021.100318 [健康地理][\[研究漫谈\]](posts/艾滋病从分子网络到传播网络.jpg){:target="_blank"} 
 
 Zhou C, Kang R, Liang S, **Fei T**, Li Y, Su L, Li L, Ye L, Zhang Y, Yuan D. Risk Factors of Drug Resistance and the Potential Risk of HIV-1 Transmission of Patients with ART Virological Failure: A Population-Based Study in Sichuan, China. Infect Drug Resist. 2021 Dec 7;14:5219-5233. doi: 10.2147/IDR.S334598. [健康地理]
 
@@ -41,9 +41,9 @@ Kong W, Liao C, Xu Q, Wang J, **Fei T**\*. (2021) An In-Depth Analysis of Parkin
 
 卞萌, 郭树毅, 王威, 欧阳昱晖*, 黄颖菁, **费腾**.(2021) 融合植被遥感数据的北京市次日花粉浓度预测[J]. 地球信息科学学报, 23(9): 1705-1713.DOI:10.12082/dqxxkx.2021.200475 [生态遥感]
 
-Li, Y.,  **Fei, T.**\*,  Wang, J.\*,  Nicholas, S.,  Li, J.,  Xu, L., et al. (2021).  Influencing indicators and spatial variation of diabetes mellitus prevalence in Shandong, China: A framework for using data‐driven and spatial methods.GeoHealth, 5, e2020GH000320. https://doi.org/10.1029/2020GH000320 [健康地理]
+Li, Y.,  **Fei, T.**\*,  Wang, J.\*,  Nicholas, S.,  Li, J.,  Xu, L., et al. (2021).  Influencing indicators and spatial variation of diabetes mellitus prevalence in Shandong, China: A framework for using data‐driven and spatial methods.GeoHealth, 5, e2020GH000320. https://doi.org/10.1029/2020GH000320 [健康地理][\[研究漫谈\]](posts/糖尿病发病率.jpg){:target="_blank"} 
 
-Jun Li, Jian Wang, Stephen Nicholas, Elizabeth Maitland, **Teng Fei**\* (2021) Regional differences of hepatitis B discrimination in rural China, Human Vaccines and Immunotherapeutics, DOI: 10.1080/21645515.2020.1853999 [健康地理]
+Jun Li, Jian Wang, Stephen Nicholas, Elizabeth Maitland, **Teng Fei**\* (2021) Regional differences of hepatitis B discrimination in rural China, Human Vaccines and Immunotherapeutics, DOI: 10.1080/21645515.2020.1853999 [健康地理][\[研究漫谈\]](posts/乙肝歧视.jpg){:target="_blank"} 
 
 Jia, Chen; Liu, Yuefeng; Du, Yunyan; Huang, Jianfeng, **Fei, Teng**\*. (2021). "Evaluation of Urban Vibrancy and Its Relationship with the Economic Landscape: A Case Study of Beijing" ISPRS Int. J. Geo-Inf. 10, no. 2: 72. https://doi.org/10.3390/ijgi10020072 [城市活力]
 
@@ -71,15 +71,15 @@ S. Yang,X. Chen, L. Wang, T. Wu, **T. Fei**, Q. Xiao, G. Zhang, Y. Ning\*, P.Jia
 
 M.Luo, H.Li, X.Pan, **T. Fei**, S.Dai, G.Qiu, Y.Zou, H.Vos, J.Luo\* and P.Jia\*. (2020). Neighbourhood speed limit and childhood obesity. Obesity Reviews. 2020; 1– 11. https://doi.org/10.1111/obr.13052 [健康地理]
 
-Li, H., Jia, P.; **Fei, T.**\*. (2020). Associations between taste preferences and chronic diseases: A population-based exploratory study in China. Public Health Nutrition, 1-12. doi:10.1017/S136898002000035X [健康地理]
+Li, H., Jia, P.; **Fei, T.**\*. (2020). Associations between taste preferences and chronic diseases: A population-based exploratory study in China. Public Health Nutrition, 1-12. doi:10.1017/S136898002000035X [健康地理][\[研究漫谈\]](posts/口味和疾病.jpg){:target="_blank"} 
 
 Yizhuo Li, **T. Fei**\*, Y. Huang, J. Li, X. Li, F. Zhang, Y. Kang, G. Wu (2020). Emotional habitat: mapping the global geographic distribution of human emotion with physical environmental factors using a species distribution model, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2020.1755040 [情绪地理]
 
-Huang Yinjing, J. Li, G. Wu, **T. Fei**\*, (2020). Quantifying the bias in place emotion extracted from photos on social networking sites: A case study on a university campus, Cities, DOI: https://doi.org/10.1016/j.cities.2020.102719 [情绪地理]
+Huang Yinjing, J. Li, G. Wu, **T. Fei**\*, (2020). Quantifying the bias in place emotion extracted from photos on social networking sites: A case study on a university campus, Cities, DOI: https://doi.org/10.1016/j.cities.2020.102719 [情绪地理][\[研究漫谈\]](posts/情绪的偏性.jpg){:target="_blank"} 
 
 Wang, Jingmeng and **Fei, Teng**\*, Does Listening to Pop Music Help Build English Vocabulary? (2020). Available at SSRN: https://ssrn.com/abstract=3543127 [为了好玩]
 
-Zhang, S.; Li, J.; Wang, S.; Huang, Y.; Li, Y.; Chen, Y.; **Fei, T.**\* (2020). Repaid Identification and Prediction of Cadmium–Lead Cross-Stress of Different Stress Levels in Rice Canopy Based on Visible and Near-Infrared Spectroscopy. Remote Sensing, 2020, 12, 469. [生态遥感]
+Zhang, S.; Li, J.; Wang, S.; Huang, Y.; Li, Y.; Chen, Y.; **Fei, T.**\* (2020). Rapid Identification and Prediction of Cadmium–Lead Cross-Stress of Different Stress Levels in Rice Canopy Based on Visible and Near-Infrared Spectroscopy. Remote Sensing, 2020, 12, 469. [生态遥感]
 
 Xu, L.; Hong, Y.; Wei, Y.; Guo, L.; Shi, T.; Liu, Y.; Jiang, Q.; **Fei, T.**; Liu, Y.; Mouazen, A.M.; Chen, Y\*.（2020） Estimation of Organic Carbon in Anthropogenic Soil by VIS-NIR Spectroscopy: Effect of Variable Selection. Remote Sens. 2020, 12, 3394.  [生态遥感]
 
