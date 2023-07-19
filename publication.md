@@ -3,7 +3,7 @@
 ## 发表论文（ * 为通讯作者）
 
 --- 2023 ---  
-Luo, J., **Fei T.**\*, Tian, M. et al. Sensitivity metrics of complex network based on co-occurrence truth table: exemplified by a high-speed rail network. Journal of Geographical System (2023). https://doi.org/10.1007/s10109-023-00419-8 [复杂网络][\[研究介绍\]](posts/网络节点的正向敏感度.jpg){:target="_blank"} 
+Luo, J., **Fei T.**\*, Tian, M. et al. Sensitivity metrics of complex network based on co-occurrence truth table: exemplified by a high-speed rail network. Journal of Geographical System (2023). https://doi.org/10.1007/s10109-023-00419-8 [复杂网络][\[研究漫谈\]](posts/网络节点的正向敏感度.jpg){:target="_blank"} 
 
 万江琴,**费腾**\* (2023). 基于街景图像的“三生空间”识别方法研究[J].地球信息科学学报,25(4):838-851. DOI:10.12082/dqxxkx.2023.220534 [街景大数据]
 
@@ -36,7 +36,8 @@ Zhou C, Kang R, Liang S, **Fei T**, Li Y, Su L, Li L, Ye L, Zhang Y, Yuan D. Ris
 
 Ziyu Liu and **Teng Fei**\*. (2021) Road PV production estimation at city scale: A predictive model towards feasible assessing regional energy generation from solar roads. Journal of Cleaner Production. 321:129010. https://doi.org/10.1016/j.jclepro.2021.129010  [光伏产能]
 
-Kong W, Liao C, Xu Q, Wang J, **Fei T**\*. (2021) An In-Depth Analysis of Parking Patterns in a Typical Chinese Danwei via Customized Data Collection App. ISPRS International Journal of Geo-Information. 10(8):567. https://doi.org/10.3390/ijgi10080567 [校园停车]
+Kong W, Liao C, Xu Q, Wang J, **Fei T**\*. (2021) An In-Depth Analysis of Parking Patterns in a Typical Chinese Danwei via Customized Data Collection App. ISPRS International Journal of Geo-Information. 10(8):567. https://doi.org/10.3390/ijgi10080567 [校园停车][\[研究漫谈\]](posts/校园停车位.jpg){:target="_blank"} 
+
 
 卞萌, 郭树毅, 王威, 欧阳昱晖*, 黄颖菁, **费腾**.(2021) 融合植被遥感数据的北京市次日花粉浓度预测[J]. 地球信息科学学报, 23(9): 1705-1713.DOI:10.12082/dqxxkx.2021.200475 [生态遥感]
 
