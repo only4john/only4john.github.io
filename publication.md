@@ -47,7 +47,7 @@ Jun Li, Jian Wang, Stephen Nicholas, Elizabeth Maitland, **Teng Fei**\* (2021) R
 
 Jia, Chen; Liu, Yuefeng; Du, Yunyan; Huang, Jianfeng, **Fei, Teng**\*. (2021). "Evaluation of Urban Vibrancy and Its Relationship with the Economic Landscape: A Case Study of Beijing" ISPRS Int. J. Geo-Inf. 10, no. 2: 72. https://doi.org/10.3390/ijgi10020072 [城市活力]
 
-Kong, W., **Fei, T.**\*, Jencks, T. (2021). Emotion and color in paintings: a novel temporal and spatial quantitative perspective.https://arxiv.org/abs/2102.00407 [艺术史]
+Kong, W., **Fei, T.**\*, Jencks, T. (2021). Emotion and color in paintings: a novel temporal and spatial quantitative perspective.https://arxiv.org/abs/2102.00407 [艺术史][\[研究漫谈\]](posts/绘画中的人物情绪.jpg){:target="_blank"} 
 
 Yu X., **T. Fei**, X. Li\*. (2021) Analyzing the association between emotions and socioeconomic characteristics of census tracts via user-generated content. Transactions in GIS. 2021; 00:1–16.  https://doi.org/10.1111/tgis.12718 [情绪地理]
 
@@ -73,13 +73,13 @@ M.Luo, H.Li, X.Pan, **T. Fei**, S.Dai, G.Qiu, Y.Zou, H.Vos, J.Luo\* and P.Jia\*.
 
 Li, H., Jia, P.; **Fei, T.**\*. (2020). Associations between taste preferences and chronic diseases: A population-based exploratory study in China. Public Health Nutrition, 1-12. doi:10.1017/S136898002000035X [健康地理][\[研究漫谈\]](posts/口味和疾病.jpg){:target="_blank"} 
 
-Yizhuo Li, **T. Fei**\*, Y. Huang, J. Li, X. Li, F. Zhang, Y. Kang, G. Wu (2020). Emotional habitat: mapping the global geographic distribution of human emotion with physical environmental factors using a species distribution model, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2020.1755040 [情绪地理]
+Yizhuo Li, **T. Fei**\*, Y. Huang, J. Li, X. Li, F. Zhang, Y. Kang, G. Wu (2020). Emotional habitat: mapping the global geographic distribution of human emotion with physical environmental factors using a species distribution model, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2020.1755040 [情绪地理][情绪地理][\[研究漫谈\]](posts/情绪栖息地.jpg){:target="_blank"} 
 
 Huang Yinjing, J. Li, G. Wu, **T. Fei**\*, (2020). Quantifying the bias in place emotion extracted from photos on social networking sites: A case study on a university campus, Cities, DOI: https://doi.org/10.1016/j.cities.2020.102719 [情绪地理][\[研究漫谈\]](posts/情绪的偏性.jpg){:target="_blank"} 
 
 Wang, Jingmeng and **Fei, Teng**\*, Does Listening to Pop Music Help Build English Vocabulary? (2020). Available at SSRN: https://ssrn.com/abstract=3543127 [为了好玩]
 
-Zhang, S.; Li, J.; Wang, S.; Huang, Y.; Li, Y.; Chen, Y.; **Fei, T.**\* (2020). Rapid Identification and Prediction of Cadmium–Lead Cross-Stress of Different Stress Levels in Rice Canopy Based on Visible and Near-Infrared Spectroscopy. Remote Sensing, 2020, 12, 469. [生态遥感]
+Zhang, S.; Li, J.; Wang, S.; Huang, Y.; Li, Y.; Chen, Y.; **Fei, T.**\* (2020). Rapid Identification and Prediction of Cadmium–Lead Cross-Stress of Different Stress Levels in Rice Canopy Based on Visible and Near-Infrared Spectroscopy. Remote Sensing, 2020, 12, 469. [生态遥感][\[研究漫谈\]](posts/水稻重金属污染1.jpg){:target="_blank"} 
 
 Xu, L.; Hong, Y.; Wei, Y.; Guo, L.; Shi, T.; Liu, Y.; Jiang, Q.; **Fei, T.**; Liu, Y.; Mouazen, A.M.; Chen, Y\*.（2020） Estimation of Organic Carbon in Anthropogenic Soil by VIS-NIR Spectroscopy: Effect of Variable Selection. Remote Sens. 2020, 12, 3394.  [生态遥感]
 
@@ -98,9 +98,9 @@ Yuanwen Yue, Jiaqi Ding, Yuhao Kang, Yueyao Wang, Kunlin Wu, and **Teng Fei**\*.
 
 Liu, Y.; Liu, Y.; Chen, Y.; Zhang, Y.; Shi, T.; Wang, J.; Hong, Y.; **Fei, T.**; Zhang, Y.  (2019) The Influence of Spectral Pretreatment on the Selection of Representative Calibration Samples for Soil Organic Matter Estimation Using Vis-NIR Reflectance Spectroscopy. Remote Sens. 11, 450. [生态遥感]
 
-Ziyu Liu, Anqi Yang, Mengyao Gao, Hong Jiang, Yuhao Kang, Fan Zhang, **Teng Fei**\* (2019), "Towards feasibility of photovoltaic road for urban traffic-solar energy estimation using street view image", Journal of Cleaner Production, 228, 303-318 [光伏产能]
+Ziyu Liu, Anqi Yang, Mengyao Gao, Hong Jiang, Yuhao Kang, Fan Zhang, **Teng Fei**\* (2019), "Towards feasibility of photovoltaic road for urban traffic-solar energy estimation using street view image", Journal of Cleaner Production, 228, 303-318 [光伏产能][\[研究漫谈\]](posts/波士顿道路光伏.jpg){:target="_blank"} 
 
-W. Kong, J. Cheng, X. Liu, F. Zhang, and **T. Fei**\* (2019), "Incorporating nocturnal uav side-view images with viirs data for accurate population estimation: a test at the urban administrative district scale". International Journal of Remote Sensing, 05, 1–19. [夜景遥感/侧视遥感]
+W. Kong, J. Cheng, X. Liu, F. Zhang, and **T. Fei**\* (2019), "Incorporating nocturnal uav side-view images with viirs data for accurate population estimation: a test at the urban administrative district scale". International Journal of Remote Sensing, 05, 1–19. [夜景遥感/侧视遥感][\[研究漫谈\]](posts/侧视夜光遥感.jpg){:target="_blank"} 
 
 Chen Jia, Yunyan Du, Siying Wang, Tianyang Bai, **Teng Fei**\* (2019), "Measuring the vibrancy of urban neighborhoods using mobile phone data with an improved PageRank algorithm", Transacions in GIS, 23(2): 241 - 258 [城市活力]
 
