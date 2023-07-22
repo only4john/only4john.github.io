@@ -49,7 +49,7 @@ Jia, Chen; Liu, Yuefeng; Du, Yunyan; Huang, Jianfeng, **Fei, Teng**\*. (2021). "
 
 Kong, W., **Fei, T.**\*, Jencks, T. (2021). Emotion and color in paintings: a novel temporal and spatial quantitative perspective.https://arxiv.org/abs/2102.00407 [艺术史][\[研究漫谈\]](posts/绘画中的人物情绪.jpg){:target="_blank"} 
 
-Yu X., **T. Fei**, X. Li\*. (2021) Analyzing the association between emotions and socioeconomic characteristics of census tracts via user-generated content. Transactions in GIS. 2021; 00:1–16.  https://doi.org/10.1111/tgis.12718 [情绪地理]
+Yu X., **T. Fei**, X. Li\*. (2021) Analyzing the association between emotions and socioeconomic characteristics of census tracts via user-generated content. Transactions in GIS. 2021; 00:1–16.  https://doi.org/10.1111/tgis.12718 [情绪地理][\[研究漫谈\]](posts/地区情绪和当地社会经济特征.jpg){:target="_blank"} 
 
 Zhang, S, **T. Fei**\*, You, X, Wan, Y, Wang, Y, Bian, M.\* Two hyperspectral indices for detecting cadmium and lead contamination from arice canopy spectrum. Land Degrad Dev. 2021; 1– 13. https://doi.org/10.1002/ldr.3721 [生态遥感]
 
