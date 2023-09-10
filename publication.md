@@ -1,6 +1,6 @@
 # 学术成果  
 
-## 发表论文（ * 为通讯作者）
+## 发表论文 Publication（ * 为通讯作者）
 
 --- 2023 ---  
 Luo, J., **Fei T.**\*, Tian, M. et al. Sensitivity metrics of complex network based on co-occurrence truth table: exemplified by a high-speed rail network. Journal of Geographical System (2023). https://doi.org/10.1007/s10109-023-00419-8 [复杂网络][\[研究漫谈\]](posts/网络节点的正向敏感度.jpg){:target="_blank"} 
@@ -215,7 +215,7 @@ Bian, M., A. K. Skidmore, D. Ni, J. de Leeuw, M. Schlerf, Y. Liu and **T. Fei** 
 卞萌, 汪铁军, 刘艳芳 and **费腾** (2007). "用间接遥感方法探测大熊猫栖息地竹林分布." 生 态 学 报 27(11).
 
 
-## 发明专利和软件登记：
+## 发明专利和软件登记  Patents：
 
 王博智，**费腾**，杜清运，康雨豪，李梦，一种基于滑动窗口采样的空间语义相似度计算方法，ZL 201911018798.1 [发明专利]
 
