@@ -3,6 +3,10 @@
 ## 发表论文 Publication（ * 为通讯作者）
 
 --- 2023 ---  
+李阳春;戴丹凤;付康钰;**费腾**\*, (2025). 空间拓扑关系的听觉显示初探 A Preliminary Study on Auditory Display of Spatial Topological Relations[J]. 地球信息科学学报, in press
+
+**费腾**\*，付康钰，卞萌，杨妙玲, (2024). 基于情绪计算的GIS硕士面试成绩预测 Predicting Interview Scores for the Master of Science in Geographic Information Based on Emotional Computing[J].地理空间信息,in press
+
 Luo, J., **Fei T.**\*, Tian, M. et al. Sensitivity metrics of complex network based on co-occurrence truth table: exemplified by a high-speed rail network. Journal of Geographical System (2023). https://doi.org/10.1007/s10109-023-00419-8 [复杂网络][\[研究漫谈\]](posts/网络节点的正向敏感度.jpg){:target="_blank"} 
 
 万江琴,**费腾**\* (2023). 基于街景图像的“三生空间”识别方法研究[J].地球信息科学学报,25(4):838-851. DOI:10.12082/dqxxkx.2023.220534 [街景大数据]
@@ -13,9 +17,9 @@ Jiao D, **Fei T.**\* (2023). Pedestrian walking speed monitoring at street scale
 
 Feng, C., Yu, B., **Fei, T.**, Jia, P., Dou, Q., & Yang, S.* (2022). Association between residential greenness and all-cause mortality and the joint mediation effect of air pollutants among old people with disability: A prospective cohort study. Science of The Total Environment, 159604.[健康地理]
 
-L. Wang, **T. Fei**\*, M. Bian, Y. Xu, H. Zhang, Y. Zheng*, H. Zhu, Response of microscopical hyperspectral data to past climatic variable, Theoretical and Applied Climatology. (2022). https://doi.org/10.1007/s00704-022-04219-w.[古气象学]
+L. Wang, **T. Fei**\*, M. Bian, Y. Xu, H. Zhang, Y. Zheng*, H. Zhu, (2022). Response of microscopical hyperspectral data to past climatic variable, Theoretical and Applied Climatology.  https://doi.org/10.1007/s00704-022-04219-w.[古气象学]
 
-Q. Wang, Duojizhuoma, C. Feng, **T. Fei**, H. Ma, S. Wang, Cirenwangla, T. Yang, H. Ling, B. Ma, W. Yu, H. Liu, J. Zhou, X. Zhao, P. Jia*, S. Yang*, Associations and pathways between residential greenness and hyperuricemia among adults in rural and urban China, Environmental Research. (2022) 114406. https://doi.org/10.1016/j.envres.2022.114406 [健康地理]
+Q. Wang, Duojizhuoma, C. Feng, **T. Fei**, H. Ma, S. Wang, Cirenwangla, T. Yang, H. Ling, B. Ma, W. Yu, H. Liu, J. Zhou, X. Zhao, P. Jia*, S. Yang*, (2022). Associations and pathways between residential greenness and hyperuricemia among adults in rural and urban China, Environmental Research.  114406. https://doi.org/10.1016/j.envres.2022.114406 [健康地理]
 
 Shuangyin Zhang, **Teng Fei**\*, Yiyun Chen, Yongsheng Hong, (2022). Estimating cadmium-lead concentrations in rice blades through fractional order derivatives of foliar spectra, Biosystems Engineering, Volume 219, 2022, 177-188, https://doi.org/10.1016/j.biosystemseng.2022.04.023.[生态遥感]
 
