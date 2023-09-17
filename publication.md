@@ -10,9 +10,9 @@ Luo, J., **Fei T.**\*, Tian, M. et al. Sensitivity metrics of complex network ba
 
 Jiao D, **Fei T.**\* (2023). Pedestrian walking speed monitoring at street scale by an in-flight drone. PeerJ Computer Science 9: e1226 DOI 10.7717/peerj-cs.1226 [城市遥感]
 
-李阳春;戴丹凤;付康钰;**费腾**\*, (2025). 空间拓扑关系的听觉显示初探 A Preliminary Study on Auditory Display of Spatial Topological Relations[J]. 地球信息科学学报, in press
+李阳春;戴丹凤;付康钰;**费腾**\*, (2025). 空间拓扑关系的听觉显示初探 A Preliminary Study on Auditory Display of Spatial Topological Relations [J]. 地球信息科学学报, in press
 
-**费腾**\*，付康钰，卞萌，杨妙玲, (2024). 基于情绪计算的GIS硕士面试成绩预测 Predicting Interview Scores for the Master of Science in Geographic Information Based on Emotional Computing[J].地理空间信息,in press
+**费腾**\*，付康钰，卞萌，杨妙玲, (2024). 基于情绪计算的GIS硕士面试成绩预测 Predicting Interview Scores for the Master of Science in Geographic Information Based on Emotional Computing [J].地理空间信息,in press
 
 --- 2022 ---  
 
