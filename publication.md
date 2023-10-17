@@ -4,6 +4,8 @@
 
 --- 2023 ---  
 
+Zhang S, **Fei T.**\*, Chen, Y., Yang, J., Qu, R., Xu, J., Xiao, X., Cheng, X., Hu, Z., Zheng, X., Zhao, D., (2023). Identifying cadmium and lead co-accumulation from living rice blade spectrum. Environmental Pollution 338, 122618. https://doi.org/10.1016/j.envpol.2023.122618
+
 Luo, J., **Fei T.**\*, Tian, M. et al. Sensitivity metrics of complex network based on co-occurrence truth table: exemplified by a high-speed rail network. Journal of Geographical System (2023). https://doi.org/10.1007/s10109-023-00419-8 [复杂网络][\[研究漫谈\]](posts/网络节点的正向敏感度.jpg){:target="_blank"} 
 
 万江琴,**费腾**\* (2023). 基于街景图像的“三生空间”识别方法研究[J].地球信息科学学报,25(4):838-851. DOI:10.12082/dqxxkx.2023.220534 [街景大数据]
