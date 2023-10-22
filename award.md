@@ -76,3 +76,5 @@ ITC杰出硕士论文 （distinction on Msc thesis），荷兰ITC， 2006
 中国遥感应用协会社会遥感地理计算专业委员会, 2023  
 
 中国遥感应用协会“空间人文社会地理计算”专业委员理事, 2022  
+
+The Photogrammetric Record 期刊青年编委，2022 

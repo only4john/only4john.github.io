@@ -80,7 +80,7 @@ M.Luo, H.Li, X.Pan, **T. Fei**, S.Dai, G.Qiu, Y.Zou, H.Vos, J.Luo\* and P.Jia\*.
 
 Li, H., Jia, P.; **Fei, T.**\*. (2020). Associations between taste preferences and chronic diseases: A population-based exploratory study in China. Public Health Nutrition, 1-12. doi:10.1017/S136898002000035X [健康地理][\[研究漫谈\]](posts/口味和疾病.jpg){:target="_blank"} 
 
-Yizhuo Li, **T. Fei**\*, Y. Huang, J. Li, X. Li, F. Zhang, Y. Kang, G. Wu (2020). Emotional habitat: mapping the global geographic distribution of human emotion with physical environmental factors using a species distribution model, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2020.1755040 [情绪地理][情绪地理][\[研究漫谈\]](posts/情绪栖息地.jpg){:target="_blank"} 
+Yizhuo Li, **T. Fei**\*, Y. Huang, J. Li, X. Li, F. Zhang, Y. Kang, G. Wu (2020). Emotional habitat: mapping the global geographic distribution of human emotion with physical environmental factors using a species distribution model, International Journal of Geographical Information Science, 35:2, 227-249, DOI: 10.1080/13658816.2020.1755040 [情绪地理][情绪地理][\[研究漫谈\]](posts/情绪栖息地.jpg){:target="_blank"} 
 
 Huang Yinjing, J. Li, G. Wu, **T. Fei**\*, (2020). Quantifying the bias in place emotion extracted from photos on social networking sites: A case study on a university campus, Cities, DOI: https://doi.org/10.1016/j.cities.2020.102719 [情绪地理][\[研究漫谈\]](posts/情绪的偏性.jpg){:target="_blank"} 
 
