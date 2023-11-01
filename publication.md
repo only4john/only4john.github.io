@@ -4,6 +4,8 @@
 
 --- 2023 ---  
 
+Yinghao Sun, **Teng Fei**\*, Yonghong Zheng\*, Yonggai Zhuang, Lingjun Wang & Meng Bian (2023) Improving signal strength of tree rings for paleoclimate reconstruction by micro-hyperspectral imaging, Geo-spatial Information Science, DOI: 10.1080/10095020.2023.2264913
+
 Zhang S, **Fei T.**\*, Chen, Y., Yang, J., Qu, R., Xu, J., Xiao, X., Cheng, X., Hu, Z., Zheng, X., Zhao, D., (2023). Identifying cadmium and lead co-accumulation from living rice blade spectrum. Environmental Pollution 338, 122618. https://doi.org/10.1016/j.envpol.2023.122618
 
 Luo, J., **Fei T.**\*, Tian, M. et al. Sensitivity metrics of complex network based on co-occurrence truth table: exemplified by a high-speed rail network. Journal of Geographical System (2023). https://doi.org/10.1007/s10109-023-00419-8 [复杂网络][\[研究漫谈\]](posts/网络节点的正向敏感度.jpg){:target="_blank"} 
