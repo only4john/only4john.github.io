@@ -4,9 +4,12 @@
 
 --- 2023 ---  
 
-Yinghao Sun, **Teng Fei**\*, Yonghong Zheng\*, Yonggai Zhuang, Lingjun Wang & Meng Bian (2023) Improving signal strength of tree rings for paleoclimate reconstruction by micro-hyperspectral imaging, Geo-spatial Information Science, DOI: 10.1080/10095020.2023.2264913
+Jing Huang, **Teng Fei**\*, Yuhao Kang, Jun Li, Ziyu Liu & Guofeng Wu (2023) Estimating urban noise along road network from street view imagery, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2023.2274475 [街景大数据][\[研究漫谈\]](posts/从街景推断街道交通噪音.jpg){:target="_blank"} 
 
-Zhang S, **Fei T.**\*, Chen, Y., Yang, J., Qu, R., Xu, J., Xiao, X., Cheng, X., Hu, Z., Zheng, X., Zhao, D., (2023). Identifying cadmium and lead co-accumulation from living rice blade spectrum. Environmental Pollution 338, 122618. https://doi.org/10.1016/j.envpol.2023.122618
+Yinghao Sun, **Teng Fei**\*, Yonghong Zheng\*, Yonggai Zhuang, Lingjun Wang & Meng Bian (2023) Improving signal strength of tree rings for paleoclimate reconstruction by micro-hyperspectral imaging, Geo-spatial Information Science, DOI: 10.1080/10095020.2023.2264913 [生态遥感][\[研究漫谈\]](posts/高光谱成像树轮扫描.jpg){:target="_blank"} 
+
+
+Zhang S, **Fei T.**\*, Chen, Y., Yang, J., Qu, R., Xu, J., Xiao, X., Cheng, X., Hu, Z., Zheng, X., Zhao, D., (2023). Identifying cadmium and lead co-accumulation from living rice blade spectrum. Environmental Pollution 338, 122618. https://doi.org/10.1016/j.envpol.2023.122618 [生态遥感][\[研究漫谈\]](posts/叶片夹叶位研究.jpg){:target="_blank"} 
 
 Luo, J., **Fei T.**\*, Tian, M. et al. Sensitivity metrics of complex network based on co-occurrence truth table: exemplified by a high-speed rail network. Journal of Geographical System (2023). https://doi.org/10.1007/s10109-023-00419-8 [复杂网络][\[研究漫谈\]](posts/网络节点的正向敏感度.jpg){:target="_blank"} 
 
