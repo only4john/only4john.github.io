@@ -2,6 +2,8 @@
 
 2023年第四届全国高等学校 GIS 教学成果奖一等奖 （排名第六） 
 
+2023年武汉大学教学成果特等奖（本科教育）（排名第七） 
+
 2023年（第十六届）中国大学生计算机设计大赛中南地区赛二等奖指导老师  
 
 2022年高等教育（本科）国家级教学成果二等奖 （排名第七） 
@@ -80,3 +82,9 @@ ITC杰出硕士论文 （distinction on Msc thesis），荷兰ITC， 2006
 中国遥感应用协会“空间人文社会地理计算”专业委员理事, 2022  
 
 The Photogrammetric Record 期刊青年编委，2022 
+
+International Human Frontier Science Program 项目评审人, 2023
+
+港铁学院 MTR Academy 项目评审人, 2023
+
+Cities，CEUS，ISPRS，IJGIS，PHOR，JCP 等20余期刊审稿人
