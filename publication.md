@@ -2,6 +2,10 @@
 
 ## 发表论文 Publication（ * 为通讯作者）
 
+--- 2024 ---  
+
+**费腾**\*,付康钰,卞萌,杨妙龄 (2024) 基于情绪计算的CIS硕士面试成绩预测门, Predicting Interview Scores for the Master of Science in Geographic Information Based on Emotional Computing ，地理空间信息,2024,22(4):128-132. doi:10.3969/i.isn.1672-4623.2024.04.031 [情绪计算]
+
 --- 2023 ---  
 
 Jing Huang, **Teng Fei**\*, Yuhao Kang, Jun Li, Ziyu Liu & Guofeng Wu (2023) Estimating urban noise along road network from street view imagery, International Journal of Geographical Information Science, DOI: 10.1080/13658816.2023.2274475 [街景大数据][\[研究漫谈\]](posts/从街景推断街道交通噪音.jpg){:target="_blank"} 
@@ -19,7 +23,6 @@ Jiao D, **Fei T.**\* (2023). Pedestrian walking speed monitoring at street scale
 
 李阳春;戴丹凤;付康钰;**费腾**\*, (2025). 空间拓扑关系的听觉显示初探 A Preliminary Study on Auditory Display of Spatial Topological Relations [J]. 地球信息科学学报, accepted, in press
 
-**费腾**\*，付康钰，卞萌，杨妙玲, (2024). 基于情绪计算的GIS硕士面试成绩预测 Predicting Interview Scores for the Master of Science in Geographic Information Based on Emotional Computing [J].地理空间信息, accepted, in press
 
 --- 2022 ---  
 
