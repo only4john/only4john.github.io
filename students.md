@@ -15,7 +15,7 @@
 
 黄颖菁：www.researchgate.net/profile/Yingjing_Huang  
 
-康雨豪：www.kkyyhh96.site （广告：目前南卡罗来纳大学地理系助理教授）
+康雨豪：www.kkyyhh96.site 
 
 吴坤霖：www.wklwkl96.com  
 

@@ -4,7 +4,9 @@
 
 --- 2024 ---  
 
-**费腾**\*,付康钰,卞萌,杨妙龄 (2024) 基于情绪计算的CIS硕士面试成绩预测门, Predicting Interview Scores for the Master of Science in Geographic Information Based on Emotional Computing ，地理空间信息,2024,22(4):128-132. doi:10.3969/i.isn.1672-4623.2024.04.031 [情绪计算]
+Zhuang, Y., Kang, Y.*, **Teng Fei**\*, Bian, M., & Du, Y. (2024). From hearing to seeing: Linking auditory and visual place perceptions with soundscape-to-image generative artificial intelligence. Computers, Environment and Urban Systems, 110, 102122.[街景大数据]
+
+**费腾**\*,付康钰,卞萌,杨妙龄 (2024) 基于情绪计算的CIS硕士面试成绩预测, Predicting Interview Scores for the Master of Science in Geographic Information Based on Emotional Computing ，地理空间信息,2024,22(4):128-132. doi:10.3969/i.isn.1672-4623.2024.04.031 [情绪计算]
 
 --- 2023 ---  
 
@@ -231,6 +233,8 @@ Bian, M., A. K. Skidmore, D. Ni, J. de Leeuw, M. Schlerf, Y. Liu and **T. Fei** 
 
 
 ## 发明专利和软件登记  Patents：
+
+**费腾**，李阳春，一种基于听觉的辅助空间感知系统及方法，ZL 202111373446.5[发明专利]
 
 王博智，**费腾**，杜清运，康雨豪，李梦，一种基于滑动窗口采样的空间语义相似度计算方法，ZL 201911018798.1 [发明专利]
 
