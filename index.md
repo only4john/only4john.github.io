@@ -1,7 +1,7 @@
 ## 费&ensp;&ensp;腾&ensp;&ensp;FEI Teng [<img src='img\icon.jpg' style=' float:right; width:150px;height: px'/>](http://47.101.135.251:4396/#/)   
 
 
-博士， 武汉大学 资源与环境科学学院，副教授，博导（没名额导不了）  
+博士， 武汉大学 资源与环境科学学院，副教授，博导  
 研究方向： 城市地理大数据，生态遥感应用，地理信息科学相关  
 Email: feiteng[at]whu.edu.cn  
 
@@ -42,5 +42,4 @@ ITC，the Netherlands, MSc 科学硕士
 
 ---
 
-硕士研究生招生方向：地图学与地理信息科学 （2024无招生计划） 
-博士研究生招生：2024年无招生名额   
+硕士研究生招生方向：地图学与地理信息科学 测绘工程 
