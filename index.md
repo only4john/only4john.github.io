@@ -42,4 +42,7 @@ ITC，the Netherlands, MSc 科学硕士
 
 ---
 
-硕士研究生招生方向：地图学与地理信息科学 测绘工程 
+硕士研究生招生方向：地图学与地理信息科学 测绘工程
+<span id="busuanzi_container_site_pv">    
+	本站总访问量<span id="busuanzi_value_site_pv"></span>次
+</span> 
