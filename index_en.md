@@ -12,7 +12,9 @@ Email: feiteng[at]whu.edu.cn
 ---
 
 ## 专业兴趣 | Professional Interests:
-城市地理大数据(Urban Geospatial Big Data) 生态遥感应用(Ecological Remote Sensing Applications) 地理信息科学(Geographic Information Science) 基于位置的服务（LBS） 林业遥感(Forestry Remote Sensing) 高光谱遥感(Hyperspectral Remote Sensing) 自然资源管理 (Natural Resource Management) 健康地理学(Health Geography) 人类情绪景观(Human Emotional Landscapes) 城市听觉环境(Urban Acoustic Environment)
+城市地理大数据，生态遥感应用，地理信息科学，基于位置的服务（LBS），林业遥感，高光谱遥感，自然资源管理，健康地理学，人类情绪景观，城市听觉环境  
+
+Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic Information Science, Location-Based Services (LBS), Forestry Remote Sensing, Hyperspectral Remote Sensing, Natural Resource Management, Health Geography, Human Emotional Landscapes, Urban Acoustic Environment  
 
 ## 受教育经历 | Education:
 
