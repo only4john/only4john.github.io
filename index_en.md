@@ -23,24 +23,28 @@ Email: feiteng[at]whu.edu.cn
 ## 研究工作经历 | Research Experience:
 
 - 2013/01 - Present 
-  武汉大学，资源与环境科学学院，副教授 | Associate Professor, School of Resource and Environmental Sciences, Wuhan University
+  武汉大学，资源与环境科学学院，副教授 
+  Associate Professor, School of Resource and Environmental Sciences, Wuhan University
 
 - 2019/09 - 2020/09  
-  伊利诺伊大学厄巴纳香槟分校（UIUC），访问学者 | Visiting Scholar, University of Illinois at Urbana-Champaign (UIUC)
+  伊利诺伊大学厄巴纳香槟分校（UIUC），访问学者 
+  Visiting Scholar, University of Illinois at Urbana-Champaign (UIUC)
 
 - 2011/01 - 2013/01  
-  武汉大学，资源与环境科学学院，讲师 | Lecturer, School of Resource and Environmental Sciences, Wuhan University
+  武汉大学，资源与环境科学学院，讲师 
+  Lecturer, School of Resource and Environmental Sciences, Wuhan University
 
 - 2010/07 - 2012/06  
-  武汉大学，资源与环境科学学院，博士后研究 | Postdoctoral Researcher, School of Resource and Environmental Sciences, Wuhan University
+  武汉大学，资源与环境科学学院，博士后研究 
+  Postdoctoral Researcher, School of Resource and Environmental Sciences, Wuhan University
 
 ## 讲授课程 | Courses Taught:
 
-- 遥感概论 | Introduction to Remote Sensing
-- 遥感实习 | Remote Sensing Practicum
-- 新生讨论课 | Freshman Seminar
-- 地理信息科学进展 | Advances in Geographic Information Science
-- 资源环境遥感（硕） | Remote Sensing of Resources and Environment (Graduate Level)
+- 遥感概论 (Introduction to Remote Sensing)
+- 遥感实习 (Remote Sensing Practicum)
+- 新生讨论课 (Freshman Seminar)
+- 地理信息科学进展 (Advances in Geographic Information Science)
+- 资源环境遥感（硕） (Remote Sensing of Resources and Environment [Graduate Level])
 
 ---
 
