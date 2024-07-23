@@ -21,7 +21,7 @@ Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic In
 - 特温特大学，博士  (PhD.,Twente University, the Netherlands)
 - 武汉大学，资源与环境科学学院，博士 (PhD., Wuhan University, China)
 - 国际遥感和对地观测研究所 科学硕士 ( MSc, ITC，the Netherlands)
-- 武汉大学，遥感信息工程学院，学士 (BSc, Wuhan University)
+- 武汉大学，遥感信息工程学院，学士 (BSc, Wuhan University, China)
 
 ## 研究工作经历 | Research Experience:
 

@@ -105,7 +105,7 @@ Xu, L.; Hong, Y.; Wei, Y.; Guo, L.; Shi, T.; Liu, Y.; Jiang, Q.; **Fei, T.**; Li
 
 Zhang S.Y, Y. Zhu*,M. Wang 1*, and **T. Fei**  (2019). Selection of the Optimal Spectral Resolution for the Cadmium-Lead Cross Contamination Diagnosing Based on the Hyperspectral Reflectance of Rice Canopy, Sensors 2019, 19(18), 3889 [生态遥感]
 
-李瀚祺,贾鹏,**费腾**\* （2019）. 基于众源数据挖掘的中国饮食口味与慢性病的空间关联[J]. 地理学报. 74(8): 1637-1649. [健康地理]
+李瀚祺,贾鹏,**费腾**\* （2019）. 基于众源数据挖掘的中国饮食口味与慢性病的空间关联[J]. 地理学报. 74(8): 1637-1649. [健康地理][\[研究漫谈\]](posts/口味和疾病.jpg){:target="_blank"} 
 
 Yizhuo Li, **Teng Fei**\* and Fan Zhang (2019) A regionalization method for clustering and partitioning based on trajectories from NLP perspective, International Journal of Geographical Information Science, 33:12, 2385-2405, DOI: 10.1080/13658816.2019.1643025 [空间大数据]
 
