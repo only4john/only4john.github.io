@@ -15,10 +15,10 @@ Email: feiteng[at]whu.edu.cn
 
 ## 受教育经历 | Education:
 
-- 特温特大学，博士 ｜ Twente University, the Netherlands, PhD  
-- 武汉大学，资源与环境科学学院，博士 | Ph.D., Wuhan University  
-- 国际遥感和对地观测研究所 科学硕士｜ ITC，the Netherlands, MSc 
-- 武汉大学，遥感信息工程学院，学士 | BSc, Wuhan University  
+- 特温特大学，博士 ｜ Twente University, the Netherlands, PhD
+- 武汉大学，资源与环境科学学院，博士 | Ph.D., Wuhan University
+- 国际遥感和对地观测研究所 科学硕士｜ ITC，the Netherlands, MSc
+- 武汉大学，遥感信息工程学院，学士 | BSc, Wuhan University
 
 ## 研究工作经历 | Research Experience:
 
