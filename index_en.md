@@ -24,14 +24,14 @@ Email: feiteng[at]whu.edu.cn
 
 ## 受教育经历 | Education:
 
-- Twente University, the Netherlands, PhD  
-- 武汉大学，资源与环境科学学院，博士 | Ph.D., School of Resource and Environmental Sciences, Wuhan University  
-- ITC，the Netherlands, MSc 科学硕士 | MSc  
-- 武汉大学，遥感信息工程学院，学士 | BSc, School of Remote Sensing and Information Engineering, Wuhan University  
+- 特温特大学，博士 ｜ Twente University, the Netherlands, PhD  
+- 武汉大学，资源与环境科学学院，博士 | Ph.D., Wuhan University  
+- 国际遥感和对地观测研究所 科学硕士｜ ITC，the Netherlands, MSc 
+- 武汉大学，遥感信息工程学院，学士 | BSc, Wuhan University  
 
 ## 研究工作经历 | Research Experience:
 
-- 2013/01 - 今 | 2013/01 - Present  
+- 2013/01 - Present 
   武汉大学，资源与环境科学学院，副教授 | Associate Professor, School of Resource and Environmental Sciences, Wuhan University
 
 - 2019/09 - 2020/09  
