@@ -1,7 +1,8 @@
 ## 费&ensp;&ensp;腾&ensp;&ensp;FEI Teng [<img src='img\icon.jpg' style=' float:right; width:150px;height: px'/>](http://47.101.135.251:4396/#/)
 
 博士，武汉大学 资源与环境科学学院，副教授，博导  
-Ph.D., Associate Professor, Doctoral Supervisor, School of Resource and Environmental Sciences, Wuhan University
+Ph.D., Associate Professor, Doctoral Supervisor  
+School of Resource and Environmental Sciences, Wuhan University
 
 研究方向：城市地理大数据，生态遥感应用，地理信息科学相关  
 Research Interests: Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic Information Science
