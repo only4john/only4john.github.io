@@ -6,7 +6,7 @@
 
 Zhuang, Y., Kang, Y.*, **Teng Fei**\*, Bian, M., & Du, Y. (2024). From hearing to seeing: Linking auditory and visual place perceptions with soundscape-to-image generative artificial intelligence. Computers, Environment and Urban Systems, 110, 102122.[街景大数据][\[研究漫谈\]](posts/扛上录音机去街拍.jpg){:target="_blank"}  
 
-**费腾**\*,付康钰,卞萌,杨妙龄 (2024) 基于情绪计算的GIS硕士面试成绩预测, Predicting Interview Scores for the Master of Science in Geographic Information Based on Emotional Computing ，地理空间信息,2024,22(4):128-132. doi:10.3969/i.isn.1672-4623.2024.04.031 [情绪计算][\[研究漫谈\]](posts/越来越高级.jpg){:target="_blank"}  
+**费腾**\*,付康钰,卞萌,杨妙龄 (2024) 基于情绪计算的GIS硕士面试成绩预测, Predicting Interview Scores for the Master of Science in Geographic Information Based on Emotional Computing ，地理空间信息,2024,22(4):128-132. doi:10.3969/i.isn.1672-4623.2024.04.031 [情绪计算][教学论文][\[研究漫谈\]](posts/越来越高级.jpg){:target="_blank"}  
 
 --- 2023 ---  
 
@@ -14,6 +14,7 @@ Jing Huang, **Teng Fei**\*, Yuhao Kang, Jun Li, Ziyu Liu & Guofeng Wu (2023) Est
 
 Yinghao Sun, **Teng Fei**\*, Yonghong Zheng\*, Yonggai Zhuang, Lingjun Wang & Meng Bian (2023) Improving signal strength of tree rings for paleoclimate reconstruction by micro-hyperspectral imaging, Geo-spatial Information Science, DOI: 10.1080/10095020.2023.2264913 [生态遥感][\[研究漫谈\]](posts/高光谱成像树轮扫描.jpg){:target="_blank"} 
 
+费腾,曾卓源,卞萌\*.基于学生情绪计算的个性化慕课教学进度功能设计与实现[J].测绘通报,2023(S02):45-50 [教学论文] 
 
 Zhang S, **Fei T.**\*, Chen, Y., Yang, J., Qu, R., Xu, J., Xiao, X., Cheng, X., Hu, Z., Zheng, X., Zhao, D., (2023). Identifying cadmium and lead co-accumulation from living rice blade spectrum. Environmental Pollution 338, 122618. https://doi.org/10.1016/j.envpol.2023.122618 [生态遥感][\[研究漫谈\]](posts/叶片夹叶位研究.jpg){:target="_blank"} 
 
@@ -121,9 +122,9 @@ W. Kong, J. Cheng, X. Liu, F. Zhang, and **T. Fei**\* (2019), "Incorporating noc
 
 Chen Jia, Yunyan Du, Siying Wang, Tianyang Bai, **Teng Fei**\* (2019), "Measuring the vibrancy of urban neighborhoods using mobile phone data with an improved PageRank algorithm", Transacions in GIS, 23(2): 241 - 258 [城市活力]
 
-王梦雪,李俊,贾清源,**费腾**\* (2019). 基于内容和协同过滤的英语创意写作推荐系统, 计算机应用与软件, 2019, 36 (2): 98 -102. [为了好玩]
+王梦雪,李俊,贾清源,**费腾**\* (2019). 基于内容和协同过滤的英语创意写作推荐系统, 计算机应用与软件, 2019, 36 (2): 98 -102. [教学论文]
 
-蔡忠亮, 翁敏, 苏世亮, 亢孟军, **费腾**, 田晶, 任福 (2019). “地理素养与测绘技能”双驱动的GIS专业大学生创新能力培养模式的探索，2020. 0(8):48-152 [教学改革]
+蔡忠亮, 翁敏, 苏世亮, 亢孟军, **费腾**, 田晶, 任福 (2019). “地理素养与测绘技能”双驱动的GIS专业大学生创新能力培养模式的探索，2020. 0(8):48-152 [教学论文]
 
 
 
