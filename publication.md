@@ -14,17 +14,17 @@ Jing Huang, **Teng Fei**\*, Yuhao Kang, Jun Li, Ziyu Liu & Guofeng Wu (2023) Est
 
 Yinghao Sun, **Teng Fei**\*, Yonghong Zheng\*, Yonggai Zhuang, Lingjun Wang & Meng Bian (2023) Improving signal strength of tree rings for paleoclimate reconstruction by micro-hyperspectral imaging, Geo-spatial Information Science, DOI: 10.1080/10095020.2023.2264913 [生态遥感][\[研究漫谈\]](posts/高光谱成像树轮扫描.jpg){:target="_blank"} 
 
-费腾,曾卓源,卞萌\*.基于学生情绪计算的个性化慕课教学进度功能设计与实现[J].测绘通报,2023(S02):45-50 [教学论文] 
+费腾,曾卓源,卞萌\*.基于学生情绪计算的个性化慕课教学进度功能设计与实现[J] Design and Implementation of Personalized Catechism Teaching Progress Function Based on Students' Emotion Calculation .测绘通报,2023(S02):45-50 [教学论文] 
 
 Zhang S, **Fei T.**\*, Chen, Y., Yang, J., Qu, R., Xu, J., Xiao, X., Cheng, X., Hu, Z., Zheng, X., Zhao, D., (2023). Identifying cadmium and lead co-accumulation from living rice blade spectrum. Environmental Pollution 338, 122618. https://doi.org/10.1016/j.envpol.2023.122618 [生态遥感][\[研究漫谈\]](posts/叶片夹叶位研究.jpg){:target="_blank"} 
 
 Luo, J., **Fei T.**\*, Tian, M. et al. Sensitivity metrics of complex network based on co-occurrence truth table: exemplified by a high-speed rail network. Journal of Geographical System (2023). https://doi.org/10.1007/s10109-023-00419-8 [复杂网络][\[研究漫谈\]](posts/网络节点的正向敏感度.jpg){:target="_blank"} 
 
-万江琴,**费腾**\* (2023). 基于街景图像的“三生空间”识别方法研究[J].地球信息科学学报,25(4):838-851. DOI:10.12082/dqxxkx.2023.220534 [街景大数据]
+万江琴,**费腾**\* (2023). 基于街景图像的“三生空间”识别方法研究 Research on the Recognition Method of “Sansheng Space” Based on Street View Images[J].地球信息科学学报,25(4):838-851. DOI:10.12082/dqxxkx.2023.220534 [街景大数据]
 
 Jiao D, **Fei T.**\* (2023). Pedestrian walking speed monitoring at street scale by an in-flight drone. PeerJ Computer Science 9: e1226 DOI 10.7717/peerj-cs.1226 [城市遥感]
 
-李阳春;戴丹凤;付康钰;**费腾**\*, (2025). 空间拓扑关系的听觉显示初探 A Preliminary Study on Auditory Display of Spatial Topological Relations [J]. 地球信息科学学报, accepted, in press
+李阳春;戴丹凤;付康钰;**费腾**\*, (2025). 空间拓扑关系的听觉显示初探[J] A Preliminary Study on Auditory Display of Spatial Topological Relations . 地球信息科学学报, accepted, in press
 
 
 --- 2022 ---  
@@ -43,7 +43,7 @@ Yuhao Kang, Kunlin Wu, Song Gao\*, Ignavier Ng, Jinmeng Rao, Shan Ye, Fan Zhang 
 
 Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., **Fei, T.**\*, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.[生态遥感]
 
-游想, 张双印, **费腾**\*,用户标签揭示进出口量：基于标签共现的空间关联性分析[J]. 测绘地理信息, 2022, 47(3): 161-164. DOI:10.14188/j.2095-6045.2019405 [城市大数据]
+游想, 张双印, **费腾**\*,用户标签揭示进出口量：基于标签共现的空间关联性分析[J]User tags reveal import and export volumes: a spatial correlation analysis based on tag co-occurrence. 测绘地理信息, 2022, 47(3): 161-164. DOI:10.14188/j.2095-6045.2019405 [城市大数据]
 
 
 --- 2021 ---
