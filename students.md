@@ -13,11 +13,14 @@
 
 ## 有个人主页的前学生：
 
+陈鹏宇：https://pengyu-gis.github.io/  
+
 黄颖菁：www.researchgate.net/profile/Yingjing_Huang  
 
 康雨豪：www.kkyyhh96.site 
 
 吴坤霖：www.wklwkl96.com  
+
 
 疫情期间我们一起做过求助地图[（快照）](https://only4john.github.io/img/图述简介720低.mp4)的[学生们](https://only4john.github.io/img/地图封底0317.mp4)
 
