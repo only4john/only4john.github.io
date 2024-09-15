@@ -1,6 +1,6 @@
-# 学术成果  
+# Academic output 学术成果  
 
-## 发表论文 Publication（ * 为通讯作者）
+## Publication 发表论文 （ * stands for corresponding author  * 为通讯作者）
 
 --- 2024 ---  
 
