@@ -74,7 +74,7 @@ Full MSc Scholarship, ITC, Netherlands, 2005
 
 Outstanding Undergraduate Thesis, Wuhan University, 2003
 
--- Academic and Professional Memberships --
+# Academic and Professional Memberships 
 
 Committee Member, CAAI Social Computing and Intelligence Committee, 2024
 

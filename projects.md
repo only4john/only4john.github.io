@@ -1,4 +1,4 @@
-# Projects
+# Projects involved
 
 * Principal Investigator, National Natural Science Foundation of China (NSFC) General Program: "Discovery and Prediction of Spatial Distribution Patterns of Human Emotions Supported by Multi-source Big Data" (42271476), 2023
 * Principal Investigator, Key Program of the Open Fund of the State Key Laboratory of Resources and Environmental Information Systems, 2023

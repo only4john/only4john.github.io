@@ -5,13 +5,14 @@
 
 Fu, Y., **Teng Fei**\*, Huang, W., Ge, X., Yi, J., Sun, Y., … Du, Y. (2025). Unraveling environmental risk awareness in China over four decades from mass media and academic archives. International Journal of Geographical Information Science, 1–26. https://doi.org/10.1080/13658816.2024.2437054
 
-李阳春;戴丹凤;付康钰;**费腾**\*, (2025). 空间拓扑关系的听觉显示初探[J](A Preliminary Study on Auditory Display of Spatial Topological Relations) . 地球信息科学学报, accepted, 2025
 
 --- 2024 ---
 
 Zhuang, Y., Kang, Y.*, **Teng Fei**\*, Bian, M., & Du, Y. (2024). From hearing to seeing: Linking auditory and visual place perceptions with soundscape-to-image generative artificial intelligence. Computers, Environment and Urban Systems, 110, 102122.[Street View Big Data][Research Ramblings](posts/扛上录音机去街拍.jpg){:target="_blank"}
 
 **费腾**\*,付康钰,卞萌,杨妙龄 (2024) 基于情绪计算的GIS硕士面试成绩预测 (Predicting Interview Scores for the Master of Science in Geographic Information Based on Emotional Computing) ，地理空间信息,2024,22(4):128-132. doi:10.3969/i.isn.1672-4623.2024.04.031 [Emotion Computing][Teaching Paper][Research Ramblings](posts/越来越高级.jpg){:target="_blank"}
+
+李阳春;戴丹凤;付康钰;**费腾**\*, (2025). 空间拓扑关系的听觉显示初探[J](A Preliminary Study on Auditory Display of Spatial Topological Relations) . 地球信息科学学报, accepted
 
 --- 2023 ---
 
