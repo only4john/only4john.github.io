@@ -1,3 +1,7 @@
+---
+layout: default_ch
+title: 瞎写的诗
+---
 # 瞎写的诗 <img src='img\Donghu.jpg' style=' float:right; width:450px;height: px'/>  
 
 ## 和海龟一起游泳
