@@ -1,15 +1,17 @@
 # Students
 
-<p align="right">"Why have students in a university? -- Because professors have things they don't understand."</p>
+<p align="right">"Why have students in a university? "</p>
+<p align="right">" -- Because professors have things they don't understand."</p>
+
 All students are outstanding in their own way, and I am proud of them.
 
 You can see their footprints here: WeChat Official Account **UrbanPlayground**
 
-Undergraduate students from freshman to junior year are welcome to join the research group. You can first go to "Publicly Published Academic Achievements" to understand our research topics, or check the official account to see if there is any research that suits your interests. Of course, if you come with your own ideas, we can discuss them.
+Undergraduate students from freshman to junior year are welcome to join the research group. You can first go to "Publication" to understand our research topics, or check the official 微信公众号 to see if there is any research that suits your interests. Of course, if you come with your own ideas, we can discuss them.
 
-Master's student admission preference: Students who love science, are dedicated to research, communicate proactively, and aim for academic development. Contact me: feiteng[at]whu.edu.cn (please replace [at] with @). To help you avoid pitfalls, you are also encouraged to chat with my current and graduated students (list attached).
+Master's student admission preference: Students who love science, are dedicated to research, communicate proactively, and aim for academic development. Contact me: feiteng[at]whu.edu.cn (replace [at] with @). To help you avoid disappointments, you are also encouraged to chat with my current and graduated students to spy on me (list attached).
 
-～～ Please provide links to personal homepages for current and former students so I can advertise them here ～～ 
+～～ Please provide links to personal homepages for current and former students so I can advertise here ～～ 
 
 ## Former Students with Personal Homepages:
 
