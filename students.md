@@ -1,76 +1,75 @@
-# 学 生 
-<p align="right">“为什么大学里要有学生？—— 因为教授们有弄不懂的事情。”</p>
-所有的学生都以各自的方式杰出着，我为他们骄傲。
+# Students
 
-你能在这里看到他们的足迹：微信公众号 **UrbanPlayground**
+<p align="right">"Why have students in a university? -- Because professors have things they don't understand."</p>
+All students are outstanding in their own way, and I am proud of them.
 
-欢迎大一到大三的本科生加入科研组，你可以先去“公开发表学术成果”了解我们的选题，也可以check一下公众号看看有没有合你口味的研究，当然如果你带着想法来，我们可以展开讨论。
+You can see their footprints here: WeChat Official Account **UrbanPlayground**
 
-硕士生招生偏好：爱科学，爱钻研，主动沟通，以学术为发展目标的学生。联系我：feiteng[at]whu.edu.cn （请把[at]替换为@）。为了你们避坑，也鼓励先和我在读和毕业的学生们聊聊（名单附后）。
+Undergraduate students from freshman to junior year are welcome to join the research group. You can first go to "Publicly Published Academic Achievements" to understand our research topics, or check the official account to see if there is any research that suits your interests. Of course, if you come with your own ideas, we can discuss them.
 
+Master's student admission preference: Students who love science, are dedicated to research, communicate proactively, and aim for academic development. Contact me: feiteng[at]whu.edu.cn (please replace [at] with @). To help you avoid pitfalls, you are also encouraged to chat with my current and graduated students (list attached).
 
-～～请有个人主页的学生和前学生请提供链接给我哦，在这里做广告～～
+~~Please provide links to personal homepages for current and former students so I can advertise them here~~
 
-## 有个人主页的前学生：
+## Former Students with Personal Homepages:
 
-陈鹏宇：https://pengyu-gis.github.io/  
+Chen Pengyu: https://pengyu-gis.github.io/
 
-黄颖菁：www.researchgate.net/profile/Yingjing_Huang  
+Huang Yingjing: www.researchgate.net/profile/Yingjing_Huang
 
-康雨豪：www.kkyyhh96.site 
+Kang Yuhao: www.kkyyhh96.site
 
-吴坤霖：www.wklwkl96.com  
+Wu Kunlin: www.wklwkl96.com
 
-
-疫情期间我们一起做过求助地图[（快照）](https://only4john.github.io/img/图述简介720低.mp4)的[学生们](https://only4john.github.io/img/地图封底0317.mp4)
+Students who worked with me on the mutual aid map during the epidemic [(snapshot)](https://only4john.github.io/img/图述简介720低.mp4) [(students)](https://only4john.github.io/img/地图封底0317.mp4)
 
 -----
 
-## 合作过/中的硕士生: 
-陈志宏 
-董祥瑞 
-黄梓航 
-王明媛 
-钟雅倩 
-张雪 
-郭子阅 
-肖菁 
-李亮辰 
-李国稳 
-黄敬 
-付一 
-徐紫含 
-黄文霖 
-毛凯楠  
-王继伟 
-罗娟娟 
-覃楚仪 
-焦丹 
-李阳春 
-付康钰 
-万江琴 
-汪凌君 
-刘子煜 
-康睿 
-吴坤霖 
-高梦泽 
-黄颖菁 
-别婉娟 
-李俊 
-李依卓 
-李先旭 
-李喜娟 
-葛晓岩 
-霍思佳 
-徐亚丹 
-邱伟楷 
-游想 
-李瀚祺 
-张双印 
-王思颖 
-万印康 
-王云将 
-涂晔昕 
-卢艺 
-沈玉莲 
-  
+## Supervised/Current Master's Students:
+
+Chen Zhihong
+Dong Xiangrui
+Huang Zihang
+Wang Mingyuan
+Zhong Yaqian
+Zhang Xue
+Guo Ziyue
+Xiao Jing
+Li Liangchen
+Li Guowen
+Huang Jing
+Fu Yi
+Xu Zihan
+Huang Wenlin
+Mao Kainan
+Wang Jiwei
+Luo Juanjuan
+Qin Chuyi
+Jiao Dan
+Li Yangchun
+Fu Kangyu
+Wan Jiangqin
+Wang Lingjun
+Liu Ziyu
+Kang Rui
+Wu Kunlin
+Gao Mengze
+Huang Yingjing
+Bie Wanjuan
+Li Jun
+Li Yizhuo
+Li Xianxu
+Li Xijuan
+Ge Xiaoyan
+Huo Sijia
+Xu Yadan
+Qiu Weikai
+You Xiang
+Li Hanqi
+Zhang Shuangyin
+Wang Siying
+Wan Yinkang
+Wang Yunjian
+Tu Yexin
+Lu Yi
+Shen Yulian

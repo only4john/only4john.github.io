@@ -1,73 +1,41 @@
-# 项目
-主持国家自然科学基金面上项目:"多源大数据支持下的人类情绪空间分布模式发现与预测"(42271476),2023
+# Projects
 
-主持资源与环境信息系统国家重点实验室开放基金重点项目，2023
-
-主持粤港澳智慧城市联合实验室开放基金：“城市道路交通噪声预测”,2022
-
-主持武汉大学2021年研究生精品课程《资源与环境遥感》建设工作，验收优秀，2021-2023
-
-主持2020年“武汉大学351人才计划教师岗位专业课程类珞珈青年学者”教学课题，2020
-
-主持测绘遥感信息工程国家重点实验室开放基金：“多源数据驱动的城市情绪景观研究”（19E02），2019
-
-主持 微软 AI for Earth Microsoft Azure Compute Grant:"Energy assessment for solar panels construction for a sustainable city", 2019
-
-主持 黎曼空间信息技术创新实验室项目：“基于成像高光谱的美妆镜”，2019
-
-主持武汉大学研究生导师育人方式创新项目：“基于学习金字塔的本硕融合交叉学科科研活动”，2019
-
-参与国家重点研发计划：“地理大数据挖掘与时空模式发现 （2017YFB0503600）”，2018
-
-参与湖北省省级教学研究项目：“基于大数据的数字化课程建设--英文创意写作学习资源推送机制研究（2017012）”，2018
-
-主持武汉大学自主创新科研基金学科交叉项目：“水稻重金属污染高光谱遥感诊断和反演方法(2042014kf0240)”， 2014 - 2015
-
-参与国家自然科学基金青年基金：“通过高光谱数据在鲜叶和冠层尺度上反演茶叶品质相关参数(41301462)”， 2014 - 2016
-
-主持国家自然科学基金青年基金项目：“爬行动物空间分布对热环境的相应机制研究(41101411)”，2014
-
-主持中国博士后科学基金面上资助项目“变化的热环境驱动下的爬行动物空间分布机制研究（20110491192）”
-
-参与国家973计划项目“空天地一体化对地观测传感网的理论与方法(2011CB707105)”,2011。
-
-参与基于生物光学模型和高光谱遥感的悬浮泥沙浓度反演方法研究－以鄱阳湖光学深水区为例(40971191)，国家自然科学基金，2010-2012
-
-参与国家自然科学基金项目“基于生物光学模型和高光谱遥感的悬浮泥沙浓度反演方法研究－以鄱阳湖光学深水区为例（40971191）, 国家自然科学基金，2010-2012”
-
-参与无锡市太湖流域湿地生态系统退化趋势与退化机理研究－《太湖流域湿地生态系统退化现状及退化机理研究》子课题(200904001-(5))，林业公益性行业科研专项经费, 2009-2013
-
-参与蜥蜴与热环境：爬行类动物园内公共教育实验设置，Oliemeulen动物园，蒂尔堡，荷兰，2007-2009
-
-参与欧盟BIOFRAG 项目（Fragmentation and Herpetological Biodiversity Studies in the Mediterranean Basin），研究变化的环境给地中海动物栖息地带来的影响 （http://www.itc.nl/Pub/research-themes/BIOFRAG）,2006
-
-参与国家重点基础研究发展计划（973）资助下的熊猫栖息地生态研究 (NKBRP：2006CB701303)，2006
-
-参与熊猫栖息地林下竹林的遥感探测，国家重点基础研究项目（973）资助, (NKBRP：2006CB701303)， 2006
+* Principal Investigator, National Natural Science Foundation of China (NSFC) General Program: "Discovery and Prediction of Spatial Distribution Patterns of Human Emotions Supported by Multi-source Big Data" (42271476), 2023
+* Principal Investigator, Key Program of the Open Fund of the State Key Laboratory of Resources and Environmental Information Systems, 2023
+* Principal Investigator, Open Fund of the Joint Laboratory of Smart Cities in Guangdong-Hong Kong-Macao Greater Bay Area: "Urban Road Traffic Noise Prediction", 2022
+* Principal Investigator, Wuhan University 2021 Graduate Excellent Course Development Project "Remote Sensing of Resources and Environment", Passed with Excellent Evaluation, 2021-2023
+* Principal Investigator, Teaching Project of "Luojia Young Scholar of Teacher Positions in Professional Courses" of Wuhan University's "351 Talent Plan", 2020
+* Principal Investigator, Open Fund of the State Key Laboratory of Surveying, Mapping and Remote Sensing Information Engineering: "Research on Urban Emotional Landscape Driven by Multi-source Data" (19E02), 2019
+* Principal Investigator, Microsoft AI for Earth Microsoft Azure Compute Grant: "Energy assessment for solar panels construction for a sustainable city", 2019
+* Principal Investigator, Riemann Space Information Technology Innovation Laboratory Project: "Beauty Mirror Based on Imaging Hyperspectral", 2019
+* Principal Investigator, Wuhan University Graduate Supervisor's Innovation Project for Talent Cultivation: "Undergraduate-Graduate Integrated Interdisciplinary Scientific Research Activities Based on the Learning Pyramid", 2019
+* Participant, National Key Research and Development Program of China: "Geographic Big Data Mining and Spatio-temporal Pattern Discovery (2017YFB0503600)", 2018
+* Participant, Hubei Provincial Teaching Research Project: "Digital Curriculum Construction Based on Big Data - Research on English Creative Writing Learning Resource Recommendation Mechanism (2017012)", 2018
+* Principal Investigator, Wuhan University Independent Innovation Research Fund Interdisciplinary Project: "Hyperspectral Remote Sensing Diagnosis and Inversion Method of Heavy Metal Pollution in Rice (2042014kf0240)", 2014 - 2015
+* Participant, National Natural Science Foundation of China (NSFC) Youth Program: "Inversion of Tea Quality-Related Parameters Based on Hyperspectral Data at Fresh Leaf and Canopy Scales (41301462)", 2014 - 2016
+* Principal Investigator, National Natural Science Foundation of China (NSFC) Youth Program: "Research on the Response Mechanism of Reptile Spatial Distribution to Thermal Environment (41101411)", 2014
+* Principal Investigator, China Postdoctoral Science Foundation General Program: "Research on the Mechanism of Reptile Spatial Distribution Driven by Changing Thermal Environment (20110491192)"
+* Participant, National 973 Program: "Theory and Method of Space-Air-Ground Integrated Earth Observation Sensor Network (2011CB707105)", 2011
+* Participant, Research on Suspended Sediment Concentration Inversion Method Based on Bio-optical Model and Hyperspectral Remote Sensing - Taking the Optical Deep Water Area of Poyang Lake as an Example (40971191), National Natural Science Foundation of China, 2010-2012
+* Participant, National Natural Science Foundation of China Project "Research on Suspended Sediment Concentration Inversion Method Based on Bio-optical Model and Hyperspectral Remote Sensing - Taking the Optical Deep Water Area of Poyang Lake as an Example (40971191), National Natural Science Foundation of China, 2010-2012"
+* Participant, Research on the Degradation Trend and Mechanism of Wetland Ecosystems in the Taihu Lake Basin of Wuxi City - Sub-project of "Research on the Current Situation and Degradation Mechanism of Wetland Ecosystems in the Taihu Lake Basin" (200904001-(5)), Special Fund for Forestry Public Welfare Scientific Research, 2009-2013
+* Participant, Lizards and Thermal Environment: Setting up Public Education Experiments in Zoos, Oliemeulen Zoo, Tilburg, Netherlands, 2007-2009
+* Participant, EU BIOFRAG Project (Fragmentation and Herpetological Biodiversity Studies in the Mediterranean Basin), Researching the impact of changing environments on Mediterranean animal habitats (http://www.itc.nl/Pub/research-themes/BIOFRAG), 2006
+* Participant, Ecological Research on Giant Panda Habitat Funded by the National Key Basic Research Program (973) (NKBRP: 2006CB701303), 2006
+* Participant, Remote Sensing Detection of Understory Bamboo in Giant Panda Habitat, Funded by the National Key Basic Research Program (973) (NKBRP: 2006CB701303), 2006
 
 ---
 
-## 指导学生参与项目：  
+# Supervising Students in Projects:
 
-
-指导国家级本科生创新训练项目:大型影像集支持下的三江源大型食草动物自动识别与分类 2022 - 2023
-
-指导国家级本科生创新训练项目:听见校园的声音——基于空间化声场技术的声音地图 2021 - 2022
-
-指导校级本科生创新训练项目：基于街景和噪音数据的城市环境舒适度对失能老人的生存风险分析 2021 - 2022
-
-指导校级本科生创新训练项目：Apore—基于可听化的电子辅助行走系统  
-
-指导校级本科生创新训练项目：图讯News Map，2020 - 2021  
-
-指导国家级本科生创新训练项目：清理天际线——AR能做什么，2018-2019  
-
-指导国家级本科生创新训练项目：大数据视角下的多尺度情绪时空分布，2018-2019  
-
-指导国家级本科生创新训练项目：基于虚拟现实技术的全景地图系统设计，2017-2018  
-
-指导校级本科生创新训练项目：基于街景图片的道路光伏测算，2018-2019  
-
-指导校级本科生创新训练项目：基于情绪图像识别的旅游景点排名及原因探究，2017-2018  
-
-指导校级本科生创新训练项目：基于leap motion 的手势识别软件开发，2016-2017  
+* Supervising National Undergraduate Innovation Training Program: Automatic Identification and Classification of Large Herbivores in Sanjiangyuan Supported by Large Image Datasets 2022 - 2023
+* Supervising National Undergraduate Innovation Training Program: Hear the Sound of Campus - Sound Map Based on Spatialized Sound Field Technology 2021 - 2022
+* Supervising University-level Undergraduate Innovation Training Program: Analysis of the Impact of Urban Environmental Comfort on the Survival Risk of Disabled Elderly Based on Street View and Noise Data 2021 - 2022
+* Supervising University-level Undergraduate Innovation Training Program: Apore - An Electronic Assistive Walking System Based on Sonification
+* Supervising University-level Undergraduate Innovation Training Program: Map News, 2020 - 2021
+* Supervising National Undergraduate Innovation Training Program: Clearing the Skyline - What Can AR Do, 2018-2019
+* Supervising National Undergraduate Innovation Training Program: Multi-scale Spatio-temporal Distribution of Emotions from the Perspective of Big Data, 2018-2019
+* Supervising National Undergraduate Innovation Training Program: Design of Panoramic Map System Based on Virtual Reality Technology, 2017-2018
+* Supervising University-level Undergraduate Innovation Training Program: Road Photovoltaic Measurement Based on Street View Images, 2018-2019
+* Supervising University-level Undergraduate Innovation Training Program: Ranking and Reason Exploration of Tourist Attractions Based on Emotional Image Recognition, 2017-2018
+* Supervising University-level Undergraduate Innovation Training Program: Development of Gesture Recognition Software Based on Leap Motion, 2016-2017

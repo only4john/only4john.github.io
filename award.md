@@ -1,92 +1,93 @@
-# 获奖和荣誉
+# Awards and Honors
 
-2023年第四届全国高等学校 GIS 教学成果奖一等奖 （排名第六） 
+First Prize, The 4th National GIS Teaching Achievement Award, 2023 (Ranked 6th)
 
-2023年武汉大学教学成果特等奖（本科教育）（排名第七） 
+Special Prize for Teaching Achievements in Undergraduate Education, Wuhan University, 2023 (Ranked 7th)
 
-2023年（第十六届）中国大学生计算机设计大赛中南地区赛二等奖指导老师  
+Second Prize, Central China Regional Competition, 16th China College Students Computer Design Competition (Advisor), 2023
 
-2022年高等教育（本科）国家级教学成果二等奖 （排名第七） 
+Second Prize, National Higher Education (Undergraduate) Teaching Achievement Award, 2022 (Ranked 7th)
 
-第九届（2022）湖北省高等学校教学成果奖一等奖（排名第7）
+First Prize, The 9th Hubei Provincial Higher Education Teaching Achievement Award, 2022 (Ranked 7th)
 
-2021年武汉大学大学生课外学术科技创新创业竞赛优秀指导教师  
+Outstanding Advisor, Wuhan University Extracurricular Academic and Technological Innovation and Entrepreneurship Competition, 2021
 
-2021年武汉大学研究生精品课程《资源与环境遥感》
+Graduate-Level Quality Course, "Remote Sensing of Resources and Environment," Wuhan University, 2021
 
-2021武汉大学教学成果特等奖（排名第四）
+Special Prize for Teaching Achievements, Wuhan University, 2021 (Ranked 4th)
 
-武汉大学珞珈青年学者（2021）
+Luojia Young Scholar, Wuhan University, 2021
 
-武汉大学第七届“互联网+”大学生创新创业大赛，三等奖 指导老师。
+Third Prize (Advisor), 7th "Internet+" College Students Innovation and Entrepreneurship Competition, Wuhan University, 2021
 
-武汉大学第七届2020“三创”成果展示会优秀学生论文奖+成果奖指导老师
+Excellent Student Paper Award & Achievement Award (Advisor), 7th "Three Innovations" Achievement Exhibition, Wuhan University, 2020
 
-2019第二届高校GIS教学成果奖二等奖（排名第四）
+Second Prize, The 2nd National GIS Teaching Achievement Award, 2019 (Ranked 4th)
 
-2019数字科技文化节暨全国3D大赛12周年精英联赛龙鼎奖（全国总决赛）一等奖 指导老师
+First Prize (Advisor), 12th Anniversary Elite Competition of National 3D Contest, Digital Technology and Culture Festival, 2019
 
-Best Short Paper Award, 27th SIGSPATIAL GIS 2019, for the paper "A Location-based Social Network System Intergrating Mobile Augmented Reality and User Generated Content", Chicago
+Best Short Paper Award, 27th SIGSPATIAL GIS, 2019, for the paper "A Location-based Social Network System Integrating Mobile Augmented Reality and User Generated Content," Chicago
 
-第十七届(2019)SuperMap杯全国高校GIS大赛一等奖  联合指导老师
+First Prize (Co-Advisor), 17th SuperMap Cup National GIS Competition, 2019
 
-武汉大学资环院2019届本科毕业论文优秀指导老师
+Outstanding Undergraduate Thesis Advisor, School of Resources and Environmental Science, Wuhan University, 2019
 
-Best Poster Award, 16th International Conference on Computers in Urban Planning and Urban Management(CUPUM 2019), China
+Best Poster Award, 16th International Conference on Computers in Urban Planning and Urban Management (CUPUM 2019), China
 
-第十六届(2018)SuperMap杯全国高校GIS大赛一等奖、最具投资价值奖 最佳指导老师
+First Prize & Most Valuable Investment Award (Best Advisor), 16th SuperMap Cup National GIS Competition, 2018
 
-第十届(2018)中国（深圳）创新创业大赛复赛武汉赛区，优秀奖 指导老师
+Excellence Award (Advisor), 10th China (Shenzhen) Innovation and Entrepreneurship Competition, 2018
 
-第二届(2018)“北斗+”双创大赛武汉赛区优秀奖 指导老师
+Excellence Award (Advisor), 2nd "Beidou+" Innovation and Entrepreneurship Competition, Wuhan Division, 2018
 
-第七届(2018)中国软件杯 大学生软件设计大赛 最佳创新奖 指导教师
+Best Innovation Award (Advisor), 7th China Software Cup University Software Design Competition, 2018
 
-第十五届(2017) SuperMap杯全国高校GIS大赛 三维应用组 优秀奖 优秀指导老师奖
+Excellent Award (Outstanding Advisor), 15th SuperMap Cup National GIS Competition, 2017
 
-第一届（2017）华测杯创新大赛 Web与移动开发组 特等奖 最佳指导教师奖
+Special Prize & Best Advisor, 1st Huace Cup Innovation Competition, Web & Mobile Development Group, 2017
 
-第三届（2017）武汉大学互联网+大学生创新创业大赛 创意组三等奖 指导老师
+Third Prize (Advisor), 3rd Wuhan University "Internet+" Innovation and Entrepreneurship Competition, Creative Group, 2017
 
-第三届（2016 ）湖北省大学生文化创意设计赛 最佳互联网服务创新设计奖 指导老师
+Best Internet Service Innovation Design Award (Advisor), 3rd Hubei University Student Cultural and Creative Design Competition, 2016
 
-2016 ESRI杯中国大学生GIS软件开发竞赛 Web与移动开发组 优秀指导教师
+Outstanding Advisor, Esri China Cup University GIS Software Development Competition, Web & Mobile Development Group, 2016
 
-2016 Esri杯中国大学生GIS软件开发竞赛 软件开发竞赛 年度最热门应用奖 指导老师
+Annual Most Popular Application Award (Advisor), Esri China Cup GIS Software Development Competition, 2016
 
-第十四届（2016）SuperMap杯全国高校GIS大赛 全国三等奖 优秀指导老师奖
+National Third Prize & Outstanding Advisor, 14th SuperMap Cup National GIS Competition, 2016
 
-第十四届（2016）SuperMap杯全国高校GIS大赛 Web与移动开发组 武汉赛区 一等奖 指导老师
+First Prize (Advisor), Web & Mobile Development Group, Wuhan Division, 14th SuperMap Cup National GIS Competition, 2016
 
-中国地理信息产业协会 2019年 第二届全国高等学校GIS教学成果奖 二等奖
+Second Prize, 2nd National GIS Teaching Achievement Award, China Association for Geographic Information Society, 2019
 
-2018年武汉大学资环院青年教师讲课比赛一等奖
+First Prize, Young Faculty Teaching Competition, School of Resources and Environmental Science, Wuhan University, 2018
 
-2014年全国GIS青年教师讲课竞赛一等奖
+First Prize, National GIS Young Faculty Teaching Competition, 2014
 
-教育部际科技进步二等奖 （“全数字、多用途土地资源评价关键技术与应用”），2011
+Second Prize, Ministerial-Level Science and Technology Progress Award ("Key Technologies and Applications for All-Digital, Multi-Purpose Land Resource Evaluation"), 2011
 
-荷兰博士全额奖学金，荷兰ITC， 2007
+Full PhD Scholarship, ITC, Netherlands, 2007
 
-ITC杰出硕士论文 （distinction on Msc thesis），荷兰ITC， 2006
+Distinction on MSc Thesis, ITC, Netherlands, 2006
 
-荷兰硕士全额奖学金，荷兰ITC， 2005
+Full MSc Scholarship, ITC, Netherlands, 2005
 
-武汉大学优秀本科生毕业论文，武汉大学， 2003
+Outstanding Undergraduate Thesis, Wuhan University, 2003
 
-- - - -
-中国人工智能学会，CAAI社会计算与智能专委会委员，2024
+-- Academic and Professional Memberships --
 
-中国遥感应用协会社会遥感地理计算专业委员会委员, 2023  
+Committee Member, CAAI Social Computing and Intelligence Committee, 2024
 
-中国遥感应用协会“空间人文社会地理计算”专业委员理事, 2022  
+Committee Member, Social Remote Sensing and Geographic Computing Committee, China Association for Remote Sensing Applications, 2023
 
-The Photogrammetric Record 期刊青年编委，2022 
+Council Member, "Spatial Humanities and Social Geographic Computing" Committee, China Association for Remote Sensing Applications, 2022
 
-中国人工智能学会终身会员，2021  
+Young Editorial Board Member, The Photogrammetric Record, 2022
 
-International Human Frontier Science Program 项目评审人, 2023
+Lifetime Member, Chinese Association for Artificial Intelligence (CAAI), 2021
 
-港铁学院 MTR Academy 项目评审人, 2023
+Reviewer, International Human Frontier Science Program, 2023
 
-Cities，CEUS，ISPRS，IJGIS，PHOR，JCP 等20余期刊审稿人
+Reviewer, MTR Academy, Hong Kong, 2023
+
+Reviewer for 20+ journals, including Cities, CEUS, ISPRS, IJGIS, PHOR, JCP
