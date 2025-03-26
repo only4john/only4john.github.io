@@ -9,7 +9,7 @@ Undergraduate students from freshman to junior year are welcome to join the rese
 
 Master's student admission preference: Students who love science, are dedicated to research, communicate proactively, and aim for academic development. Contact me: feiteng[at]whu.edu.cn (please replace [at] with @). To help you avoid pitfalls, you are also encouraged to chat with my current and graduated students (list attached).
 
-~~Please provide links to personal homepages for current and former students so I can advertise them here~~
+～～ Please provide links to personal homepages for current and former students so I can advertise them here ～～ 
 
 ## Former Students with Personal Homepages:
 
@@ -27,49 +27,49 @@ Students who worked with me on the mutual aid map during the epidemic [(snapshot
 
 ## Supervised/Current Master's Students:
 
-Chen Zhihong
-Dong Xiangrui
-Huang Zihang
-Wang Mingyuan
-Zhong Yaqian
-Zhang Xue
-Guo Ziyue
-Xiao Jing
-Li Liangchen
-Li Guowen
-Huang Jing
-Fu Yi
-Xu Zihan
-Huang Wenlin
-Mao Kainan
-Wang Jiwei
-Luo Juanjuan
-Qin Chuyi
-Jiao Dan
-Li Yangchun
-Fu Kangyu
-Wan Jiangqin
-Wang Lingjun
-Liu Ziyu
-Kang Rui
-Wu Kunlin
-Gao Mengze
-Huang Yingjing
-Bie Wanjuan
-Li Jun
-Li Yizhuo
-Li Xianxu
-Li Xijuan
-Ge Xiaoyan
-Huo Sijia
-Xu Yadan
-Qiu Weikai
-You Xiang
-Li Hanqi
-Zhang Shuangyin
-Wang Siying
-Wan Yinkang
-Wang Yunjian
-Tu Yexin
-Lu Yi
-Shen Yulian
+Chen Zhihong  
+Dong Xiangrui  
+Huang Zihang  
+Wang Mingyuan  
+Zhong Yaqian  
+Zhang Xue  
+Guo Ziyue  
+Xiao Jing  
+Li Liangchen  
+Li Guowen  
+Huang Jing  
+Fu Yi  
+Xu Zihan  
+Huang Wenlin  
+Mao Kainan  
+Wang Jiwei  
+Luo Juanjuan  
+Qin Chuyi  
+Jiao Dan  
+Li Yangchun  
+Fu Kangyu  
+Wan Jiangqin  
+Wang Lingjun  
+Liu Ziyu  
+Kang Rui  
+Wu Kunlin  
+Gao Mengze  
+Huang Yingjing  
+Bie Wanjuan  
+Li Jun  
+Li Yizhuo  
+Li Xianxu  
+Li Xijuan  
+Ge Xiaoyan  
+Huo Sijia  
+Xu Yadan  
+Qiu Weikai  
+You Xiang  
+Li Hanqi  
+Zhang Shuangyin  
+Wang Siying  
+Wan Yinkang  
+Wang Yunjian  
+Tu Yexin  
+Lu Yi  
+Shen Yulian  
