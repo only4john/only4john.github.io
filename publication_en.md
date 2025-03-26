@@ -238,32 +238,30 @@ Bian, M., A. K. Skidmore, D. Ni, J. de Leeuw, M. Schlerf, Y. Liu and **T. Fei** 
 
 卞萌, 汪铁军, 刘艳芳 and **费腾** (2007). "用间接遥感方法探测大熊猫栖息地竹林分布." (Using Indirect Remote Sensing Methods to Detect Bamboo Distribution in Giant Panda Habitat) 生 态 学 报 27(11).
 
+## Patents and Software Registrations:
 
-## 发明专利和软件登记  Patents：
+**Fei Teng**, Li Yangchun, An auditory-based auxiliary spatial perception system and method, ZL 202111373446.5 [Invention Patent]  
 
-**费腾**，李阳春，一种基于听觉的辅助空间感知系统及方法，ZL 202111373446.5[发明专利]
+Wang Bozhi, **Fei Teng**, Du Qingyun, Kang Yuhao, Li Meng, A spatial semantic similarity calculation method based on sliding window sampling, ZL 201911018798.1 [Invention Patent]  
 
-王博智，**费腾**，杜清运，康雨豪，李梦，一种基于滑动窗口采样的空间语义相似度计算方法，ZL 201911018798.1 [发明专利]
+**Fei Teng**, Kang Yuhao, Wang Yueyao, Gao Mengze, Peng Jian, Zhang Jing, Zheng Siyuan, Electronic map system based on virtual reality technology and GIS data, ZL201710210780.6 [Invention Patent]  
 
-**费腾**，康雨豪，王玥瑶，高梦泽，彭建，张晶，郑斯元，基于虚拟现实技术与GIS数据的电子地图系统， ZL201710210780.6  [发明专利] 
+**Fei Teng**, Wang Yueyao, Gao Mengze, Kang Yuhao, Peng Jian, Zheng Siyuan, Zhang Jing, A directional panoramic navigation system based on virtual reality technology, [Invention Patent] 201710209896.8  
 
-**费腾**，王玥瑶，高梦泽，康雨豪，彭建，郑斯元，张晶，基于虚拟现实技术的指向性全景导航系统, [发明专利]  201710209896.8 
+**Fei Teng**, Tu Yexin, A method and system for remote sensing monitoring of tea garden plant polyphenol content in large areas, ZL201610947823.4 [Invention Patent]  
 
-**费腾**，涂晔昕 ，一种遥感监测大面积茶园植株多酚含量的方法及系统，ZL201610947823.4 [发明专利] 
+**Fei Teng**, Zhang Shuangyin, A leaf clip device based on near-infrared specific wavelengths for diagnosing rice cadmium stress intensity, 20190046755.8 [Invention Patent] Under Review  
 
-**费腾**，张双印，基于近红外特定波长的水稻镉胁迫强度诊断叶片夹装置，20190046755.8 [发明专利] 审查中 
+**Fei Teng**, Gao Mengze, Soil identification system based on Munsell color system, [Software Copyright] 2021SR0125763  
 
-**费腾**，高梦泽， 基于孟塞尔颜色体系的土壤识别系统，[软件著作]2021SR0125763 
+**Fei Teng**, Zhuang Yonggai, Psychological monitoring and early warning system software based on facial emotion data changes, [Software Copyright] 2023SR0560336  
 
-**费腾**，庄永概，基于人脸情绪数据变化的心理监测预警系统软件, [软件著作] 2023SR0560336 
+**Fei Teng**, Wu Kunlin, Yue Yuanwen, Ma Xianping, et al., Short message sharing software based on augmented reality technology, [Software Copyright] 2019SR0292337  
 
-**费腾**，吴坤霖，岳远紊，马献平 等，基于增强现实技术的短信息分享软件 [软件著作权] 2019SR0292337   
+**Fei Teng**, Li Jun; Jia Qingyuan, English creative writing recommendation system V1.0 based on content and collaborative filtering, [Software Copyright] 2019SR0440596  
 
-**费腾**，李俊；贾清源，基于内容和协同过滤的英语创意写作推荐系统V1.0, [软件著作] 2019SR0440596 
+**Fei Teng**, Kang Yuhao, Immersive panoramic experience software based on virtual reality technology [Tianjie Luojia], [Software Copyright] 2017SR038445  
 
-**费腾**，康雨豪，基于虚拟现实技术的沉浸式全景体验软件[天街珞珈]，[软件著作] 2017SR038445 
+**Fei Teng**, Zhang Haochen, Zheng Yonghong, Xu Yadan, A microscopic hyperspectral scanning instrument for tree ring samples, [Utility Model Patent] 201920872267  
 
-**费腾**，张昊辰，郑永宏，徐亚丹，一种显微高光谱扫描树轮样本仪器，[实用新型] 201920872267 
-
-**费腾**，王玥瑶，高梦泽，康雨豪，彭建，郑斯元，张晶，基于双全景相机的全景数据收集系统及装置，[实用新型] ZL2017-2-0335095.1 
-
+**Fei Teng**, Wang Yueyao, Gao Mengze, Kang Yuhao, Peng Jian, Zheng Siyuan, Zhang Jing, Panoramic data collection system and device based on dual panoramic cameras, [Utility Model Patent] ZL2017-2-0335095.1  

@@ -1,5 +1,5 @@
 ---
-layout: default_ch
+layout: default_zh
 title: 瞎写的诗
 ---
 # 瞎写的诗 <img src='img\Donghu.jpg' style=' float:right; width:450px;height: px'/>  
