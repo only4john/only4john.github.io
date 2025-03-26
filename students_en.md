@@ -4,8 +4,8 @@ title: Students
 ---
 # Students
 
-<p align="right">"Why have students in a university? "</p>
-<p align="right">" -- Because professors have things they don't understand."</p>
+<p align="right">"Why have students in a university? </p>
+<p align="right"> -- Because professors have things they don't understand."</p>
 
 All students are outstanding in their own way, and I am proud of them.
 
