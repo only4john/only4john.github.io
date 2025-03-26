@@ -1,3 +1,7 @@
+---
+layout: default_en
+title: Fei Teng
+---
 ## Teng FEI [<img src='img\icon.jpg' style=' float:right; width:150px;height: px'/>](https://scholar.google.com/citations?user=yDkjL1UAAAAJ&hl=en)
  
 Ph.D., Associate Professor, Doctoral Promotor  

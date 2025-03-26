@@ -1,3 +1,7 @@
+---
+layout: default_en
+title: Students
+---
 # Students
 
 <p align="right">"Why have students in a university? "</p>

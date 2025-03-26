@@ -1,3 +1,7 @@
+---
+layout: default_en
+title: Academic Publication
+---
 # Academic output 
 
 ## Publication  （ * stands for corresponding author ）

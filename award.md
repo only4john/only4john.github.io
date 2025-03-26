@@ -1,3 +1,7 @@
+---
+layout: default_en
+title: Awards, Honors and Professional Memberships 
+---
 # Awards and Honors
 
 First Prize, The 4th National GIS Teaching Achievement Award, 2023 (Ranked 6th)
