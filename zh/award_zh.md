@@ -1,5 +1,5 @@
 ---
-layout: default_ch
+layout: default_zh
 title: 获奖和荣誉
 ---
 # 获奖和荣誉

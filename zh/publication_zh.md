@@ -1,5 +1,5 @@
 ---
-layout: default_ch
+layout: default_zh
 title: 学术成果
 ---
 # Academic output 学术成果  

@@ -1,5 +1,5 @@
 ---
-layout: default_ch
+layout: default_zh
 title: 学  生
 ---
 # 学 生 
