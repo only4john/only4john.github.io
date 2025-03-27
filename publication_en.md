@@ -238,7 +238,7 @@ Bian, M., A. K. Skidmore, D. Ni, J. de Leeuw, M. Schlerf, Y. Liu and **T. Fei** 
 
 卞萌, 汪铁军, 刘艳芳 and **费腾** (2007). "用间接遥感方法探测大熊猫栖息地竹林分布." (Using Indirect Remote Sensing Methods to Detect Bamboo Distribution in Giant Panda Habitat) 生 态 学 报 27(11).
 
-## Patents and Software Registrations:
+## Patents and Software Registrations
 
 **Fei Teng**, Li Yangchun, An auditory-based auxiliary spatial perception system and method, ZL 202111373446.5 [Invention Patent]  
 
