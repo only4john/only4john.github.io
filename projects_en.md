@@ -36,6 +36,8 @@ title: Projects
 
 * Participant, National 973 Program: "Theory and Method of Space-Air-Ground Integrated Earth Observation Sensor Network (2011CB707105)", 2011  
 
+* Participation in the Key R&D and Transformation Program of Qinghai Province: “Research and Demonstration of Early Warning and Prevention Technology for Human-Bear Conflicts” 2023-SF-148S-4
+
 * Participant, Research on Suspended Sediment Concentration Inversion Method Based on Bio-optical Model and Hyperspectral Remote Sensing - Taking the Optical Deep Water Area of Poyang Lake as an Example (40971191), National Natural Science Foundation of China, 2010-2012  
 
 * Participant, National Natural Science Foundation of China Project "Research on Suspended Sediment Concentration Inversion Method Based on Bio-optical Model and Hyperspectral Remote Sensing - Taking the Optical Deep Water Area of Poyang Lake as an Example (40971191), National Natural Science Foundation of China, 2010-2012  
@@ -63,7 +65,6 @@ title: Projects
 * Supervising University-level Undergraduate Innovation Training Program: Apore - An Electronic Assistive Walking System Based on Sonification 2021 - 2022    
 
 * Supervising University-level Undergraduate Innovation Training Program: Map News, 2020 - 2021  
-
 * Supervising National Undergraduate Innovation Training Program: Clearing the Skyline - What Can AR Do, 2018-2019  
 
 * Supervising National Undergraduate Innovation Training Program: Multi-scale Spatio-temporal Distribution of Emotions from the Perspective of Big Data, 2018-2019  
