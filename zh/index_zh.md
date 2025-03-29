@@ -2,7 +2,7 @@
 layout: default_zh
 title: 费  腾
 ---
-## 费&ensp;&ensp;腾&ensp;&ensp;FEI Teng [<img src='..\img\icon.jpg' style=' float:right; width:150px;height: px' id='profile-photo'/>](http://47.101.135.251:4396/#/)  (<span style="color: red;font-size: 12px;">&#x25CF;</span> 我不在办公室里)
+## 费&ensp;&ensp;腾&ensp;&ensp;FEI Teng [<img src='..\img\icon.jpg' style=' float:right; width:150px;height: px' id='profile-photo'/>](http://47.101.135.251:4396/#/)  (<span style="color: red;font-size: 12px;">&#x25CF;</span> 我不在办公室里) (<span style="color: green; font-size: 14px;">&#x25CF;</span> <span style="font-size: 14px;">我在办公室里</span>)
 
 
 
