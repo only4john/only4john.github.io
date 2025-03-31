@@ -5,7 +5,7 @@ title: 费  腾
 ## 费&ensp;&ensp;腾&ensp;&ensp;FEI Teng [<img src='..\img\icon.jpg' style=' float:right; width:150px;height: px' id='profile-photo'/>](http://47.101.135.251:4396/#/) 
 
 
-博士， 武汉大学 资源与环境科学学院，副教授，博导 （但没有25年招生名额）  
+博士， 武汉大学 资源与环境科学学院，副教授，博导   
 研究方向： 城市地理大数据，生态遥感应用，地理信息科学相关  
 Email: feiteng[at]whu.edu.cn  
 
