@@ -39,4 +39,4 @@ Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic In
 
 ---
 
-Graduate Recruitment Areas: Cartography and Geographic Information Science, Surveying and Mapping Engineering
+Graduate Recruitment research area: Cartography and Geographic Information Science, Surveying and Mapping Engineering
