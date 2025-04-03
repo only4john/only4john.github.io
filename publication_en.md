@@ -240,6 +240,8 @@ Bian, M., A. K. Skidmore, D. Ni, J. de Leeuw, M. Schlerf, Y. Liu and **T. Fei** 
 
 ## Patents and Software Registrations
 
+Zhang Shuangyin; **Fei Teng**; Xu Jian et.al. A Leaf Clip for Identifying the Categories of Heavy Metal Pollution in Vegetation with Selectable Bands. ZL 202320853314.0 [Invention Patent]  
+
 **Fei Teng**, Li Yangchun, An auditory-based auxiliary spatial perception system and method, ZL 202111373446.5 [Invention Patent]  
 
 Wang Bozhi, **Fei Teng**, Du Qingyun, Kang Yuhao, Li Meng, A spatial semantic similarity calculation method based on sliding window sampling, ZL 201911018798.1 [Invention Patent]  
@@ -249,8 +251,6 @@ Wang Bozhi, **Fei Teng**, Du Qingyun, Kang Yuhao, Li Meng, A spatial semantic si
 **Fei Teng**, Wang Yueyao, Gao Mengze, Kang Yuhao, Peng Jian, Zheng Siyuan, Zhang Jing, A directional panoramic navigation system based on virtual reality technology, [Invention Patent] 201710209896.8  
 
 **Fei Teng**, Tu Yexin, A method and system for remote sensing monitoring of tea garden plant polyphenol content in large areas, ZL201610947823.4 [Invention Patent]  
-
-**Fei Teng**, Zhang Shuangyin, A leaf clip device based on near-infrared specific wavelengths for diagnosing rice cadmium stress intensity, 20190046755.8 [Invention Patent] Under Review  
 
 **Fei Teng**, Gao Mengze, Soil identification system based on Munsell color system, [Software Copyright] 2021SR0125763  
 
