@@ -7,7 +7,9 @@ title: 学术成果
 ## Publication 发表论文 （ * stands for corresponding author  * 为通讯作者）
 --- 2025 ---
 
-Fu, Y., **Teng Fei**\*, Huang, W., Ge, X., Yi, J., Sun, Y., … Du, Y. (2025). Unraveling environmental risk awareness in China over four decades from mass media and academic archives. International Journal of Geographical Information Science, 1–26. https://doi.org/10.1080/13658816.2024.2437054
+Shuangyin Zhang, Baocheng Zhao, Xu Jian, Junlin Fu, Yiyun Chen, **Teng Fei**\*, Improving the prediction of vegetation carbon, phosphorus, and C:P ratio of alpine grassland in the Three-River Headwater Region by combining the field and laboratory reflectance spectroscopy, Soil and Tillage Research, 251, 2025, 106563,https://doi.org/10.1016/j.still.2025.106563 [生态遥感]
+
+Fu, Y., **Teng Fei**\*, Huang, W., Ge, X., Yi, J., Sun, Y., … Du, Y. (2025). Unraveling environmental risk awareness in China over four decades from mass media and academic archives. International Journal of Geographical Information Science, 1–26. https://doi.org/10.1080/13658816.2024.2437054 [空间大数据]
 
 --- 2024 ---  
 
