@@ -4,6 +4,8 @@ title: Projects
 ---
 # Projects involved
 
+* Participated in the key special project "Research on Key Technologies for the Full Lifecycle Governance of Urban Living Bodies" under the "Science and Technology Support for Social Governance and Smart Society (Safe China)" of the National Key Research and Development Program, 2024YFC3307600.
+
 * Principal Investigator, National Natural Science Foundation of China (NSFC) General Program: "Discovery and Prediction of Spatial Distribution Patterns of Human Emotions Supported by Multi-source Big Data" (42271476), 2023  
 
 * Principal Investigator, Key Program of the Open Fund of the State Key Laboratory of Resources and Environmental Information Systems, 2023  
