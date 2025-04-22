@@ -90,7 +90,7 @@ ITC，the Netherlands, MSc 科学硕士
               displayColor = 'green';
               break;
             case 'out': // 假设您 API 会返回 'out'
-              displayMessage = '不在办公室';
+              displayMessage = '我不在办公室';
               displayColor = 'red';
               break;
             // 您可以根据需要添加更多状态判断
