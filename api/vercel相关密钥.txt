@@ -1,0 +1,13 @@
+KV_URL="rediss://default:AUv0AAIjcDEyZDM2Y2I2YzUyNDc0Y2MyOTJjNWM1OGFmMTQ2MTliYnAxMA@adjusted-wombat-19444.upstash.io:6379"
+KV_REST_API_READ_ONLY_TOKEN="Akv0AAIgcDEfDJuXQiGH4ZlO-uzTCXXt3iBCFC-xFNPOtmkA5xq6_w"
+REDIS_URL="rediss://default:AUv0AAIjcDEyZDM2Y2I2YzUyNDc0Y2MyOTJjNWM1OGFmMTQ2MTliYnAxMA@adjusted-wombat-19444.upstash.io:6379"
+KV_REST_API_TOKEN="AUv0AAIjcDEyZDM2Y2I2YzUyNDc0Y2MyOTJjNWM1OGFmMTQ2MTliYnAxMA"
+KV_REST_API_URL="https://adjusted-wombat-19444.upstash.io"
+
+
+from upstash_redis import Redis
+
+redis = Redis(url="https://adjusted-wombat-19444.upstash.io", token="AUv0AAIjcDEyZDM2Y2I2YzUyNDc0Y2MyOTJjNWM1OGFmMTQ2MTliYnAxMA")
+
+redis.set("foo", "bar")
+value = redis.get("foo")
