@@ -30,7 +30,7 @@ ITC，the Netherlands, MSc 科学硕士
 2013/01 - 今，&ensp;&ensp;&ensp;&ensp;&ensp;
 武汉大学，资源与环境科学学院，副教授  
 
-2025/05 - 今, &ensp;&ensp;&ensp;&ensp;&ensp;
+2025/05 - 今，&ensp;&ensp;&ensp;&ensp;&ensp;
 坎特伯雷大学，访问学者
 
 2019/09 - 2020/09，伊利诺伊大学厄巴纳香槟分校（UIUC），访问学者  
