@@ -25,6 +25,7 @@ Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic In
 ## Research Experience:
 
 - Associate Professor, School of Resource and Environmental Sciences, Wuhan University
+- Visiting Scholar, University of Canterbury, New Zealand
 - Visiting Scholar, University of Illinois at Urbana-Champaign (UIUC)
 - Lecturer, School of Resource and Environmental Sciences, Wuhan University
 - Postdoctoral Researcher, School of Resource and Environmental Sciences, Wuhan University
