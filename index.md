@@ -6,7 +6,7 @@ title: Fei Teng
  
 Ph.D., Associate Professor, Doctoral Promotor  
 School of Resource and Environmental Sciences, Wuhan University  
-Visiting Scholar at the University of Canterbury, New Zealand
+Visiting Scholar at the University of Canterbury, New Zealand  
  
 Research Interests: Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic Information Science
 
@@ -14,7 +14,7 @@ Email: feiteng[at]whu.edu.cn
 
 ---
 
-## Specific Interests: [<img src='img\podcast.svg' style=' float:right; width:20px;height: px'/>](post/Decoding_Our_Urban_Forests.mp3)
+## Specific Interests: [<img src='img\podcast.svg' style=' float:right; width:40px;height: px'/>](posts/Decoding_Our_Urban_Forests.mp3)
 
 Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic Information Science, Location-Based Services (LBS), Forestry Remote Sensing, Hyperspectral Remote Sensing, Natural Resource Management, Health Geography, Human Emotional Landscapes, Urban Acoustic Environment  
 
