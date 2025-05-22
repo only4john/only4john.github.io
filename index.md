@@ -14,7 +14,7 @@ Email: feiteng[at]whu.edu.cn
 
 ---
 
-## Specific Interests: [<img src='img\podcast.svg' style=' float:right; width:50px;height: px'/>](posts/Decoding_Our_Urban_Forests.mp3)
+## Research Interests: [<img src='img\podcast.svg' style=' float:right; width:50px;height: px'/>](posts/Decoding_Our_Urban_Forests.mp3)
 
 Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic Information Science, Location-Based Services (LBS), Forestry Remote Sensing, Hyperspectral Remote Sensing, Natural Resource Management, Health Geography, Human Emotional Landscapes, Urban Acoustic Environment  
 
