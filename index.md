@@ -5,7 +5,7 @@ title: Fei Teng
 ## Teng FEI [<img src='img\icon.jpg' style=' float:right; width:150px;height: px'/>](https://scholar.google.com/citations?user=yDkjL1UAAAAJ&hl=en)
  
 Ph.D., Associate Professor, Doctoral Promotor  
-School of Resource and Environmental Sciences, Wuhan University
+School of Resource and Environmental Sciences, Wuhan University  
 Visiting Scholar at the University of Canterbury, New Zealand
  
 Research Interests: Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic Information Science
