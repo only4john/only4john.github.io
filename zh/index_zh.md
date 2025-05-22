@@ -3,7 +3,7 @@ layout: default_zh
 title: 费  腾
 ---
 
-## 费&ensp;&ensp;腾&ensp;&ensp;FEI Teng [<img src='..\img\icon.jpg' style=' float:right; width:150px;height: px' id='profile-photo'/>](https://scholar.google.com/citations?user=yDkjL1UAAAAJ&hl=en) (<span id="status-indicator" style="font-size: 16px;">&#x25CF;</span> <span id="status-message" style="font-size: 16px;">正在查询状态...</span>) (<span style="color: green; font-size: 16px;">&#x25CF;</span> <span style="font-size: 16px;">我在办公室里</span>)
+## 费&ensp;&ensp;腾&ensp;&ensp;FEI Teng [<img src='..\img\icon.jpg' style=' float:right; width:150px;height: px' id='profile-photo'/>](https://scholar.google.com/citations?user=yDkjL1UAAAAJ&hl=en) (<span id="status-indicator" style="font-size: 16px;">&#x25CF;</span> <span id="status-message" style="font-size: 16px;">正在查询状态...</span>) (<span style="color: red; font-size: 16px;">&#x25CF;</span> <span style="font-size: 16px;">我不在办公室里</span>)
 
 博士， 武汉大学 资源与环境科学学院，副教授，博导   
 研究方向： 城市地理大数据，生态遥感应用，地理信息科学相关  
