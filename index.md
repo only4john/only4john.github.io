@@ -11,10 +11,11 @@ Visiting Scholar at the University of Canterbury, New Zealand
 Research Interests: Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic Information Science
 
 Email: feiteng[at]whu.edu.cn  
+<span style="float:right;">Podcast -> [<img src='img\podcast.svg' style='width:40px;height:auto; margin-left:5px;'/>](posts/Decoding_Our_World.mp3)</span>
 
 ---
 
-## Research Interests: <span style="float:right;">Podcast -> [<img src='img\podcast.svg' style='width:40px;height:auto; margin-left:5px;'/>](posts/Decoding_Our_World.mp3)</span>
+## Research Interests: 
 
 Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic Information Science, Location-Based Services (LBS), Forestry Remote Sensing, Hyperspectral Remote Sensing, Natural Resource Management, Health Geography, Human Emotional Landscapes, Urban Acoustic Environment  
 
