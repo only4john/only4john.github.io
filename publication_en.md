@@ -11,7 +11,7 @@ Junhao Yang, Juanjuan Luo, Meng Bian, Yifei Liu, **Teng Fei**\* (2025), Street s
 
 Shuangyin Zhang, Baocheng Zhao, Xu Jian, Junlin Fu, Yiyun Chen, **Teng Fei**\* (2025), Improving the prediction of vegetation carbon, phosphorus, and C:P ratio of alpine grassland in the Three-River Headwater Region by combining the field and laboratory reflectance spectroscopy, Soil and Tillage Research, 251, 2025, 106563,https://doi.org/10.1016/j.still.2025.106563 [Ecological Remote Sensing]
 
-Fu, Y., **Teng Fei**\*, Huang, W., Ge, X., Yi, J., Sun, Y., … Du, Y. (2025). Unraveling environmental risk awareness in China over four decades from mass media and academic archives. International Journal of Geographical Information Science, 1–26. https://doi.org/10.1080/13658816.2024.2437054 [Spatial Big Data]
+Fu, Y., **Teng Fei**\*, Huang, W., Ge, X., Yi, J., Sun, Y., … Du, Y. (2025). Unraveling environmental risk awareness in China over four decades from mass media and academic archives. International Journal of Geographical Information Science, 1–26. https://doi.org/10.1080/13658816.2024.2437054 [Spatial Big Data][研究漫谈](https://mp.weixin.qq.com/s/kPOCG7hnQAcHNSMCZdN9VQ){:target="_blank"}
 
 --- 2024 ---
 
