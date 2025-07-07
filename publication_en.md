@@ -7,7 +7,9 @@ title: Academic Publication
 ## Publication  （ * stands for corresponding author ）
 --- 2025 ---
 
-Shuangyin Zhang, Baocheng Zhao, Xu Jian, Junlin Fu, Yiyun Chen, **Teng Fei**\*, Improving the prediction of vegetation carbon, phosphorus, and C:P ratio of alpine grassland in the Three-River Headwater Region by combining the field and laboratory reflectance spectroscopy, Soil and Tillage Research, 251, 2025, 106563,https://doi.org/10.1016/j.still.2025.106563 [Ecological Remote Sensing]
+Junhao Yang, Juanjuan Luo, Meng Bian, Yifei Liu, **Teng Fei**\* (2025), Street similarity assessment from a pedestrian's walk-through perspective, Journal of Urban Management,ISSN 2226-5856,https://doi.org/10.1016/j.jum.2025.05.017. [Street View Big Data][研究漫谈](posts/街道的相似性.jpg){:target="_blank"}
+
+Shuangyin Zhang, Baocheng Zhao, Xu Jian, Junlin Fu, Yiyun Chen, **Teng Fei**\* (2025), Improving the prediction of vegetation carbon, phosphorus, and C:P ratio of alpine grassland in the Three-River Headwater Region by combining the field and laboratory reflectance spectroscopy, Soil and Tillage Research, 251, 2025, 106563,https://doi.org/10.1016/j.still.2025.106563 [Ecological Remote Sensing]
 
 Fu, Y., **Teng Fei**\*, Huang, W., Ge, X., Yi, J., Sun, Y., … Du, Y. (2025). Unraveling environmental risk awareness in China over four decades from mass media and academic archives. International Journal of Geographical Information Science, 1–26. https://doi.org/10.1080/13658816.2024.2437054 [Spatial Big Data]
 

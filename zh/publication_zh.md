@@ -7,13 +7,15 @@ title: 学术成果
 ## Publication 发表论文 （ * stands for corresponding author  * 为通讯作者）
 --- 2025 ---
 
+Junhao Yang, Juanjuan Luo, Meng Bian, Yifei Liu, **Teng Fei**\* (2025), Street similarity assessment from a pedestrian's walk-through perspective, Journal of Urban Management,ISSN 2226-5856,https://doi.org/10.1016/j.jum.2025.05.017. [空间大数据][Street View Big Data][研究漫谈](../posts/街道的相似性.jpg){:target="_blank"}
+
 Shuangyin Zhang, Baocheng Zhao, Xu Jian, Junlin Fu, Yiyun Chen, **Teng Fei**\*, Improving the prediction of vegetation carbon, phosphorus, and C:P ratio of alpine grassland in the Three-River Headwater Region by combining the field and laboratory reflectance spectroscopy, Soil and Tillage Research, 251, 2025, 106563,https://doi.org/10.1016/j.still.2025.106563 [生态遥感]
 
 Fu, Y., **Teng Fei**\*, Huang, W., Ge, X., Yi, J., Sun, Y., … Du, Y. (2025). Unraveling environmental risk awareness in China over four decades from mass media and academic archives. International Journal of Geographical Information Science, 1–26. https://doi.org/10.1080/13658816.2024.2437054 [空间大数据]
 
 --- 2024 ---  
 
-Zhuang, Y., Kang, Y.*, **Teng Fei**\*, Bian, M., & Du, Y. (2024). From hearing to seeing: Linking auditory and visual place perceptions with soundscape-to-image generative artificial intelligence. Computers, Environment and Urban Systems, 110, 102122.[街景大数据][\[研究漫谈\]](../../posts/扛上录音机去街拍.jpg){:target="_blank"}  
+Zhuang, Y., Kang, Y.*, **Teng Fei**\*, Bian, M., & Du, Y. (2024). From hearing to seeing: Linking auditory and visual place perceptions with soundscape-to-image generative artificial intelligence. Computers, Environment and Urban Systems, 110, 102122.[街景大数据][\[研究漫谈\]](../posts/扛上录音机去街拍.jpg){:target="_blank"}  
 
 **费腾**\*,付康钰,卞萌,杨妙龄 (2024) 基于情绪计算的GIS硕士面试成绩预测, Predicting Interview Scores for the Master of Science in Geographic Information Based on Emotional Computing ，地理空间信息,2024,22(4):128-132. doi:10.3969/i.isn.1672-4623.2024.04.031 [情绪计算][教学论文][\[研究漫谈\]](../posts/越来越高级.jpg){:target="_blank"}  
 
