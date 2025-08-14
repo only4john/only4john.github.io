@@ -7,6 +7,8 @@ title: Academic Publication
 ## Publication  （ * stands for corresponding author ）
 --- 2025 ---
 
+Jing Guo\*, **Teng Fei**\*, Xiumei Yang, Linda Lilburne, Derrick Moot, Brent Martin, Edmar Teixeira, Man Yang (2025),Can we use APSIM’s embedded expert knowledge to ‘train’ a machine learning model to identify, at high resolution, land suitable to grow lucerne (Medicago sativa L.) using simplified climate data?,European Journal of Agronomy,17(171), 127815, https://www.sciencedirect.com/science/article/pii/S1161030125003119 [Agronomy]
+
 Junhao Yang, Juanjuan Luo, Meng Bian, Yifei Liu, **Teng Fei**\* (2025), Street similarity assessment from a pedestrian's walk-through perspective, Journal of Urban Management,ISSN 2226-5856,https://doi.org/10.1016/j.jum.2025.05.017. [Street View Big Data][研究漫谈](posts/街道的相似性.jpg){:target="_blank"}
 
 Shuangyin Zhang, Baocheng Zhao, Xu Jian, Junlin Fu, Yiyun Chen, **Teng Fei**\* (2025), Improving the prediction of vegetation carbon, phosphorus, and C:P ratio of alpine grassland in the Three-River Headwater Region by combining the field and laboratory reflectance spectroscopy, Soil and Tillage Research, 251, 2025, 106563,https://doi.org/10.1016/j.still.2025.106563 [Ecological Remote Sensing]
