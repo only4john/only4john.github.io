@@ -17,6 +17,8 @@ Shuangyin Zhang, Baocheng Zhao, Xu Jian, Junlin Fu, Yiyun Chen, **Teng Fei**\* (
 
 Fu, Y., **Teng Fei**\*, Huang, W., Ge, X., Yi, J., Sun, Y., … Du, Y. (2025). Unraveling environmental risk awareness in China over four decades from mass media and academic archives. International Journal of Geographical Information Science, 1–26. https://doi.org/10.1080/13658816.2024.2437054 [Spatial Big Data][研究漫谈](https://mp.weixin.qq.com/s/kPOCG7hnQAcHNSMCZdN9VQ){:target="_blank"}
 
+Huang, Zihang and **Fei, Teng**\* and Bian, Meng, (2025) A Spatial Explicit Method Combining Hysplit and Random Forest for Predicting the Next-Day Pollen Concentration at Urban Scale. Available at SSRN: https://ssrn.com/abstract=5038806 [Pre-print]
+
 --- 2024 ---
 
 Zhuang, Y., Kang, Y.*, **Teng Fei**\*, Bian, M., & Du, Y. (2024). From hearing to seeing: Linking auditory and visual place perceptions with soundscape-to-image generative artificial intelligence. Computers, Environment and Urban Systems, 110, 102122.[Street View Big Data][研究漫谈](posts/扛上录音机去街拍.jpg){:target="_blank"}
