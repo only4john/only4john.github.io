@@ -6,6 +6,7 @@ title: Academic Publication
 
 ## Publication  （ * stands for corresponding author ）
 --- 2025 ---
+
 Zhuang, Y., Gui, Y., & **T. Fei**\* (2025). Soundscape-to-panorama: spatialize auditory perception by linking acoustic environment to panorama. International Journal of Digital Earth, 18(1). https://doi.org/10.1080/17538947.2025.2545584 [Street View Big Data]
 
 Jing Guo\*, **Teng Fei**\*, Xiumei Yang, Linda Lilburne, Derrick Moot, Brent Martin, Edmar Teixeira, Man Yang (2025),Can we use APSIM’s embedded expert knowledge to ‘train’ a machine learning model to identify, at high resolution, land suitable to grow lucerne (Medicago sativa L.) using simplified climate data?,European Journal of Agronomy,17(171), 127815, https://www.sciencedirect.com/science/article/pii/S1161030125003119 [Agronomy]
