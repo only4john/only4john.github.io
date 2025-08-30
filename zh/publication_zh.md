@@ -7,9 +7,13 @@ title: 学术成果
 ## Publication 发表论文 （ * stands for corresponding author  * 为通讯作者）
 --- 2025 ---
 
-Zhuang, Y., Gui, Y., & **T. Fei**\* (2025). Soundscape-to-panorama: spatialize auditory perception by linking acoustic environment to panorama. International Journal of Digital Earth, 18(1). https://doi.org/10.1080/17538947.2025.2545584 [Street View Big Data]
+Z. Chen, **T. Fei**\*, J. Xiao, J. Huang, D. Jia, M. Bian, (2025).Estimating urban noise levels from Multi-Scale and Multi-Spectral remote sensing imagery,
+International Journal of Applied Earth Observation and Geoinformation,143,104818,
+https://doi.org/10.1016/j.jag.2025.104818. [城市声环境]
 
-Jing Guo\*, **Teng Fei**\*, Xiumei Yang, Linda Lilburne, Derrick Moot, Brent Martin, Edmar Teixeira, Man Yang (2025),Can we use APSIM’s embedded expert knowledge to ‘train’ a machine learning model to identify, at high resolution, land suitable to grow lucerne (Medicago sativa L.) using simplified climate data?,European Journal of Agronomy,17(171), 127815, https://www.sciencedirect.com/science/article/pii/S1161030125003119 [Agronomy]
+Zhuang, Y., Gui, Y., & **T. Fei**\* (2025). Soundscape-to-panorama: spatialize auditory perception by linking acoustic environment to panorama. International Journal of Digital Earth, 18(1). https://doi.org/10.1080/17538947.2025.2545584 [城市声环境]
+
+Jing Guo\*, **Teng Fei**\*, Xiumei Yang, Linda Lilburne, Derrick Moot, Brent Martin, Edmar Teixeira, Man Yang (2025),Can we use APSIM’s embedded expert knowledge to ‘train’ a machine learning model to identify, at high resolution, land suitable to grow lucerne (Medicago sativa L.) using simplified climate data?,European Journal of Agronomy,17(171), 127815, https://www.sciencedirect.com/science/article/pii/S1161030125003119 [农学]
 
 Junhao Yang, Juanjuan Luo, Meng Bian, Yifei Liu, **Teng Fei**\* (2025), Street similarity assessment from a pedestrian's walk-through perspective, Journal of Urban Management,ISSN 2226-5856,https://doi.org/10.1016/j.jum.2025.05.017. [空间大数据][研究漫谈](../posts/街道的相似性.jpg){:target="_blank"}
 
