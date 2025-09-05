@@ -4,6 +4,8 @@ title: Projects
 ---
 # Projects involved
 
+* Principal Investigator, National Natural Science Foundation of China (NSFC) General Program: "Decoding Spatiotemporal Patterns of Urban Sound Environments Using an Audiovisual Association Model" (Project No. 42571486), 2026.
+
 * Participated in the key special project "Research on Key Technologies for the Full Lifecycle Governance of Urban Living Bodies" under the "Science and Technology Support for Social Governance and Smart Society (Safe China)" of the National Key Research and Development Program, 2024YFC3307600.
 
 * Principal Investigator, National Natural Science Foundation of China (NSFC) General Program: "Discovery and Prediction of Spatial Distribution Patterns of Human Emotions Supported by Multi-source Big Data" (42271476), 2023  
