@@ -80,6 +80,8 @@ Outstanding Undergraduate Thesis, Wuhan University, 2003
 
 # Academic and Professional Memberships 
 
+Editorial Board Member, BMC Public Health, 2025
+
 Committee Member, CAAI Social Computing and Intelligence Committee, 2024
 
 Committee Member, Social Remote Sensing and Geographic Computing Committee, China Association for Remote Sensing Applications, 2023
