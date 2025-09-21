@@ -4,6 +4,8 @@ title: Awards, Honors and Professional Memberships
 ---
 # Awards and Honors
 
+Excellence Award，2024 Henan Outstanding Popular Science Reading Award
+
 First Prize, The 4th National GIS Teaching Achievement Award, 2023 (Ranked 6th)
 
 Special Prize for Teaching Achievements in Undergraduate Education, Wuhan University, 2023 (Ranked 7th)
