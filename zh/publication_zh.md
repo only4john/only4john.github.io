@@ -4,7 +4,7 @@ title: 学术成果
 ---
 # Academic output 学术成果  
 
-## Publication 发表论文 （ * stands for corresponding author  * 为通讯作者）
+## Publication 发表论文 （ * 为通讯作者）
 --- 2025 ---
 
 Wang, L., Tan, H., Luo, P., Meng, L., & **Fei, T.**\* (2025). Species habitat modeling based on image semantic segmentation. Scientific Reports, 15(1), 33936. https://doi.org/10.1038/s41598-025-09035-6 [生态学]
