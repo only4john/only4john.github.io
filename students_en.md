@@ -27,12 +27,15 @@ Kang Yuhao: www.kkyyhh96.site
 
 Wu Kunlin: www.wklwkl96.com
 
-Students who worked with me on the mutual aid map during the epidemic [(snapshot)](https://only4john.github.io/img/图述简介720低.mp4) [(students)](https://only4john.github.io/img/地图封底0317.mp4)
+Students who worked with me on the mutual aid map during the epidemic [(snapshot)](https://only4john.github.io/img/图述简介720低.mp4) [(student name list)](https://only4john.github.io/img/地图封底0317.mp4)
 
 -----
 
 ## Supervised/Current Master's Students:
-
+Mao Rui  
+Zhang Hengrui  
+Yang Youping  
+Liu Yixi 
 Chen Zhihong  
 Dong Xiangrui  
 Huang Zihang  
