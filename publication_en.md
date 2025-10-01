@@ -7,13 +7,13 @@ title: Academic Publication
 ## Publication  （ * stands for corresponding author ）
 --- 2025 ---
 
-Xiao, J., **Fei, T.**\*, Yu, B. et al.,(2025). Street view images help to reveal the impact of noisy environments on the survival duration of stroke patients. Int J Health Geogr 24, 27, 2025. https://doi.org/10.1186/s12942-025-00416-8
+Xiao, J., **Fei, T.**\*, Yu, B. et al.,(2025). Street view images help to reveal the impact of noisy environments on the survival duration of stroke patients. Int J Health Geogr 24, 27, 2025. https://doi.org/10.1186/s12942-025-00416-8 [Sound Environment]
 
 Z. Chen, **T. Fei**\*, J. Xiao, J. Huang, D. Jia, M. Bian, (2025).Estimating urban noise levels from Multi-Scale and Multi-Spectral remote sensing imagery,
 International Journal of Applied Earth Observation and Geoinformation,143,104818,
-https://doi.org/10.1016/j.jag.2025.104818. [城市声环境][研究漫谈](https://mp.weixin.qq.com/s/zapP39Kke2mgqlro6aHKGQ){:target="_blank"} 
+https://doi.org/10.1016/j.jag.2025.104818. [Sound Environment][研究漫谈](https://mp.weixin.qq.com/s/zapP39Kke2mgqlro6aHKGQ){:target="_blank"} 
 
-Zhuang, Y., Gui, Y., & **T. Fei**\* (2025). Soundscape-to-panorama: spatialize auditory perception by linking acoustic environment to panorama. International Journal of Digital Earth, 18(1). https://doi.org/10.1080/17538947.2025.2545584 [城市声环境][研究漫谈](https://mp.weixin.qq.com/s/9_FvFEdmt0xf6NXa8rkagw){:target="_blank"} 
+Zhuang, Y., Gui, Y., & **T. Fei**\* (2025). Soundscape-to-panorama: spatialize auditory perception by linking acoustic environment to panorama. International Journal of Digital Earth, 18(1). https://doi.org/10.1080/17538947.2025.2545584 [Sound Environment][研究漫谈](https://mp.weixin.qq.com/s/9_FvFEdmt0xf6NXa8rkagw){:target="_blank"} 
 
 Jing Guo\*, **Teng Fei**\*, Xiumei Yang, Linda Lilburne, Derrick Moot, Brent Martin, Edmar Teixeira, Man Yang (2025),Can we use APSIM’s embedded expert knowledge to ‘train’ a machine learning model to identify, at high resolution, land suitable to grow lucerne (Medicago sativa L.) using simplified climate data?,European Journal of Agronomy,17(171), 127815, https://www.sciencedirect.com/science/article/pii/S1161030125003119 [Agronomy][研究漫谈](https://mp.weixin.qq.com/s/tF0evQvFVspxZsFk-GbOQA){:target="_blank"} 
 

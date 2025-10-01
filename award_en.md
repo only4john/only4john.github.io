@@ -4,6 +4,8 @@ title: Awards, Honors and Professional Memberships
 ---
 # Awards and Honors
 
+Second Prize of the 2025 Geographic Information Science and Technology Progress Award (8th Place)
+
 Excellence Award，2024 Henan Outstanding Popular Science Reading Award
 
 First Prize, The 4th National GIS Teaching Achievement Award, 2023 (Ranked 6th)
