@@ -7,6 +7,8 @@ title: 学术成果
 ## Publication 发表论文 （ * stands for corresponding author  * 为通讯作者）
 --- 2025 ---
 
+Wang, L., Tan, H., Luo, P., Meng, L., & **Fei, T.**\* (2025). Species habitat modeling based on image semantic segmentation. Scientific Reports, 15(1), 33936. https://doi.org/10.1038/s41598-025-09035-6 [生态学]
+
 Xiao, J., **Fei, T.**\*, Yu, B. et al.,(2025). Street view images help to reveal the impact of noisy environments on the survival duration of stroke patients. Int J Health Geogr 24, 27, 2025. https://doi.org/10.1186/s12942-025-00416-8 [城市声环境]
 
 Z. Chen, **T. Fei**\*, J. Xiao, J. Huang, D. Jia, M. Bian, (2025).Estimating urban noise levels from Multi-Scale and Multi-Spectral remote sensing imagery,
