@@ -90,7 +90,7 @@ title: 学  生
     new Valine({
         el: '#vcomment',
         appId: 'D50hx8EkiprmcRj0MgyGMus2-MdYXbMMI',
-        appKey: 'jTWRUoJ1FTeDbJkX0NGP5cT2'
+        appKey: 'jTWRUoJ1FTeDbJkX0NGP5cT2',
         serverURL: 'https://us.avoscloud.com'
     });
 </script>
