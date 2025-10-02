@@ -91,6 +91,7 @@ title: 学  生
         el: '#vcomment',
         appId: 'D50hx8EkiprmcRj0MgyGMus2-MdYXbMMI',
         appKey: 'jTWRUoJ1FTeDbJkX0NGP5cT2',
-        serverURL: 'https://leancloud.app/'
+        serverURL: 'https://d50hx8ek.api.lncldglobal.com',
+        region: 'us' // Reinforce US region
     });
 </script>
