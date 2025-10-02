@@ -91,6 +91,6 @@ title: 学  生
         el: '#vcomment',
         appId: '4z4ddeMatrfSbwpt99p5ZLEl-MdYXbMMI',
         appKey: 'xYtXlNaHFaaLwyMvFkKemtrA',
-        serverURL: 'https://us.avoscloud.com'
+        serverURL: 'https://4z4ddema.api.lncldglobal.com'
     });
 </script>
