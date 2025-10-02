@@ -11,7 +11,7 @@ Wang, L., Tan, H., Luo, P., Meng, L., & **Fei, T.**\* (2025). Species habitat mo
 
 GUO Ziyue, LIU Kai*, WANG Zhe, JIANG Ling, SONG Chunqiao, ZENG Fanxuan, FEI Teng, XIONG Liyang, TANG Guoan. Characteristics of hydrological pattern and river geomorphology in the Endorheic Qiangtang Basin, Qinghai-Xizang Plateau[J]. Acta Geographica Sinica, 2025, 80(9): 2416-2435 https://doi.org/10.11821/dlxb202509009 [physical geography][研究漫谈](https://mp.weixin.qq.com/s/aiL_yieI3fRXwvUBoXhPlQ){:target="_blank"} 
 
-Xiao, J., **Fei, T.**\*, Yu, B. et al.,(2025). Street view images help to reveal the impact of noisy environments on the survival duration of stroke patients. Int J Health Geogr 24, 27, 2025. https://doi.org/10.1186/s12942-025-00416-8 [Sound Environment]
+Xiao, J., **Fei, T.**\*, Yu, B. et al.,(2025). Street view images help to reveal the impact of noisy environments on the survival duration of stroke patients. Int J Health Geogr 24, 27, 2025. https://doi.org/10.1186/s12942-025-00416-8 [Sound Environment][研究漫谈](https://mp.weixin.qq.com/s/t9LI3t_4us7jD9UnZSOFcA){:target="_blank"}  
 
 Z. Chen, **T. Fei**\*, J. Xiao, J. Huang, D. Jia, M. Bian, (2025).Estimating urban noise levels from Multi-Scale and Multi-Spectral remote sensing imagery,
 International Journal of Applied Earth Observation and Geoinformation,143,104818,

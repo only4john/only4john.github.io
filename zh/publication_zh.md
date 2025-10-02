@@ -11,7 +11,7 @@ Wang, L., Tan, H., Luo, P., Meng, L., & **Fei, T.**\* (2025). Species habitat mo
 
 郭子阅, 刘凯*, 王哲, 江岭, 宋春桥, 曾繁轩, 费腾, 熊礼阳, 汤国安. 青藏高原羌塘内流区水系格局与河流地貌特征[J]. 地理学报, 2025, 80(9): 2416-2435 https://doi.org/10.11821/dlxb202509009 [水文地貌][研究漫谈](https://mp.weixin.qq.com/s/aiL_yieI3fRXwvUBoXhPlQ){:target="_blank"} 
 
-Xiao, J., **Fei, T.**\*, Yu, B. et al.,(2025). Street view images help to reveal the impact of noisy environments on the survival duration of stroke patients. Int J Health Geogr 24, 27, 2025. https://doi.org/10.1186/s12942-025-00416-8 [城市声环境]
+Xiao, J., **Fei, T.**\*, Yu, B. et al.,(2025). Street view images help to reveal the impact of noisy environments on the survival duration of stroke patients. Int J Health Geogr 24, 27, 2025. https://doi.org/10.1186/s12942-025-00416-8 [城市声环境][研究漫谈](https://mp.weixin.qq.com/s/t9LI3t_4us7jD9UnZSOFcA){:target="_blank"} 
 
 Z. Chen, **T. Fei**\*, J. Xiao, J. Huang, D. Jia, M. Bian, (2025).Estimating urban noise levels from Multi-Scale and Multi-Spectral remote sensing imagery,
 International Journal of Applied Earth Observation and Geoinformation,143,104818,
