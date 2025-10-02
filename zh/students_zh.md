@@ -91,6 +91,6 @@ title: 学  生
         el: '#vcomment',
         appId: 'D50hx8EkiprmcRj0MgyGMus2-MdYXbMMI',
         appKey: 'jTWRUoJ1FTeDbJkX0NGP5cT2',
-        serverURL: 'https://us.avoscloud.com'
+        serverURL: 'https://leancloud.app/'
     });
 </script>
