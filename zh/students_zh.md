@@ -83,3 +83,14 @@ title: 学  生
 卢艺 
 沈玉莲 
   
+<!-- Valine Comment Section -->
+<div id="vcomment"></div>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<script>
+    new Valine({
+        el: '#vcomment',
+        appId: '4z4ddeMatrfSbwpt99p5ZLEl-MdYXbMMI',
+        appKey: 'xYtXlNaHFaaLwyMvFkKemtrA',
+        serverURL: 'https://us.avoscloud.com'
+    });
+</script>
