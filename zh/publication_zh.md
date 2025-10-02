@@ -9,7 +9,7 @@ title: 学术成果
 
 Wang, L., Tan, H., Luo, P., Meng, L., & **Fei, T.**\* (2025). Species habitat modeling based on image semantic segmentation. Scientific Reports, 15(1), 33936. https://doi.org/10.1038/s41598-025-09035-6 [生态学]
 
-郭子阅, 刘凯*, 王哲, 江岭, 宋春桥, 曾繁轩, 费腾, 熊礼阳, 汤国安. 青藏高原羌塘内流区水系格局与河流地貌特征[J]. 地理学报, 2025, 80(9): 2416-2435 https://doi.org/10.11821/dlxb202509009 [水文地貌]
+郭子阅, 刘凯*, 王哲, 江岭, 宋春桥, 曾繁轩, 费腾, 熊礼阳, 汤国安. 青藏高原羌塘内流区水系格局与河流地貌特征[J]. 地理学报, 2025, 80(9): 2416-2435 https://doi.org/10.11821/dlxb202509009 [水文地貌][研究漫谈](https://mp.weixin.qq.com/s/aiL_yieI3fRXwvUBoXhPlQ){:target="_blank"} 
 
 Xiao, J., **Fei, T.**\*, Yu, B. et al.,(2025). Street view images help to reveal the impact of noisy environments on the survival duration of stroke patients. Int J Health Geogr 24, 27, 2025. https://doi.org/10.1186/s12942-025-00416-8 [城市声环境]
 

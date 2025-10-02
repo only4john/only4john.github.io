@@ -9,7 +9,7 @@ title: Academic Publication
 
 Wang, L., Tan, H., Luo, P., Meng, L., & **Fei, T.**\* (2025). Species habitat modeling based on image semantic segmentation. Scientific Reports, 15(1), 33936. https://doi.org/10.1038/s41598-025-09035-6 [ecology]
 
-GUO Ziyue, LIU Kai, WANG Zhe, JIANG Ling, SONG Chunqiao, ZENG Fanxuan, FEI Teng, XIONG Liyang, TANG Guoan. Characteristics of hydrological pattern and river geomorphology in the Endorheic Qiangtang Basin, Qinghai-Xizang Plateau[J]. Acta Geographica Sinica, 2025, 80(9): 2416-2435 https://doi.org/10.11821/dlxb202509009 [physical geography]
+GUO Ziyue, LIU Kai*, WANG Zhe, JIANG Ling, SONG Chunqiao, ZENG Fanxuan, FEI Teng, XIONG Liyang, TANG Guoan. Characteristics of hydrological pattern and river geomorphology in the Endorheic Qiangtang Basin, Qinghai-Xizang Plateau[J]. Acta Geographica Sinica, 2025, 80(9): 2416-2435 https://doi.org/10.11821/dlxb202509009 [physical geography][研究漫谈](https://mp.weixin.qq.com/s/aiL_yieI3fRXwvUBoXhPlQ){:target="_blank"} 
 
 Xiao, J., **Fei, T.**\*, Yu, B. et al.,(2025). Street view images help to reveal the impact of noisy environments on the survival duration of stroke patients. Int J Health Geogr 24, 27, 2025. https://doi.org/10.1186/s12942-025-00416-8 [Sound Environment]
 
