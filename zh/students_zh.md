@@ -83,19 +83,3 @@ title: 学  生
 卢艺 
 沈玉莲 
   
-<!-- Valine Comment Section -->
-<div id="vcomment"></div>
-<script src='https://cdn.jsdelivr.net/npm/valine@1.5.1/dist/Valine.min.js'></script>
-<script>
-    new Valine({
-        el: '#vcomment',
-        appId: '4z4ddeMatrfSbwpt99p5ZLEl-MdYXbMMI',
-        appKey: 'xYtXlNaHFaaLwyMvFkKemtrA',
-        serverURL: 'https://4z4ddema.api.lncldglobal.com',
-        region: 'us',
-        avatar: '', // Disable avatars to avoid Upaiyun errors
-        path: window.location.pathname, // Page-specific comments
-        visitor: true, // Enable comment count
-        placeholder: 'Leave a comment!' // Optional
-    });
-</script>
