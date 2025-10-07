@@ -7,7 +7,7 @@ title: 学术成果
 ## Publication 发表论文 （ * 为通讯作者）
 --- 2025 ---
 
-Wang, L., Tan, H., Luo, P., Meng, L., & **Fei, T.**\* (2025). Species habitat modeling based on image semantic segmentation. Scientific Reports, 15(1), 33936. https://doi.org/10.1038/s41598-025-09035-6 [生态学]
+Wang, L., Tan, H., Luo, P., Meng, L., & **Fei, T.**\* (2025). Species habitat modeling based on image semantic segmentation. Scientific Reports, 15(1), 33936. https://doi.org/10.1038/s41598-025-09035-6 [生态学][研究漫谈](https://mp.weixin.qq.com/s/6N7lXmvTYlAZjLhKhLM3Og){:target="_blank"} 
 
 郭子阅, 刘凯*, 王哲, 江岭, 宋春桥, 曾繁轩, 费腾, 熊礼阳, 汤国安. 青藏高原羌塘内流区水系格局与河流地貌特征[J]. 地理学报, 2025, 80(9): 2416-2435 https://doi.org/10.11821/dlxb202509009 [水文地貌][研究漫谈](https://mp.weixin.qq.com/s/aiL_yieI3fRXwvUBoXhPlQ){:target="_blank"} 
 
