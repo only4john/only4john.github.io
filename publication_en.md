@@ -7,6 +7,8 @@ title: Academic Publication
 ## Publication  （ * stands for corresponding author ）
 --- 2025 ---
 
+Yihan Zhao, Haoyue Jiao, **Fei, T.**\*, Jing Huang, Ningdong You (2025). Spatial distribution prediction and scale effect analysis of urban daytime noise based on remote sensing images: a case study of Chengdu, 397. https://doi.org/10.1016/j.jenvman.2025.128379 [Sound Environment]
+
 Wang, L., Tan, H., Luo, P., Meng, L., & **Fei, T.**\* (2025). Species habitat modeling based on image semantic segmentation. Scientific Reports, 15(1), 33936. https://doi.org/10.1038/s41598-025-09035-6 [ecology][研究漫谈](https://mp.weixin.qq.com/s/6N7lXmvTYlAZjLhKhLM3Og){:target="_blank"} 
 
 GUO Ziyue, LIU Kai*, WANG Zhe, JIANG Ling, SONG Chunqiao, ZENG Fanxuan, FEI Teng, XIONG Liyang, TANG Guoan. Characteristics of hydrological pattern and river geomorphology in the Endorheic Qiangtang Basin, Qinghai-Xizang Plateau[J]. Acta Geographica Sinica, 2025, 80(9): 2416-2435 https://doi.org/10.11821/dlxb202509009 [physical geography][研究漫谈](https://mp.weixin.qq.com/s/aiL_yieI3fRXwvUBoXhPlQ){:target="_blank"} 
