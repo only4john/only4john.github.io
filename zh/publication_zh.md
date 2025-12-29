@@ -5,9 +5,11 @@ title: 学术成果
 # Academic output 学术成果  
 
 ## Publication 发表论文 （ * 为通讯作者）
---- 2025 ---
+--- 2026 ---
 
 Yihan Zhao, Haoyue Jiao, **Fei, T.**\*, Jing Huang, Ningdong You (2025). Spatial distribution prediction and scale effect analysis of urban daytime noise based on remote sensing images: a case study of Chengdu, 397. https://doi.org/10.1016/j.jenvman.2025.128379 [城市声环境]
+
+--- 2025 ---
 
 Wang, L., Tan, H., Luo, P., Meng, L., & **Fei, T.**\* (2025). Species habitat modeling based on image semantic segmentation. Scientific Reports, 15(1), 33936. https://doi.org/10.1038/s41598-025-09035-6 [生态学][研究漫谈](https://mp.weixin.qq.com/s/6N7lXmvTYlAZjLhKhLM3Og){:target="_blank"} 
 
