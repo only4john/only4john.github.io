@@ -7,10 +7,10 @@ title: 学术成果
 ## Publication 发表论文 （ * 为通讯作者）
 --- 2026 ---
 
-Chuyi Tan, Meng Bian, **Teng Fei\* (2026). Changes in the accessibility of urban catering spaces due to the emergence and evolution of the Online-to-Offline food delivery business, Habitat International, 69, 103713
+Chuyi Tan, Meng Bian, **Teng Fei**\* (2026). Changes in the accessibility of urban catering spaces due to the emergence and evolution of the Online-to-Offline food delivery business, Habitat International, 69, 103713
 Volume 169, https://doi.org/10.1016/j.habitatint.2026.103713. [城市信息学]
 
-Huang, Z., **Fei, T.\* & Bian, M. (2026). A spatial explicit method combining HYSPLIT and random forest for predicting the next-day pollen index at urban scale. Aerobiologia 42, 6 . https://doi.org/10.1007/s10453-025-09896-4 [生态学]
+Huang, Z., **Fei, T.**\* & Bian, M. (2026). A spatial explicit method combining HYSPLIT and random forest for predicting the next-day pollen index at urban scale. Aerobiologia 42, 6 . https://doi.org/10.1007/s10453-025-09896-4 [生态学]
 
 Yihan Zhao, Haoyue Jiao, **Fei, T.**\*, Jing Huang, Ningdong You (2025). Spatial distribution prediction and scale effect analysis of urban daytime noise based on remote sensing images: a case study of Chengdu, 397. https://doi.org/10.1016/j.jenvman.2025.128379 [城市声环境]
 
