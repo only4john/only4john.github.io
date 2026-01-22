@@ -31,7 +31,7 @@ ITC，the Netherlands, MSc 科学硕士
 2013/01 - 今，&ensp;&ensp;&ensp;&ensp;&ensp;
 武汉大学，资源与环境科学学院，副教授  
 
-2025/05 - 今，&ensp;&ensp;&ensp;&ensp;&ensp;
+2025/05 - 2026/01，&ensp;&ensp;&ensp;&ensp;&ensp;
 坎特伯雷大学，访问学者
 
 2019/09 - 2020/09，伊利诺伊大学厄巴纳香槟分校（UIUC），访问学者  
@@ -50,76 +50,4 @@ ITC，the Netherlands, MSc 科学硕士
 
 ---
 
-硕士研究生招生方向：地图学与地理信息科学  测绘工程
-
-<script>
-  // 使用 DOMContentLoaded 确保 HTML 元素加载完毕后再执行脚本
-  document.addEventListener('DOMContentLoaded', function() {
-
-    // --- 配置 ---
-    // 您确认可用的 Vercel API 地址
-    const statusApiUrl = 'https://only4john-github-io.vercel.app/api/status';
-    // 获取页面上用于显示状态的元素
-    const statusIndicatorElement = document.getElementById('status-indicator'); // 小圆点元素
-    const statusMessageElement = document.getElementById('status-message');   // 状态文字元素
-    // --- 结束配置 ---
-
-    // 检查元素是否存在，避免在没有这些元素的页面上执行时出错
-    if (!statusIndicatorElement || !statusMessageElement) {
-      // 如果当前页面没有状态显示元素，就不执行后续操作
-      // console.warn('此页面未找到状态显示元素。');
-      return;
-    }
-
-    // 使用 fetch API 从您的 Vercel API 获取状态
-    fetch(statusApiUrl)
-      .then(response => {
-        // 检查网络请求是否成功 (例如 200 OK)
-        if (!response.ok) {
-          throw new Error('网络响应错误: ' + response.status + ' ' + response.statusText);
-        }
-        // 解析返回的 JSON 数据，例如 {"status":"in"}
-        return response.json();
-      })
-      .then(data => {
-        // --- 根据 API 返回的状态 更新显示 ---
-        let displayMessage = '状态未知';  // 默认文字
-        let displayColor = 'gray';      // 默认颜色 (灰色)
-
-        if (data && data.status) {
-          // 根据 API 返回的 status 值设置不同的文字和颜色
-          switch (data.status.toLowerCase()) { // 转小写以防大小写问题
-            case 'in':
-              displayMessage = '我在办公室里';
-              displayColor = 'green';
-              break;
-            case 'out': // 假设您 API 会返回 'out'
-              displayMessage = '我不在办公室';
-              displayColor = 'red';
-              break;
-            // 您可以根据需要添加更多状态判断
-            // case 'meeting':
-            //   displayMessage = '会议中';
-            //   displayColor = 'orange';
-            //   break;
-            default:
-              // 如果 status 不是 'in' 或 'out'，显示原始状态
-              displayMessage = `状态: ${data.status}`;
-              displayColor = 'orange'; // 用橙色表示其他状态
-          }
-        }
-        // --- 结束状态更新逻辑 ---
-
-        // 将获取到的状态更新到页面上的 HTML 元素
-        statusMessageElement.textContent = displayMessage;
-        statusIndicatorElement.style.color = displayColor;
-      })
-      .catch(error => {
-        // 如果在 fetch 或处理过程中发生任何错误
-        console.error('获取或处理状态时出错:', error);
-        // 在页面上显示错误信息
-        statusMessageElement.textContent = '无法获取状态';
-        statusIndicatorElement.style.color = 'gray'; // 出错时显示灰色
-      });
-  });
-</script>
+硕士研究生招生方向：地图学与地理信息科学  测绘工程；博士研究生：今年很可能没指标 :(
