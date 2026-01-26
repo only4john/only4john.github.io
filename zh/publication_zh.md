@@ -15,7 +15,7 @@ Guowen Li, Zihang Huang*, **Teng Fei**, Dunxin Jia, Meng Bian, (2026), Listen to
 Huang, Z., **Fei, T.**\* & Bian, M. (2026). A spatial explicit method combining HYSPLIT and random forest for predicting the next-day pollen index at urban scale. Aerobiologia 42,6. https://doi.org/10.1007/s10453-025-09896-4 [生态学] [研究漫谈](https://mp.weixin.qq.com/s/-1DBNLTDTUGarx4QDCedQg){:target="_blank"} 
 
 
-Yihan Zhao, Haoyue Jiao, **Fei, T.**\*, Jing Huang, Ningdong You (2025). Spatial distribution prediction and scale effect analysis of urban daytime noise based on remote sensing images: a case study of Chengdu, 397. https://doi.org/10.1016/j.jenvman.2025.128379 [城市声环境][研究漫谈](https://mp.weixin.qq.com/s/jz3MbFGCu0aDamTJmr0dGg){:target="_blank"} 
+Yihan Zhao, Haoyue Jiao, **Fei, T.**\*, Jing Huang, Ningdong You (2025). Spatial distribution prediction and scale effect analysis of urban daytime noise based on remote sensing images: a case study of Chengdu, Journal of Environmental Management，397. https://doi.org/10.1016/j.jenvman.2025.128379 [城市声环境][研究漫谈](https://mp.weixin.qq.com/s/jz3MbFGCu0aDamTJmr0dGg){:target="_blank"} 
 
 --- 2025 ---
 
