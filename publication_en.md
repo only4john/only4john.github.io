@@ -8,6 +8,8 @@ title: Academic Publication
 
 --- 2026 ---
 
+Zhuang, Y., Chen, H., Wang, K., **Fei, T.**\* (2026). GRU-PFG: Extract Inter-stock Correlation from Stock Factors with Graph Neural Network. In: Li, J., Chbeir, R., Li, L., Zong, C., Zhang, Y., Zhang, M. (eds) Web and Big Data. APWeb-WAIM 2025. Lecture Notes in Computer Science, vol 16113. Springer, Singapore. https://doi.org/10.1007/978-981-95-5640-3_10 [book chapter]
+
 Chuyi Tan, Meng Bian, **Teng Fei**\* (2026). Changes in the accessibility of urban catering spaces due to the emergence and evolution of the Online-to-Offline food delivery business, Habitat International, 69, 103713
 Volume 169, https://doi.org/10.1016/j.habitatint.2026.103713. [Urban infrmatics]
 

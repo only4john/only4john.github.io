@@ -7,10 +7,12 @@ title: 学术成果
 ## Publication 发表论文 （ * 为通讯作者）
 --- 2026 ---
 
+Zhuang, Y., Chen, H., Wang, K., **Fei, T.**\* (2026). GRU-PFG: Extract Inter-stock Correlation from Stock Factors with Graph Neural Network. In: Li, J., Chbeir, R., Li, L., Zong, C., Zhang, Y., Zhang, M. (eds) Web and Big Data. APWeb-WAIM 2025. Lecture Notes in Computer Science, vol 16113. Springer, Singapore. https://doi.org/10.1007/978-981-95-5640-3_10 [book chapter]
+
 Chuyi Tan, Meng Bian, **Teng Fei**\* (2026). Changes in the accessibility of urban catering spaces due to the emergence and evolution of the Online-to-Offline food delivery business, Habitat International, 69, 103713
 Volume 169, https://doi.org/10.1016/j.habitatint.2026.103713. [城市信息学]
 
-Guowen Li, Zihang Huang*, **Teng Fei**, Dunxin Jia, Meng Bian, (2026), Listen to the road: acoustic traffic monitoring on edge platforms via Lightweight Noise Spectrogram Transformer (LNST), Pervasive and Mobile Computing (115),102132,https://doi.org/10.1016/j.pmcj.2025.102132. [城市声环境][研究漫谈](https://mp.weixin.qq.com/s/dtkAqQ7G1i-Kt-5-YBiLWw){:target="_blank"} 
+Guowen Li, Zihang Huang*, **Teng Fei**, Dunxin Jia, Meng Bian, (2026), Listen to the road: acoustic traffic monitoring on edge platforms via Lightweight Noise Spectrogram Transformer (LNST), Pervasive and Mobile Computing (115),102132,https://doi.org/10.1016/j.pmcj.2025.102132 [城市声环境][研究漫谈](https://mp.weixin.qq.com/s/dtkAqQ7G1i-Kt-5-YBiLWw){:target="_blank"} 
 
 Huang, Z., **Fei, T.**\* & Bian, M. (2026). A spatial explicit method combining HYSPLIT and random forest for predicting the next-day pollen index at urban scale. Aerobiologia 42,6. https://doi.org/10.1007/s10453-025-09896-4 [生态学] [研究漫谈](https://mp.weixin.qq.com/s/-1DBNLTDTUGarx4QDCedQg){:target="_blank"} 
 
