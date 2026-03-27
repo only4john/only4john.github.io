@@ -7,6 +7,8 @@ title: 学术成果
 ## Publication 发表论文 （ * 为通讯作者）
 --- 2026 ---
 
+Chen, P., X. Huang, **T. Fei**, and S. Wang.* （2026）. “ Cross-Modal Urban Sensing: Evaluating Sound–Vision Alignment Across Street-Level and Aerial Imagery.” Transactions in GIS 30, no. 2: e70246. https://doi.org/10.1111/tgis.70246. [城市声环境]  
+
 Yaqian Zhong, **Teng Fei**\*, Meng Bian, Zhipeng Zhong, Jing Huang, Mingyuan Wang (2026), Quantifying place-based emotional arousal: A multi-modal wearable sensing approach to understanding human-environment interaction, Journal of Urban Management, 2026. https://www.sciencedirect.com/science/article/pii/S2226585626000440  [情绪计算][研究漫谈](https://mp.weixin.qq.com/s/3cz3NBfQbAMSSmUH9MJeqw){:target="_blank"} 
 
 Zhuang, Y., Chen, H., Wang, K., **Fei, T.**\* (2026). GRU-PFG: Extract Inter-stock Correlation from Stock Factors with Graph Neural Network. In: Li, J., Chbeir, R., Li, L., Zong, C., Zhang, Y., Zhang, M. (eds) Web and Big Data. APWeb-WAIM 2025. Lecture Notes in Computer Science, vol 16113. Springer, Singapore. https://doi.org/10.1007/978-981-95-5640-3_10 [book chapter]
