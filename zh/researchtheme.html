@@ -2,7 +2,7 @@
 <html lang="zh-CN>
 <head>
 <meta charset="UTF-8>
-<title>Fei Teng Lab Publications (2017-2026)</title>
+<title>费腾教授实验室论文集 (2017-2026)</title>
 <style>
 :root{--bg:#0f1117;--card:#1a1d27;--card-hover:#21253a;--border:#2a2d3e;--text:#e2e4ef;--text-muted:#8b8fa8;--accent:#6c8aff;--radius:12px}
 *{margin:0;padding:0;box-sizing:border-box}
@@ -92,15 +92,15 @@ main{max-width:1100px;margin:0 auto;padding:0 24px 60px}
 <body>
 <header>
   <h1>\ud83d\udcda Fei Teng Lab Publications</h1>
-  <p>Wuhan University &middot; 2017-2026 &middot; 79 papers across 15 research themes</p>
+  <p>武汉大学 &middot; 2017-2026 &middot; 79篇论文，覆盖15个研究方向</p>
   <div class="stats-bar">
-    <span class="stat-pill"><strong id="stat-total">-</strong> papers</span>
-    <span class="stat-pill"><strong id="stat-years">-</strong> years</span>
-    <span class="stat-pill"><strong id="stat-cats">-</strong> themes</span>
+    <span class="stat-pill"><strong id="stat-total">-</strong> 篇论文</span>
+    <span class="stat-pill"><strong id="stat-years">-</strong> 年</span>
+    <span class="stat-pill"><strong id="stat-cats">-</strong> 个方向</span>
   </div>
 </header>
 <div class="controls">
-  <div class="search-box"><input type="text" id="search" placeholder="Search by title, author, keyword..."/></div>
+  <div class="search-box"><input type="text" id="search" placeholder="按标题、作者、关键词搜索..."/></div>
   <div class="year-filter" id="yearFilter"></div>
   <div class="view-toggle"><button class="view-btn active" data-view="grid">Grid</button><button class="view-btn" data-view="list">List</button></div>
   <div id="total-count"></div>
@@ -137,7 +137,7 @@ for(var ci=0;ci<sortedCats.length;ci++){var cat=sortedCats[ci];var b=document.cr
 var viewBtns=document.querySelectorAll(".view-btn");
 for(var vi=0;vi<viewBtns.length;vi++){(function(btn){btn.onclick=function(){currentView=btn.dataset.view;for(var i=0;i<viewBtns.length;i++){viewBtns[i].className=i===viewBtns.indexOf(btn)?"view-btn active":"view-btn";}render();};})(viewBtns[vi]);}
 document.getElementById("search").addEventListener("input",render);
-function render(){var q=document.getElementById("search").value.toLowerCase();var main=document.getElementById("main");main.innerHTML="";var visible=0;var currentY=0;var filtered=[];for(var fi=0;fi<DB.length;fi++){var p=DB[fi];if(activeYear&&p[0]!==activeYear)continue;var catMatch=Object.keys(activeCats).length===0||p[4].some(function(c){return activeCats[c];});if(!catMatch)continue;if(q&&p[1].toLowerCase().indexOf(q)===-1&&p[2].toLowerCase().indexOf(q)===-1&&p[3].toLowerCase().indexOf(q)===-1)continue;filtered.push(p);}for(var pi=0;pi<filtered.length;pi++){var p=filtered[pi];var year=p[0],title=p[1],authors=p[2],journal=p[3],cats_list=p[4],doi=p[5],blog=p[6];if(year!==currentY){currentY=year;var yrDiv=document.createElement("div");yrDiv.className="timeline-year";yrDiv.innerHTML="<span class=\"yr-dot\"></span>"+year;var gridEl=document.createElement("div");gridEl.className="pub-grid"+(currentView==="list"?" list-view":"");yrDiv.appendChild(gridEl);main.appendChild(yrDiv);}var lastGrid=main.querySelector(".pub-grid:last-child");var card=document.createElement("div");card.className="pub-card";var primaryCat=cats_list[0];var color=CAT_COLORS[primaryCat]||"#6c8aff";var tagsHtml="";for(var ti=0;ti<cats_list.length;ti++){tagsHtml+="<span class=\"pub-tag cat-"+esc(cats_list[ti])+"\">"+esc(cats_list[ti])+"</span>";}var linksHtml="";if(doi){linksHtml+="<a class=\"pub-link doi\" href=\"https://doi.org/"+esc(doi)+"\" target=\"_blank\">DOI</a>";}if(blog){linksHtml+="<a class=\"pub-link blog\" href=\"https://"+esc(blog)+"\" target=\"_blank\">Article</a>";}card.innerHTML="<div class=\"pub-type-bar\" style=\"background:"+color+"\"></div>"+"<div class=\"pub-authors\">"+highlightAuthors(authors)+"</div>"+"<div class=\"pub-title\">"+esc(title)+"</div>"+"<div class=\"pub-meta\">"+tagsHtml+"</div>"+"<div class=\"pub-journal\">"+esc(journal)+"</div>"+"<div class=\"pub-links\">"+linksHtml+"</div>";lastGrid.appendChild(card);visible++;}var tc=document.getElementById("total-count");tc.innerHTML=visible===DB.length?"Showing all":"<strong>"+visible+"</strong> / "+DB.length;if(visible===0){var nr=document.createElement("div");nr.className="no-results visible";nr.innerHTML="<div style=\"font-size:3rem;margin-bottom:12px\">\ud83d\udd0d</div><div>No papers match your search</div>";main.appendChild(nr);}}
+function render(){var q=document.getElementById("search").value.toLowerCase();var main=document.getElementById("main");main.innerHTML="";var visible=0;var currentY=0;var filtered=[];for(var fi=0;fi<DB.length;fi++){var p=DB[fi];if(activeYear&&p[0]!==activeYear)continue;var catMatch=Object.keys(activeCats).length===0||p[4].some(function(c){return activeCats[c];});if(!catMatch)continue;if(q&&p[1].toLowerCase().indexOf(q)===-1&&p[2].toLowerCase().indexOf(q)===-1&&p[3].toLowerCase().indexOf(q)===-1)continue;filtered.push(p);}for(var pi=0;pi<filtered.length;pi++){var p=filtered[pi];var year=p[0],title=p[1],authors=p[2],journal=p[3],cats_list=p[4],doi=p[5],blog=p[6];if(year!==currentY){currentY=year;var yrDiv=document.createElement("div");yrDiv.className="timeline-year";yrDiv.innerHTML="<span class=\"yr-dot\"></span>"+year;var gridEl=document.createElement("div");gridEl.className="pub-grid"+(currentView==="list"?" list-view":"");yrDiv.appendChild(gridEl);main.appendChild(yrDiv);}var lastGrid=main.querySelector(".pub-grid:last-child");var card=document.createElement("div");card.className="pub-card";var primaryCat=cats_list[0];var color=CAT_COLORS[primaryCat]||"#6c8aff";var tagsHtml="";for(var ti=0;ti<cats_list.length;ti++){tagsHtml+="<span class=\"pub-tag cat-"+esc(cats_list[ti])+"\">"+esc(cats_list[ti])+"</span>";}var linksHtml="";if(doi){linksHtml+="<a class=\"pub-link doi\" href=\"https://doi.org/"+esc(doi)+"\" target=\"_blank\">DOI</a>";}if(blog){linksHtml+="<a class=\"pub-link blog\" href=\"https://"+esc(blog)+"\" target=\"_blank\">阅读全文</a>";}card.innerHTML="<div class=\"pub-type-bar\" style=\"background:"+color+"\"></div>"+"<div class=\"pub-authors\">"+highlightAuthors(authors)+"</div>"+"<div class=\"pub-title\">"+esc(title)+"</div>"+"<div class=\"pub-meta\">"+tagsHtml+"</div>"+"<div class=\"pub-journal\">"+esc(journal)+"</div>"+"<div class=\"pub-links\">"+linksHtml+"</div>";lastGrid.appendChild(card);visible++;}var tc=document.getElementById("total-count");tc.innerHTML=visible===DB.length?"显示全部":"<strong>"+visible+"</strong> / "+DB.length;if(visible===0){var nr=document.createElement("div");nr.className="no-results visible";nr.innerHTML="<div style=\"font-size:3rem;margin-bottom:12px\">\ud83d\udd0d</div><div>未找到匹配的论文</div>";main.appendChild(nr);}}
 render();
 </script>
 </body>
