@@ -118,7 +118,7 @@ function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").repl
 function highlightAuthors(s){var r="";var i=0;var n=s.length;while(i<n){if(s[i]==="*"){var j=i+1;while(j<n&&s[j]!=="*"){j++;}if(j<n){r+='<span class="ft-highlight">'+esc(s.slice(i,j+1))+'</span>';i=j+1;}else{r+=esc(s[i]);i++;}}else{r+=esc(s[i]);i++;}}return r;}
 var catCount={};
 for(var i=0;i<DB.length;i++){for(var j=0;j<DB[i][4].length;j++){var c=DB[i][4][j];catCount[c]=(catCount[c]||0)+1;}}
-var years=[...new Set(DB.map(function(p){return p[0];}));
+var years=[...new Set(DB.map(function(p){return p[0];}))];
 var cats=Object.keys(catCount);
 document.getElementById("stat-total").textContent=DB.length;
 document.getElementById("stat-years").textContent=Math.max.apply(null,years)-Math.min.apply(null,years)+1;
