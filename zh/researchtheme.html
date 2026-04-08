@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>费腾团队研究成果 (2007-2026)</title>
+<style>
+:root{--bg:#0f1117;--card:#1a1d27;--card-hover:#21253a;--border:#2a2d3e;--text:#e2e4ef;--text-muted:#8b8fa8;--accent:#6c8aff;--radius:12px}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;line-height:1.6}
+header{padding:48px 24px 32px;text-align:center;background:linear-gradient(180deg,#13162a 0%,var(--bg) 100%)}
+header h1{font-size:2rem;font-weight:700;margin-bottom:8px;background:linear-gradient(135deg,#6c8aff,#a78bfa);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+header p{color:var(--text-muted);font-size:0.95rem;max-width:640px;margin:0 auto}
+.stats-bar{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-top:20px}
+.stat-pill{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:4px 14px;font-size:0.8rem;color:var(--text-muted)}
+.stat-pill strong{color:var(--accent)}
+.controls{max-width:1100px;margin:0 auto;padding:16px 24px;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.search-box{flex:1;min-width:200px;position:relative}
+.search-box input{width:100%;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:10px 16px 10px 40px;color:var(--text);font-size:0.9rem;outline:none;transition:border-color .2s}
+.search-box input:focus{border-color:var(--accent)}
+.search-box::before{content:'\u260e\ufe0f';position:absolute;left:12px;top:50%;transform:translateY(-50%);font-size:0.9rem}
+.year-filter{display:flex;gap:6px;flex-wrap:wrap}
+.yr-btn{background:var(--card);border:1px solid var(--border);color:var(--text-muted);padding:8px 14px;border-radius:20px;cursor:pointer;font-size:0.82rem;transition:all .2s}
+.yr-btn:hover{border-color:var(--accent);color:var(--text)}
+.yr-btn.active{background:var(--accent);border-color:var(--accent);color:#fff}
+.cat-filters{max-width:1100px;margin:0 auto;padding:0 24px 16px;display:flex;gap:8px;flex-wrap:wrap}
+.cat-chip{padding:5px 12px;border-radius:16px;font-size:0.78rem;cursor:pointer;border:1px solid;transition:all .2s;opacity:0.55;user-select:none}
+.cat-chip.active{opacity:1}
+.cat-chip:hover{opacity:0.85}
+.cat-城市声环境{background:#00bcd422;border-color:#00bcd4;color:#00bcd4}
+.pub-tag.cat-城市声环境{background:#00bcd422;color:#00bcd4;border:1px solid #00bcd444}
+.cat-情绪地理{background:#ff980022;border-color:#ff9800;color:#ff9800}
+.pub-tag.cat-情绪地理{background:#ff980022;color:#ff9800;border:1px solid #ff980044}
+.cat-生态遥感{background:#4caf5022;border-color:#4caf50;color:#4caf50}
+.pub-tag.cat-生态遥感{background:#4caf5022;color:#4caf50;border:1px solid #4caf5044}
+.cat-健康地理{background:#f4433622;border-color:#f44336;color:#f44336}
+.pub-tag.cat-健康地理{background:#f4433622;color:#f44336;border:1px solid #f4433644}
+.cat-空间大数据{background:#2196f322;border-color:#2196f3;color:#2196f3}
+.pub-tag.cat-空间大数据{background:#2196f322;color:#2196f3;border:1px solid #2196f344}
+.cat-城市遥感{background:#9c27b022;border-color:#9c27b0;color:#9c27b0}
+.pub-tag.cat-城市遥感{background:#9c27b022;color:#9c27b0;border:1px solid #9c27b044}
+.cat-复杂网络{background:#79554822;border-color:#795548;color:#795548}
+.pub-tag.cat-复杂网络{background:#79554822;color:#795548;border:1px solid #79554844}
+.cat-教学论文{background:#9e9e9e22;border-color:#9e9e9e;color:#9e9e9e}
+.pub-tag.cat-教学论文{background:#9e9e9e22;color:#9e9e9e;border:1px solid #9e9e9e44}
+.cat-光伏产能{background:#ffeb3b22;border-color:#ffeb3b;color:#ffeb3b}
+.pub-tag.cat-光伏产能{background:#ffeb3b22;color:#ffeb3b;border:1px solid #ffeb3b44}
+.cat-水文地貌{background:#00968822;border-color:#009688;color:#009688}
+.pub-tag.cat-水文地貌{background:#00968822;color:#009688;border:1px solid #00968844}
+.cat-艺术史{background:#e91e6322;border-color:#e91e63;color:#e91e63}
+.pub-tag.cat-艺术史{background:#e91e6322;color:#e91e63;border:1px solid #e91e6344}
+.cat-聚类方法{background:#3f51b522;border-color:#3f51b5;color:#3f51b5}
+.pub-tag.cat-聚类方法{background:#3f51b522;color:#3f51b5;border:1px solid #3f51b544}
+.cat-听觉显示{background:#8bc34a22;border-color:#8bc34a;color:#8bc34a}
+.pub-tag.cat-听觉显示{background:#8bc34a22;color:#8bc34a;border:1px solid #8bc34a44}
+.cat-现实增强{background:#ff572222;border-color:#ff5722;color:#ff5722}
+.pub-tag.cat-现实增强{background:#ff572222;color:#ff5722;border:1px solid #ff572244}
+.cat-生物物理建模{background:#0097a722;border-color:#0097a7;color:#0097a7}
+.pub-tag.cat-生物物理建模{background:#0097a722;color:#0097a7;border:1px solid #0097a744}
+.cat-其他{background:#607d8b22;border-color:#607d8b;color:#607d8b}
+.pub-tag.cat-其他{background:#607d8b22;color:#607d8b;border:1px solid #607d8b44}
+
+main{max-width:1100px;margin:0 auto;padding:0 24px 60px}
+.timeline-year{font-size:1.3rem;font-weight:700;color:var(--text-muted);margin:36px 0 16px;padding-bottom:8px;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:10px}
+.timeline-year .yr-dot{width:10px;height:10px;border-radius:50%;background:var(--accent);flex-shrink:0}
+.pub-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px}
+.pub-grid.list-view{grid-template-columns:1fr}
+.pub-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px;transition:all .2s;cursor:default;animation:fadeIn .3s ease;position:relative;overflow:hidden}
+.pub-card:hover{background:var(--card-hover);border-color:var(--accent);transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.3)}
+.pub-card.hidden{display:none}
+.pub-type-bar{position:absolute;top:0;left:0;width:3px;height:100%;border-radius:12px 0 0 12px}
+.pub-authors{font-size:0.78rem;color:var(--text-muted);margin-bottom:5px;line-height:1.5}
+.pub-authors .\u901a\u8baf{color:#6c8aff;font-weight:600}
+.pub-title{font-size:0.88rem;font-weight:600;color:var(--text);margin-bottom:8px;line-height:1.5}
+.pub-meta{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
+.pub-tag{font-size:0.7rem;padding:2px 8px;border-radius:10px;background:rgba(255,255,255,.06);color:var(--text-muted)}
+.pub-journal{font-size:0.75rem;color:var(--text-muted);font-style:italic;margin-bottom:8px}
+.pub-links{display:flex;gap:8px;flex-wrap:wrap}
+.pub-link{font-size:0.72rem;padding:3px 10px;border-radius:10px;text-decoration:none;transition:all .2s;display:inline-block}
+.pub-link.doi{background:rgba(108,138,255,.15);color:#6c8aff;border:1px solid rgba(108,138,255,.3)}
+.pub-link.blog{background:rgba(167,139,250,.15);color:#a78bfa;border:1px solid rgba(167,139,250,.3)}
+.pub-link:hover{opacity:0.8;transform:scale(1.05)}
+.no-results{text-align:center;padding:60px 20px;color:var(--text-muted);display:none}
+.no-results.visible{display:block}
+.no-results .emoji{font-size:3rem;margin-bottom:12px}
+.view-toggle{display:flex;gap:6px}
+.view-btn{background:var(--card);border:1px solid var(--border);color:var(--text-muted);padding:8px 14px;border-radius:var(--radius);cursor:pointer;font-size:0.82rem;transition:all .2s}
+.view-btn.active{background:var(--accent);border-color:var(--accent);color:#fff}
+#total-count{font-size:0.82rem;color:var(--text-muted);margin-left:auto;align-self:center}
+#total-count strong{color:var(--accent)}
+.footer-info{text-align:center;padding:40px 24px;color:var(--text-muted);font-size:0.8rem;border-top:1px solid var(--border);margin-top:40px}
+.footer-info a{color:#6c8aff;text-decoration:none}
+@keyframes fadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+</style>
+</head>
+<body>
+<header>
+  <h1>\ud83d\udcda 费腾团队研究成果</h1>
+  <p>武汉大学 · 资源与环境科学学院 · 2007-2026</p>
+  <div class="stats-bar">
+    <span class="stat-pill"><strong id="stat-total">-</strong> 篇论文</span>
+    <span class="stat-pill"><strong id="stat-years">-</strong> 年跨度</span>
+    <span class="stat-pill"><strong id="stat-cats">-</strong> 研究方向</span>
+  </div>
+</header>
+<div class="controls">
+  <div class="search-box"><input type="text" id="search" placeholder="\u641c\u7d22\u6807\u9898\u3001\u4f5c\u8005\u3001\u5173\u952e\u8bcd\u2026\u2026"/></div>
+  <div class="year-filter" id="yearFilter"></div>
+  <div class="view-toggle">
+    <button class="view-btn active" data-view="grid">\u7f51\u683c</button>
+    <button class="view-btn" data-view="list">\u5217\u8868</button>
+  </div>
+  <div id="total-count"></div>
+</div>
+<div class="cat-filters" id="catFilters"></div>
+<main id="main"></main>
+<div class="footer-info">\u6570\u636e\u6765\u6e90\uff1a<a href="https://only4john.github.io/zh/publication_zh" target="_blank">only4john.github.io/zh/publication_zh</a> · \u7531 Mia \u6574\u7406\u5448\u73b0</div>
+<script>
+const DB=[[2026,"Quantifying airborne vessel noise on large rivers: combining acoustic drifters and ML","黄梓航*,费腾*,黄靖","Environmental Pollution",["城市声环境"],"10.1016/j.envpol.2026.128047",""],[2026,"Cross-Modal Urban Sensing: Evaluating Sound-Vision Alignment","陈鹏,黄欣,费腾,王晟*","Transactions in GIS",["城市声环境"],"10.1111/tgis.70246",""],[2026,"Quantifying place-based emotional arousal: A multi-modal wearable sensing approach","钟雅倩,费腾*,卞萌,钟志鹏,黄靖,王明远","Journal of Urban Management",["情绪地理"],"10.1016/j.jum.2025.166044","mp.weixin.qq.com/s/3cz3NBfQbAMSSmUH9MJeqw"],[2026,"Changes in the accessibility of urban catering spaces due to O2O food delivery","谭楚怡,卞萌,费腾*","Habitat International",["城市遥感"],"10.1016/j.habitatint.2026.103713","mp.weixin.qq.com/s/PnckgSORZkv6TGqRmSXVBQ"],[2026,"Listen to the road: acoustic traffic monitoring via LNST","李国文,黄子航*,费腾,贾敦新,卞萌","Pervasive and Mobile Computing",["城市声环境"],"10.1016/j.pmcj.2025.102132","mp.weixin.qq.com/s/dtkAqQ7G1i-Kt-5-YBiLWw"],[2026,"A spatial explicit method combining HYSPLIT and RF for predicting next-day pollen index","黄梓航,费腾*,卞萌","Aerobiologia",["生态遥感"],"10.1007/s10453-025-09896-4","mp.weixin.qq.com/s/-1DBNLTDTUGarx4QDCedQg"],[2026,"Spatial distribution prediction of urban daytime noise based on remote sensing images","赵一涵,焦浩悦,费腾*,黄靖,游宁东","Journal of Environmental Management",["城市声环境"],"10.1016/j.jenvman.2025.128379","mp.weixin.qq.com/s/jz3MbFGCu0aDamTJmr0dGg"],[2025,"Species habitat modeling based on image semantic segmentation","王丽,谭浩,罗鹏,孟磊,费腾*","Scientific Reports",["生态遥感"],"10.1038/s41598-025-09035-6","mp.weixin.qq.com/s/6N7lXmvTYlAZjLhKhLM3Og"],[2025,"青藏高原羌塘内流区水系格局与河流地貌特征","郭子阅,刘凯*,王哲,江岭,宋春桥,曾繁轩,费腾,熊礼阳,汤国安","地理学报",["水文地貌"],"10.11821/dlxb202509009","mp.weixin.qq.com/s/aiL_yieI3fRXwvUBoXhPlQ"],[2025,"Street view images help to reveal the impact of noisy environments on stroke patient survival","肖健,费腾*,余波,黄靖,贾敦新,卞萌","International Journal of Health Geographics",["城市声环境","健康地理"],"10.1186/s12942-025-00416-8","mp.weixin.qq.com/s/t9LI3t_4us7jD9UnZSOFcA"],[2025,"Estimating urban noise levels from Multi-Scale Multi-Spectral remote sensing imagery","陈卓,费腾*,肖健,黄靖,贾敦新,卞萌","International Journal of Applied Earth Observation and Geoinformation",["城市声环境"],"10.1016/j.jag.2025.104818","mp.weixin.qq.com/s/zapP39Kke2mgqlro6aHKGQ"],[2025,"Soundscape-to-panorama: spatialize auditory perception by linking acoustic environment to panorama","庄严,桂宇,费腾*","International Journal of Digital Earth",["城市声环境"],"10.1080/17538947.2025.2545584","mp.weixin.qq.com/s/9_FvFEdmt0xf6NXa8rkagw"],[2025,"Can we use APSIM expert knowledge to train ML to identify land suitable to grow lucerne?","郭靖,费腾*,杨秀梅,Lilburne L.,Moot D.,Martin B.,Teixeira E.,杨曼","European Journal of Agronomy",["其他"],"10.1016/j.eja.2025.127815",""],[2025,"Street similarity assessment from a pedestrian walk-through perspective","杨俊浩,罗娟娟,卞萌,刘逸飞,费腾*","Journal of Urban Management",["空间大数据"],"10.1016/j.jum.2025.05.017",""],[2025,"Improving vegetation carbon, phosphorus, and C:P ratio prediction of alpine grassland by reflectance spectroscopy","张双音,赵宝成,徐健,傅俊林,陈逸云,费腾*","Soil and Tillage Research",["生态遥感"],"10.1016/j.still.2025.106563",""],[2025,"Unraveling environmental risk awareness in China over four decades from mass media and academic archives","傅宇,费腾*,黄伟,葛啸,易健,孙悦,杜宇","International Journal of Geographical Information Science",["空间大数据"],"10.1080/13658816.2024.2437054","mp.weixin.qq.com/s/kPOCG7hnQAcHNSMCZdN9VQ"],[2024,"From hearing to seeing: Linking auditory and visual place perceptions with soundscape-to-image generative AI","庄严,康宇豪*,费腾*,卞萌,杜宇","Computers, Environment and Urban Systems",["城市声环境"],"10.1016/j.compenvurbsys.2024.102122",""],[2024,"基于情绪计算的GIS硕士面试成绩预测","费腾*,付康钰,卞萌,杨妙龄","地理空间信息",["情绪地理","教学论文"],"10.3969/j.issn.1672-4623.2024.04.031",""],[2023,"Estimating urban noise along road network from street view imagery","黄靖,费腾*,康宇豪,李军,刘子玉,吴国锋","International Journal of Geographical Information Science",["城市声环境"],"10.1080/13658816.2023.2274475",""],[2023,"Improving signal strength of tree rings for paleoclimate reconstruction by micro-hyperspectral imaging","孙英浩,费腾*,郑永洪*,庄严,王凌军,卞萌","Geo-spatial Information Science",["生态遥感","生物物理建模"],"10.1080/10095020.2023.2264913",""],[2023,"基于学生情绪计算的个性化慕课教学进度功能设计与实现","费腾,曾卓源,卞萌*","测绘通报",["情绪地理","教学论文"],"10.12082/dqxxkx.2023.220534",""],[2023,"Identifying cadmium and lead co-accumulation from living rice blade spectrum","张双音,费腾*,陈逸云,杨健,曲瑞,徐健,肖雄,程雪,胡志,郑希,赵丹","Environmental Pollution",["生态遥感"],"10.1016/j.envpol.2023.122618",""],[2023,"Sensitivity metrics of complex network based on co-occurrence truth table","罗俊,费腾*,田明","Journal of Geographical System",["复杂网络"],"10.1007/s10109-023-00419-8",""],[2023,"基于街景图像的三生空间识别方法研究","万江琴,费腾*","地球信息科学学报",["城市遥感"],"10.12082/dqxxkx.2023.220534",""],[2023,"Pedestrian walking speed monitoring at street scale by an in-flight drone","焦丹,费腾*","PeerJ Computer Science",["城市遥感"],"10.7717/peerj-cs.1226",""],[2023,"空间拓扑关系的听觉显示初探","李阳春,戴丹凤,付康钰,费腾*","地球信息科学学报",["听觉显示"],"",""],[2022,"Response of microscopical hyperspectral data to past climatic variable","王丽,费腾*,卞萌,许悦,张浩,郑永洪,朱浩","Theoretical and Applied Climatology",["生态遥感","生物物理建模"],"10.1007/s00704-022-04219-w",""],[2022,"Associations between residential greenness and hyperuricemia among adults in China","王强,多吉卓玛,冯成,费腾,马浩,王晟,次仁旺拉,杨涛,凌辉,马伟,余伟,刘浩,周健,赵欣,贾鹏,杨爽","Environmental Research",["健康地理"],"10.1016/j.envres.2022.114406",""],[2022,"Estimating cadmium-lead concentrations in rice blades through fractional order derivatives of foliar spectra","张双音,费腾*,陈逸云,洪永胜","Biosystems Engineering",["生态遥感"],"10.1016/j.biosystemseng.2022.04.023",""],[2022,"Incorporation of intra-city human mobility into urban growth simulation","王思颖,费腾*,李伟峰,张安琪,郭怀广,杜宇*","Journal of Geographical Sciences",["空间大数据"],"10.1007/s11442-022-1977-6",""],[2022,"STICC: a multivariate spatial clustering method for repeated geographic pattern discovery","康宇豪,吴坤霖,高松*,Ng I.,金孟,叶珊,张帆,费腾*","International Journal of Geographical Information Science",["聚类方法"],"10.1080/13658816.2022.2053980",""],[2022,"Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan","王丽,别文娟,李浩,廖婷,丁啸,吴国锋,费腾*","Remote Sensing",["生态遥感"],"10.3390/rs14225799",""],[2022,"用户标签揭示进出口量：基于标签共现的空间关联性分析","游想,张双音,费腾*","测绘地理信息",["空间大数据"],"10.14188/j.2095-6045.2019405",""],[2022,"HIV-1 genetic transmission networks among PLWH in Sichuan, China","袁丹,余波,梁爽,费腾*,汤浩,康瑞,李阳,叶龙,贾鹏*,杨爽*","The Lancet Regional Health - Western Pacific",["健康地理"],"10.1016/j.lanwpc.2021.100318",""],[2022,"Risk Factors of Drug Resistance and Potential Risk of HIV-1 Transmission of ART Virological Failure Patients","周川,康瑞,梁爽,费腾,李阳,苏丽,李丽,叶龙,张宇,袁丹*","Infectious Disease Resistance",["健康地理"],"10.2147/IDR.S334598",""],[2021,"Road PV production estimation at city scale: towards assessing regional energy generation from solar roads","刘子煜,费腾*","Journal of Cleaner Production",["光伏产能"],"10.1016/j.jclepro.2021.129010",""],[2021,"An In-Depth Analysis of Parking Patterns in a Typical Chinese Danwei via Customized Data Collection App","孔伟,廖崇,徐倩,王健,费腾*","ISPRS International Journal of Geo-Information",["城市遥感"],"10.3390/ijgi10080567",""],[2021,"融合植被遥感数据的北京市次日花粉浓度预测","卞萌,郭树毅,王威,欧阳昱晖,黄颖菁,费腾","地球信息科学学报",["生态遥感"],"10.12082/dqxxkx.2021.200475",""],[2021,"Influencing indicators and spatial variation of diabetes mellitus prevalence in Shandong, China","李阳,费腾*,王健,Nicholas S.,李俊,徐龙","GeoHealth",["健康地理"],"10.1029/2020GH000320",""],[2021,"Regional differences of hepatitis B discrimination in rural China","李军,王健,Nicholas S.,Maitland E.,费腾*","Human Vaccines and Immunotherapeutics",["健康地理"],"10.1080/21645515.2020.1853999",""],[2021,"Evaluation of Urban Vibrancy and Its Relationship with the Economic Landscape: A Case Study of Beijing","贾晨,刘悦凤,杜云燕,黄建峰,费腾*","ISPRS International Journal of Geo-Information",["城市遥感"],"10.3390/ijgi10020072",""],[2021,"Emotion and color in paintings: a novel temporal and spatial quantitative perspective","孔伟,费腾*,Jencks T.","arXiv",["艺术史","情绪地理"],"10.48550/arXiv.2102.00407",""],[2021,"Analyzing the association between emotions and socioeconomic characteristics of census tracts via UGC","徐鑫,费腾,李昕*","Transactions in GIS",["情绪地理"],"10.1111/tgis.12718",""],[2021,"Two hyperspectral indices for detecting cadmium and lead contamination from rice canopy spectrum","张双音,费腾*,游欣,万宇,王悦,卞萌*","Land Degradation and Development",["生态遥感"],"10.1002/ldr.3721",""],[2020,"GIS-Based Emotional Computing: A Review of Quantitative Approaches to Measure the Emotion Layer","黄颖菁,费腾*,Kwan M.-P.,康宇豪,李军,李阳,李旭,卞萌","ISPRS International Journal of Geo-Information",["情绪地理"],"10.3390/ijgi9100551",""],[2020,"Small water bodies mapped from Sentinel-2 MSI imagery with higher accuracy","别文娟,费腾*,刘新宇,刘惠增,吴国锋","International Journal of Remote Sensing",["生态遥感"],"10.1080/01431161.2020.1766150",""],[2020,"Understanding the spatial dimension of natural language by measuring spatial semantic similarity of words","王博智,费腾*,康宇豪,李明,杜清运*","PLoS ONE",["空间大数据"],"10.1371/journal.pone.0236347",""],[2020,"Walkability indices and childhood obesity: A review of epidemiologic evidence","杨爽,陈希,王丽,吴涛,费腾,肖倩,张广,宁宇*,贾鹏*","Obesity Reviews",["健康地理"],"10.1111/obr.13096",""],[2020,"Neighbourhood speed limit and childhood obesity","罗明,李浩,潘旭,费腾,戴松,邱刚,邹浩,Vos H.,罗军*,贾鹏*","Obesity Reviews",["健康地理"],"10.1111/obr.13052",""],[2020,"Associations between taste preferences and chronic diseases: A population-based exploratory study in China","李浩,贾鹏,费腾*","Public Health Nutrition",["健康地理"],"10.1017/S136898002000035X",""],[2020,"Emotional habitat: mapping the global geographic distribution of human emotion with physical environmental factors","李一卓,费腾*,黄颖菁,李军,李旭,张帆,康宇豪,吴国锋","International Journal of Geographical Information Science",["情绪地理"],"10.1080/13658816.2020.1755040",""],[2020,"Quantifying the bias in place emotion extracted from photos on social networking sites","黄颖菁,李军,吴国锋,费腾*","Cities",["情绪地理"],"10.1016/j.cities.2020.102719",""],[2020,"Rapid Identification and Prediction of Cadmium-Lead Cross-Stress of Different Stress Levels in Rice Canopy Based on Vis-NIR Spectroscopy","张双音,李军,王晟,黄颖菁,李阳,陈逸云,费腾*","Remote Sensing",["生态遥感"],"10.3390/rs12050469",""],[2020,"Estimation of Organic Carbon in Anthropogenic Soil by VIS-NIR Spectroscopy","徐龙,洪永洪,魏宇,郭磊,史泰,刘宇,蒋奇,费腾,刘宇,Mouazen A.M.,陈逸云*","Remote Sensing",["生态遥感"],"10.3390/rs12213494",""],[2019,"Selection of the Optimal Spectral Resolution for Cadmium-Lead Cross Contamination Diagnosing Based on Hyperspectral Reflectance of Rice Canopy","张双音,朱宇,王明,费腾*","Sensors",["生态遥感"],"10.3390/s19183889",""],[2019,"基于众源数据挖掘的中国饮食口味与慢性病的空间关联","李瀚祺,贾鹏,费腾*","地理学报",["健康地理"],"10.11821/dlxb201908012",""],[2019,"A regionalization method for clustering and partitioning based on trajectories from NLP perspective","李一卓,费腾*,张帆","International Journal of Geographical Information Science",["空间大数据"],"10.1080/13658816.2019.1643025",""],[2019,"Extracting human emotions at different places based on facial expressions and spatial clustering analysis","康宇豪,贾倩,高松*,曾祥,王悦,Angsuesser S.,刘宇,叶鑫,费腾*","Transactions in GIS",["情绪地理"],"10.1111/tgis.12543",""],[2019,"A location-based social network system integrating mobile AR and UGC (Best Paper Award)","岳原文,丁佳琪,康宇豪,王月瑶,吴坤霖,费腾*","ACM LocalRec 2019",["现实增强"],"10.1145/3356994.3365507",""],[2019,"The Influence of Spectral Pretreatment on the Selection of Representative Calibration Samples for SOM Estimation Using Vis-NIR Reflectance Spectroscopy","刘宇,刘宇,陈逸云,张宇,史泰,王健,洪永洪,费腾,张宇","Remote Sensing",["生态遥感"],"10.3390/rs11040450",""],[2019,"Towards feasibility of photovoltaic road for urban traffic-solar energy estimation using street view image","刘子煜,杨安琪,高梦泽,蒋红,康宇豪,张帆,费腾*","Journal of Cleaner Production",["光伏产能"],"10.1016/j.jclepro.2019.06.295",""],[2019,"Incorporating nocturnal UAV side-view images with VIIRS data for accurate population estimation","孔伟,程健,刘欣,张帆,费腾*","International Journal of Remote Sensing",["城市遥感"],"10.1080/01431161.2019.1584455",""],[2019,"Measuring the vibrancy of urban neighborhoods using mobile phone data with an improved PageRank algorithm","陈佳,杜云燕,王思颖,白天阳,费腾*","Transactions in GIS",["空间大数据"],"10.1111/tgis.12474",""],[2019,"基于内容和协同过滤的英语创意写作推荐系统","王梦雪,李俊,贾清源,费腾*","计算机应用与软件",["教学论文"],"",""],[2019,"地理素养与测绘技能双驱动的GIS专业大学生创新能力培养模式的探索","蔡忠亮,翁敏,苏世亮,亢孟军,费腾,田晶,任福","测绘通报",["教学论文"],"",""],[2018,"Integrating algebraic multigrid method in spatial aggregation of massive trajectory data","王思颖,杜云燕,贾晨,卞萌,费腾*","International Journal of Geographical Information Science",["空间大数据"],"10.1080/13658816.2018.1503156",""],[2018,"Tea cultivar classification and biochemical parameter estimation from hyperspectral imagery obtained by UAV","涂晔昕,卞萌,万远,费腾*","PeerJ",["生态遥感"],"10.7717/peerj.4858",""],[2018,"Diagnosis of heavy metal cross contamination in rice leaf based on hyperspectral image","张双音,费腾*,冉艳红","IEEE ICAM",["生态遥感"],"10.1109/ICAM.2018.8606498",""],[2018,"基于虚拟现实技术的电子地图系统设计","康宇豪,王玥瑶,高梦泽,彭建,张晶,费腾*","测绘地理信息",["现实增强"],"",""],[2018,"手势识别技术在智能家居中的应用研究","刘子煜,朱正,安方军,康宇豪,陈慧瑕,郑斯元,戴晓瑜,费腾*","计算机应用研究",["其他"],"",""],[2018,"Who are happier? Spatial-temporal analysis of worldwide human emotion based on geocrowdsourcing faces","康宇豪,曾祥,张志,费腾*","UPINLBS 2018",["情绪地理"],"",""],[2018,"基于UHD185成像光谱仪的茶叶叶绿素含量反演","王云将,费腾*","地理空间信息",["生态遥感"],"",""],[2018,"基于成像高光谱数据的温室水稻重金属胁迫诊断研究","张双音,王云将,欧阳炜,费腾*","安徽农业科学",["生态遥感"],"",""],[2018,"基于改进人工蚁群算法的公园道路涌现式规划","邹祺玥,孔文苑,费腾*","地理信息世界",["其他"],"",""],[2018,"Uncovering patterns of ties among regions within metropolitan areas using data from mobile phones and online mass media","彭浩,杜云燕,刘子煜,易健,康宇豪,费腾","GeoJournal",["空间大数据"],"10.1007/s10708-018-9885-0",""],[2017,"Mapping the Sensitivity of the Public Emotion to the Movement of Stock Market Value: A Case Study of Manhattan","康宇豪,王健,王悦,Angsuesser S.,费腾*","ISPRS Archives",["情绪地理"],"10.5194/isprs-archives-XLII-2-W7-1213-2017",""],[2017,"土壤有机质含量可见-近红外光谱反演模型校正集优选方法","陈奕云,齐天赐,黄颖菁,万远,赵瑞瑛,亓林,张超,费腾","农业工程学报",["生态遥感"],"",""],[2017,"Improving spectral estimation of soil organic carbon content through semi-supervised regression","刘浩,史泰,陈逸云,王健,费腾,吴国锋","Remote Sensing",["生态遥感"],"10.3390/rs9010029",""],[2017,"Spectroscopic Diagnosis of Arsenic Contamination in Agricultural Soils","史泰,刘浩,陈逸云,费腾,王健,吴国锋","Sensors",["生态遥感"],"10.3390/s17041036",""],[2016,"Estimating Soil Organic Carbon of Cropland Soil at Different Levels of Soil Moisture Using VIS-NIR Spectroscopy","蒋奇,陈逸云,郭磊,费腾,齐康","Remote Sensing",["生态遥感"],"10.3390/rs8090755",""],[2016,"基于CLUE-S模型的深圳海岸带土地利用变化模拟","潘润秋,罗启源,肖迪,费腾","测绘与空间地理信息",["生态遥感"],"",""],[2016,"从植被高光谱遥感到土壤重金属污染诊断的研究进展","涂晔昕,费腾*","湖北农业科学",["生态遥感"],"",""],[2016,"使用多源遥感影像监测深圳市海岸线变迁","涂晔昕,沈玉莲,卢艺,邬国锋,费腾*","海洋开发与管理",["生态遥感"],"",""],[2016,"深圳市海岸带土地利用遥感监测方法探索","沈玉莲,肖迪,费腾*","海洋开发与管理",["生态遥感"],"",""],[2015,"Statistical model development and estimation of suspended particulate matter concentrations with Landsat 8 OLI images of Dongting Lake, China","吴国锋,崔磊,刘磊,陈芳,费腾,刘宇","International Journal of Remote Sensing",["生态遥感"],"10.1080/01431161.2015.1009656",""],[2014,"Developing MODIS-based retrieval models of suspended particulate matter concentration in Poyang Lake, China","吴国锋,刘磊,陈芳,费腾","International Journal of Applied Earth Observation and Geoinformation",["生态遥感"],"10.1016/j.jag.2014.06.009",""],[2014,"Monitoring arsenic contamination in agricultural soils with reflectance spectroscopy of rice plants","史泰,刘浩,王健,陈逸云,费腾,吴国锋","Environmental Science & Technology",["生态遥感"],"10.1021/acs.est.5b00426",""],[2014,"Prediction of total nitrogen in cropland soil at different levels of soil moisture with Vis/NIR spectroscopy","刘宇,蒋奇,史泰,费腾,王健,刘磊,陈逸云","Acta Agriculturae Scandinavica Section B",["生态遥感"],"10.1080/09064710.2014.905626",""],[2014,"Transferability of a visible and near-infrared model for soil organic matter estimation in riparian landscapes","刘宇,蒋奇,费腾,王健,史泰,郭可,李旭,陈逸云","Remote Sensing",["生态遥感"],"10.3390/rs6054305",""],[2013,"Estimation of nitrogen, phosphorus, and potassium contents in leaves of different plants using laboratory-based visible and near-infrared reflectance spectroscopy","翟宇,崔磊,周旭,高宇,费腾,高伟","International Journal of Remote Sensing",["生态遥感"],"10.1080/01431161.2012.716535",""],[2013,"Comparison of MODIS-based models for retrieving suspended particulate matter concentrations in Poyang Lake, China","吴国锋,崔磊,段浩,费腾,刘宇","ISPRS Journal of Photogrammetry and Remote Sensing",["生态遥感"],"10.1016/j.isprsjprs.2013.08.002",""],[2013,"Specific absorption and backscattering coefficients and their relations to water constituents of Poyang Lake, China","吴国锋,崔磊,段浩,费腾,刘宇","Applied Optics",["生态遥感"],"10.1364/AO.52.006358",""],[2013,"Comparison of multivariate methods for estimating soil total nitrogen with visible/near-infrared spectroscopy","史泰,崔磊,王健,费腾,陈逸云,吴国锋","Plant and Soil",["生态遥感"],"10.1007/s11104-012-1408-z",""],[2013,"Modelling the response of lizards to thermal landscape","费腾","University of Twente PhD Thesis",["生物物理建模"],"",""],[2013,"Using remotely sensed suspended sediment concentration variation to improve management of Poyang Lake, China","崔磊,邱倩,费腾,刘宇,吴国锋","Lake and Reservoir Management",["生态遥感"],"10.1080/10402381.2013.763895",""],[2013,"Estimating carex quality with laboratory-based hyperspectral measurements","崔磊,费腾*,邱倩,刘宇,吴国锋","International Journal of Remote Sensing",["生态遥感"],"10.1080/01431161.2012.738945",""],[2013,"Predicting foliar biochemistry of tea (Camellia sinensis) using reflectance spectra measured at powder, leaf and canopy levels","卞萌,Skidmore A.K.,Schlerf M.,王铁军,刘宇,曾然,费腾","ISPRS Journal of Photogrammetry and Remote Sensing",["生态遥感"],"10.1016/j.isprsjprs.2012.12.007",""],[2012,"Predicting micro thermal habitat of lizards in a dynamic thermal environment","费腾,Skidmore A.K.,Venus V.,王铁军,Toxopeus B.,卞萌,刘宇","Ecological Modelling",["生物物理建模"],"10.1016/j.ecolmodel.2012.02.016",""],[2012,"Mapping Thermal Habitat of Ectotherms Based on Behavioral Thermoregulation in a Controlled Thermal Environment","费腾,Skidmore A.,刘宇","ISPRS Archives",["生物物理建模"],"10.5194/isprsarchives-XXXIX-B8-255-2012",""],[2011,"Absorption and backscattering coefficients and their relations to water constituents of Poyang Lake, China","吴国锋,崔磊,段浩,费腾,刘宇","Applied Optics",["生态遥感"],"10.1364/AO.50.006358",""],[2011,"A body temperature model for lizards as estimated from the thermal environment","费腾,Skidmore A.K.,Venus V.,王铁军,Schlerf M.,Toxopeus B.,van Overjijk S.,卞萌,刘宇","Journal of Thermal Biology",["生物物理建模"],"10.1016/j.jtherbio.2011.03.003",""],[2010,"Assessment of underwater light climate for Lake Dahuchi using field spectral data and Landsat TM","刘宇,费腾*,卞萌,Corsi F.","International Journal of Remote Sensing",["生态遥感"],"10.1080/01431160903342356",""],[2010,"Reflectance Spectroscopy of Biochemical Components as Indicators of Tea (Camellia sinensis) Quality","卞萌,Skidmore A.K.,Schlerf M.,费腾,刘宇,王铁军","Photogrammetric Engineering and Remote Sensing",["生态遥感"],"10.14358/PERS.76.12.1385",""],[2008,"Understanding lizard microhabitat use based on a mechanistic model of behavioral thermoregulation","费腾,Venus V.,Toxopeus B.,Skidmore A.K.,Schlerf M.,刘宇,van Overdijk S.,卞萌","SPIE",["生物物理建模"],"10.1117/12.812720",""],[2008,"Potential of hyperspectral remote sensing on estimating foliar chemistry and predicting the quality of tea (Camellia sinensis)","卞萌,Skidmore A.K.,Ni D.,de Leeuw J.,Schlerf M.,刘宇,费腾","SPIE",["生态遥感"],"10.1117/12.812721",""],[2007,"用间接遥感方法探测大熊猫栖息地竹林分布","卞萌,汪铁军,刘艳芳,费腾","生态学报",["生态遥感"],"",""]];
+const CAT_COLORS={"城市声环境":"#00bcd4","情绪地理":"#ff9800","生态遥感":"#4caf50","健康地理":"#f44336","空间大数据":"#2196f3","城市遥感":"#9c27b0","复杂网络":"#795548","教学论文":"#9e9e9e","光伏产能":"#ffeb3b","水文地貌":"#009688","艺术史":"#e91e63","聚类方法":"#3f51b5","听觉显示":"#8bc34a","现实增强":"#ff5722","生物物理建模":"#0097a7","其他":"#607d8b"};
+
+let activeYear=null;
+let activeCats=new Set();
+let currentView='grid';
+function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function getCatClass(c){return'cat-'+c;}
+
+const catCount={};
+for(const p of DB){for(const c of p[4]){catCount[c]=(catCount[c]||0)+1;}}
+
+const years=[...new Set(DB.map(p=>p[0]))];
+const cats=Object.keys(catCount);
+document.getElementById('stat-total').textContent=DB.length;
+document.getElementById('stat-years').textContent=Math.max(...years)-Math.min(...years)+1;
+document.getElementById('stat-cats').textContent=cats.length;
+
+const yf=document.getElementById('yearFilter');
+const allBtn=document.createElement('button');
+allBtn.className='yr-btn active';
+allBtn.textContent='\u5168\u90e8';
+allBtn.onclick=()=>{activeYear=null;allBtn.classList.add('active');document.querySelectorAll('.yr-btn:not(.yr-btn:first-child)').forEach(b=>b.classList.remove('active'));render();};
+yf.appendChild(allBtn);
+for(const y of years.sort((a,b)=>b-a)){
+  const b=document.createElement('button');
+  b.className='yr-btn';
+  b.textContent=y;
+  b.onclick=()=>{activeYear=y;allBtn.classList.remove('active');b.classList.add('active');render();};
+  yf.appendChild(b);
+}
+
+const cf=document.getElementById('catFilters');
+for(const cat of cats.sort()){
+  const b=document.createElement('span');
+  b.className='cat-chip '+getCatClass(cat);
+  b.textContent=cat+' ('+(catCount[cat]||0)+')';
+  b.onclick=()=>{if(activeCats.has(cat)){activeCats.delete(cat);b.classList.remove('active');}else{activeCats.add(cat);b.classList.add('active');}render();};
+  cf.appendChild(b);
+}
+
+document.querySelectorAll('.view-btn').forEach(btn=>{
+  btn.onclick=()=>{currentView=btn.dataset.view;document.querySelectorAll('.view-btn').forEach(b=>b.classList.remove('active'));btn.classList.add('active');render();};
+});
+
+document.getElementById('search').addEventListener('input',render);
+
+function render(){
+  const q=document.getElementById('search').value.toLowerCase();
+  const main=document.getElementById('main');
+  main.innerHTML='';
+  let visible=0;
+  let currentY=0;
+  const filtered=DB.filter(p=>{
+    const[year,title,authors,journal,cats]=p;
+    if(activeYear&&year!==activeYear)return false;
+    if(activeCats.size>0&&!p[4].some(c=>activeCats.has(c)))return false;
+    if(q&&!title.toLowerCase().includes(q)&&!authors.toLowerCase().includes(q)&&!journal.toLowerCase().includes(q))return false;
+    return true;
+  });
+  for(const p of filtered){
+    const[year,title,authors,journal,cats_list,cats_doi,cats_blog]=p;
+    if(year!==currentY){currentY=year;
+      const yrDiv=document.createElement('div');
+      yrDiv.className='timeline-year';
+      yrDiv.innerHTML='<span class="yr-dot"></span>'+year;
+      const grid=document.createElement('div');
+      grid.className='pub-grid'+(currentView==='list'?' list-view':'');
+      yrDiv.appendChild(grid);
+      main.appendChild(yrDiv);
+    }
+    const lastGrid=main.querySelector('.pub-grid:last-child');
+    const card=document.createElement('div');
+    card.className='pub-card';
+    const primaryCat=cats_list[0];
+    const color=CAT_COLORS[primaryCat]||'#6c8aff';
+    card.innerHTML='<div class="pub-type-bar" style="background:'+color+'"></div>'+
+      '<div class="pub-authors">'+esc(authors).replace(/\*([^*,\uff0c\u3001]+)/g,'<span class="\u901a\u8baf">$1</span>')+'</div>'+
+      '<div class="pub-title">'+esc(title)+'</div>'+
+      '<div class="pub-meta">'+cats_list.map(c=>'<span class="pub-tag cat-'+esc(c)+'">'+esc(c)+'</span>').join('')+'</div>'+
+      '<div class="pub-journal">'+esc(journal)+'</div>'+
+      '<div class="pub-links">'+
+        (cats_doi?'<a class="pub-link doi" href="https://doi.org/'+esc(cats_doi)+'" target="_blank">DOI</a>':'')+
+        (cats_blog?'<a class="pub-link blog" href="https://'+esc(cats_blog)+'" target="_blank">\u7814\u7a76\u6f2b\u8c08</a>':'')+
+      '</div>';
+    lastGrid.appendChild(card);
+    visible++;
+  }
+  document.getElementById('total-count').innerHTML=visible===DB.length?'\u663e\u793a\u5168\u90e8':'<strong>'+visible+'</strong> / '+DB.length;
+  if(visible===0){
+    const nr=document.createElement('div');
+    nr.className='no-results visible';
+    nr.innerHTML='<div class="emoji">\ud83d\udd0d</div><div>\u6ca1\u6709\u627e\u5230\u5339\u914d\u7684\u8bba\u6587</div>';
+    main.appendChild(nr);
+  }
+}
+render();
+</script>
+</body>
+</html>
