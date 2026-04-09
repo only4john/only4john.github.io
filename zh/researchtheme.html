@@ -116,7 +116,8 @@ yf.appendChild(allBtn);
 var sortedYears=years.slice().sort(function(a,b){return b-a;});
 for(var yi=0;yi<sortedYears.length;yi++){var y=sortedYears[yi];var b=document.createElement("button");b.className="yr-btn";b.textContent=y;b.onclick=(function(yv){return function(){activeYear=yv;var btns=yf.querySelectorAll(".yr-btn");for(var i=0;i<btns.length;i++){btns[i].className=btns[i].textContent===yv?"yr-btn active":"yr-btn";}render();};})(y);yf.appendChild(b);}
 var cf=document.getElementById("catFilters");
-var sortedCats=cats.slice().sort();
+var catOrder=["城市声环境","情绪地理","空间大数据","生态遥感","健康地理","城市遥感"];
+var sortedCats=cats.slice().sort(function(a,b){var ai=catOrder.indexOf(a),bi=catOrder.indexOf(b);if(ai===-1&&bi===-1)return a.localeCompare(b);if(ai===-1)return 1;if(bi===-1)return-1;return ai-bi;});
 for(var ci=0;ci<sortedCats.length;ci++){var cat=sortedCats[ci];var b=document.createElement("span");b.className="cat-chip cat-"+cat;b.textContent=cat+" ("+(catCount[cat]||0)+")";b.onclick=(function(catv,bel){return function(){if(activeCats[catv]){delete activeCats[catv];bel.className="cat-chip cat-"+catv;}else{activeCats[catv]=true;bel.className="cat-chip cat-"+catv+" active";}render();};})(cat,b);cf.appendChild(b);}
 var viewBtns=document.querySelectorAll(".view-btn");
 for(var vi=0;vi<viewBtns.length;vi++){viewBtns[vi].onclick=(function(btn){return function(){currentView=btn.dataset.view;for(var i=0;i<viewBtns.length;i++){viewBtns[i].className=i===vi?"view-btn active":"view-btn";}render();};})(viewBtns[vi]);}
