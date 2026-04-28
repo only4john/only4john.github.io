@@ -7,7 +7,7 @@ title: 学术成果
 ## Publication 发表论文 （ * 为通讯作者）
 --- 2026 ---
 
-Pengyu Chen, **Teng Fei\*, John A. Kupfer, Yunyan Du, Jiawei Yi, and Yi Li "Intelligent bear deterrence system based on computer vision: Reducing human–bear conflicts in remote areas," Ursus 2026(37e6), 1-11, (8 April 2026). https://doi.org/10.2192/URSUS-D-25-00010 [生态学] 
+Pengyu Chen, **Teng Fei**\*, John A. Kupfer, Yunyan Du, Jiawei Yi, and Yi Li "Intelligent bear deterrence system based on computer vision: Reducing human–bear conflicts in remote areas," Ursus 2026(37e6), 1-11, (8 April 2026). https://doi.org/10.2192/URSUS-D-25-00010 [生态学] 
 
 Huang Z., **T. Fei**\*, and J. Huang (2026), Quantifying airborne vessel noise on large rivers: A novel approach combining acoustic drifters and machine learning, Environmental Pollution, 398 (128047), ISSN 0269-7491, https://doi.org/10.1016/j.envpol.2026.128047. [城市声环境] [研究漫谈](https://mp.weixin.qq.com/s/planceholder){:target="_blank"} 
 
