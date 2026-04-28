@@ -8,11 +8,11 @@ title: Academic Publication
 
 --- 2026 ---
 
-Pengyu Chen, **Teng Fei**\*, John A. Kupfer, Yunyan Du, Jiawei Yi, and Yi Li "Intelligent bear deterrence system based on computer vision: Reducing human–bear conflicts in remote areas," Ursus 2026(37e6), 1-11. https://doi.org/10.2192/URSUS-D-25-00010 [ecology] 
+Pengyu Chen, **Teng Fei**\*, John A. Kupfer, Yunyan Du, Jiawei Yi, and Yi Li "Intelligent bear deterrence system based on computer vision: Reducing human–bear conflicts in remote areas," Ursus 2026(37e6), 1-11. https://doi.org/10.2192/URSUS-D-25-00010 [ecology] [研究漫谈](https://mp.weixin.qq.com/s/OWNKh3qR0pVzeaiGGvQN3A){:target="_blank"} 
 
 Huang Z., **T. Fei**\*, and J. Huang (2026), Quantifying airborne vessel noise on large rivers: A novel approach combining acoustic drifters and machine learning, Environmental Pollution, 398 (128047), ISSN 0269-7491, https://doi.org/10.1016/j.envpol.2026.128047. [Sound Environment] [研究漫谈](https://mp.weixin.qq.com/s/planceholder){:target="_blank"} 
 
-Chen, P., X. Huang, **T. Fei**, and S. Wang.* （2026）. “ Cross-Modal Urban Sensing: Evaluating Sound–Vision Alignment Across Street-Level and Aerial Imagery.” Transactions in GIS 30, no. 2: e70246. https://doi.org/10.1111/tgis.70246. [Sound Environment]
+Chen, P., X. Huang, **T. Fei**, and S. Wang.* （2026）. “ Cross-Modal Urban Sensing: Evaluating Sound–Vision Alignment Across Street-Level and Aerial Imagery.” Transactions in GIS, 30, no. 2: e70246. https://doi.org/10.1111/tgis.70246. [Sound Environment]
 
 Yaqian Zhong, **Teng Fei**\*, Meng Bian, Zhipeng Zhong, Jing Huang, Mingyuan Wang (2026), Quantifying place-based emotional arousal: A multi-modal wearable sensing approach to understanding human-environment interaction, Journal of Urban Management, 2026. https://www.sciencedirect.com/science/article/pii/S2226585626000440  [Emotion Computing][研究漫谈](https://mp.weixin.qq.com/s/3cz3NBfQbAMSSmUH9MJeqw){:target="_blank"}   
 
