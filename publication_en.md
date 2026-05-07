@@ -8,7 +8,9 @@ title: Academic Publication
 
 --- 2026 ---
 
-Pengyu Chen, **Teng Fei**\*, John A. Kupfer, Yunyan Du, Jiawei Yi, and Yi Li "Intelligent bear deterrence system based on computer vision: Reducing human–bear conflicts in remote areas," Ursus 2026(37e6), 1-11. https://doi.org/10.2192/URSUS-D-25-00010 [ecology] [研究漫谈](https://mp.weixin.qq.com/s/OWNKh3qR0pVzeaiGGvQN3A){:target="_blank"} 
+Chen, Z., Jia, D., **Fei, T.**\*, Xie, H., & Li, L. (2026). Estimating residential-block scale urban sound environment discomfort level across Chinese cities using multiscale, multispectral remote sensing, and deep learning. GIScience & Remote Sensing, 63(1). https://doi.org/10.1080/15481603.2026.2664930 [Sound Environment] 
+
+Pengyu Chen, **Teng Fei**\*, John A. Kupfer, Yunyan Du, Jiawei Yi, and Yi Li "(2026), Intelligent bear deterrence system based on computer vision: Reducing human–bear conflicts in remote areas," Ursus 2026(37e6), 1-11. https://doi.org/10.2192/URSUS-D-25-00010 [ecology] [研究漫谈](https://mp.weixin.qq.com/s/OWNKh3qR0pVzeaiGGvQN3A){:target="_blank"} 
 
 Huang Z., **T. Fei**\*, and J. Huang (2026), Quantifying airborne vessel noise on large rivers: A novel approach combining acoustic drifters and machine learning, Environmental Pollution, 398 (128047), ISSN 0269-7491, https://doi.org/10.1016/j.envpol.2026.128047. [Sound Environment] [研究漫谈](https://mp.weixin.qq.com/s/planceholder){:target="_blank"} 
 
