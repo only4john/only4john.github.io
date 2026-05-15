@@ -8,6 +8,8 @@ title: Academic Publication
 
 --- 2026 ---
 
+Jia, D., Chen, Z., **Fei, T.**\*, Xie, H.\*, Guo, Z., & Bian, M. (2026). From satellite imagery to perceived noise annoyance: estimating urban sound environment annoyance using remote sensing and machine learning. International Journal of Remote Sensing, 1–25. https://doi.org/10.1080/01431161.2026.2672063 [Sound Environment] 
+
 Chen, Z., Jia, D., **Fei, T.**\*, Xie, H., & Li, L. (2026). Estimating residential-block scale urban sound environment discomfort level across Chinese cities using multiscale, multispectral remote sensing, and deep learning. GIScience & Remote Sensing, 63(1). https://doi.org/10.1080/15481603.2026.2664930 [Sound Environment] 
 
 Pengyu Chen, **Teng Fei**\*, John A. Kupfer, Yunyan Du, Jiawei Yi, and Yi Li "(2026), Intelligent bear deterrence system based on computer vision: Reducing human–bear conflicts in remote areas," Ursus 2026(37e6), 1-11. https://doi.org/10.2192/URSUS-D-25-00010 [ecology] [研究漫谈](https://mp.weixin.qq.com/s/OWNKh3qR0pVzeaiGGvQN3A){:target="_blank"} 
