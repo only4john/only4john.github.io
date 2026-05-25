@@ -9,11 +9,11 @@ title: 学术成果
 
 Jia, D., Chen, Z., **Fei, T.**\*, Xie, H.\*, Guo, Z., & Bian, M. (2026). From satellite imagery to perceived noise annoyance: estimating urban sound environment annoyance using remote sensing and machine learning. International Journal of Remote Sensing, 1–25. https://doi.org/10.1080/01431161.2026.2672063 [城市声环境] 
 
-Chen, Z., Jia, D., **Fei, T.**\*, Xie, H., & Li, L. (2026). Estimating residential-block scale urban sound environment discomfort level across Chinese cities using multiscale, multispectral remote sensing, and deep learning. GIScience & Remote Sensing, 63(1). https://doi.org/10.1080/15481603.2026.2664930 [城市声环境] 
+Chen, Z., Jia, D., **Fei, T.**\*, Xie, H., & Li, L. (2026). Estimating residential-block scale urban sound environment discomfort level across Chinese cities using multiscale, multispectral remote sensing, and deep learning. GIScience & Remote Sensing, 63(1). https://doi.org/10.1080/15481603.2026.2664930 [城市声环境] [研究漫谈](https://mp.weixin.qq.com/s/MzeEcfHLN8p3MVdcC0fSFg){:target="_blank"}  
 
 Pengyu Chen, **Teng Fei**\*, John A. Kupfer, Yunyan Du, Jiawei Yi, and Yi Li "Intelligent bear deterrence system based on computer vision: Reducing human–bear conflicts in remote areas," Ursus 2026(37e6), 1-11, (8 April 2026). https://doi.org/10.2192/URSUS-D-25-00010 [生态学] 
 
-Huang Z., **T. Fei**\*, and J. Huang (2026), Quantifying airborne vessel noise on large rivers: A novel approach combining acoustic drifters and machine learning, Environmental Pollution, 398 (128047), ISSN 0269-7491, https://doi.org/10.1016/j.envpol.2026.128047. [城市声环境] [研究漫谈](https://mp.weixin.qq.com/s/planceholder){:target="_blank"} 
+Huang Z., **T. Fei**\*, and J. Huang (2026), Quantifying airborne vessel noise on large rivers: A novel approach combining acoustic drifters and machine learning, Environmental Pollution, 398 (128047), ISSN 0269-7491, https://doi.org/10.1016/j.envpol.2026.128047. [城市声环境] [研究漫谈](https://mp.weixin.qq.com/s/BspJJg45adFPH3oenfz6fA){:target="_blank"} 
 
 Chen, P., X. Huang, **T. Fei**, and S. Wang.* （2026）. Cross-Modal Urban Sensing: Evaluating Sound–Vision Alignment Across Street-Level and Aerial Imagery.Transactions in GIS 30, no. 2: e70246. https://doi.org/10.1111/tgis.70246. [城市声环境]  
 
