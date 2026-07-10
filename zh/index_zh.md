@@ -3,7 +3,7 @@ layout: default_zh
 title: 费  腾
 ---
 
-## 费&ensp;&ensp;腾&ensp;&ensp;FEI Teng [<img src='..\img\icon.jpg' style=' float:right; width:150px;height: px' id='profile-photo'/>](https://scholar.google.com/citations?user=yDkjL1UAAAAJ&hl=en) 
+## 费&ensp;&ensp;腾&ensp;&ensp;FEI Teng [<img src='..\img\icon.jpg' style=' float:right; width:150px;height: px' id='profile-photo'/>](https://scholar.google.com/citations?user=yDkjL1UAAAAJ&hl=en) <span id="presence-badge" class="presence-badge presence-unknown" title="正在加载在线状态…">···</span> 
 
 
 博士， 武汉大学 资源与环境科学学院，副教授，博导   
