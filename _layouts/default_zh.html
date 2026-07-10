@@ -12,6 +12,23 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <style>
+      .presence-badge {
+        display: inline-block;
+        margin-left: 0.4em;
+        padding: 0.1em 0.6em;
+        border-radius: 0.8em;
+        font-size: 0.55em;
+        vertical-align: middle;
+        font-weight: 600;
+        letter-spacing: 0.04em;
+        line-height: 1.6;
+        transition: background-color 0.25s ease, color 0.25s ease;
+      }
+      .presence-online  { background: #2ecc71; color: #fff; }
+      .presence-offline { background: #95a5a6; color: #fff; }
+      .presence-unknown { background: #bdc3c7; color: #fff; }
+    </style>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -38,12 +55,47 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <footer class="site-footer">
+<footer class="site-footer">
         {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}.</span>
         {% endif %}
         <span class="site-footer-credits">本站信息于2026年5月最后编辑.</span>
       </footer>
     </main>
+    <script>
+      (function () {
+        var badge = document.getElementById('presence-badge');
+        if (!badge) return;
+        function render(state, updatedAt) {
+          badge.classList.remove('presence-online', 'presence-offline', 'presence-unknown');
+          if (state === true) {
+            badge.classList.add('presence-online');
+            badge.textContent = '在办公室';
+          } else if (state === false) {
+            badge.classList.add('presence-offline');
+            badge.textContent = '不在办公室';
+          } else {
+            badge.classList.add('presence-unknown');
+            badge.textContent = '状态未知';
+          }
+          if (updatedAt) {
+            badge.title = '最后更新：' + updatedAt;
+          }
+        }
+        function fetchStatus() {
+          // status.json 位于仓库根 assets/ 下，/zh/ 页面用 ../assets/status.json
+          fetch('../assets/status.json?t=' + Date.now(), { cache: 'no-store' })
+            .then(function (r) { return r.ok ? r.json() : null; })
+            .then(function (j) {
+              if (j && typeof j.in_office === 'boolean') render(j.in_office, j.updated_at);
+              else render(null);
+            })
+            .catch(function () { render(null); });
+        }
+        render(null);
+        fetchStatus();
+        setInterval(fetchStatus, 60000);
+      })();
+    </script>
   </body>
 </html>
