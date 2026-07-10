@@ -83,8 +83,8 @@
           }
         }
         function fetchStatus() {
-          // status.json 位于仓库根，/zh/ 页面用 ../status.json
-          fetch('../status.json?t=' + Date.now(), { cache: 'no-store' })
+          // status.json 位于仓库根 assets/ 下，/zh/ 页面用 ../assets/status.json
+          fetch('../assets/status.json?t=' + Date.now(), { cache: 'no-store' })
             .then(function (r) { return r.ok ? r.json() : null; })
             .then(function (j) {
               if (j && typeof j.in_office === 'boolean') render(j.in_office, j.updated_at);
