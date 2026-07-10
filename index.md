@@ -4,10 +4,10 @@ title: Fei Teng
 ---
 ## Teng FEI [<img src='img\icon.jpg' style=' float:right; width:150px;height: px'/>](https://scholar.google.com/citations?user=yDkjL1UAAAAJ&hl=en)
  
-Ph.D., Associate Professor, Doctoral Promotor  
+Ph.D., Professor, Doctoral Promotor  
 School of Resource and Environmental Sciences, Wuhan University  
 Visiting Scholar at the University of Canterbury, New Zealand  
- 
+Visiting Scholar at the University of Illinois at Urbana-Champaign, USA
 Research Interests: Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic Information Science
 
 Email: feiteng[at]whu.edu.cn  
@@ -24,8 +24,9 @@ Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic In
 - MSc, Faculty of Geo-Information Science and Earth Observation (ITC), Twente, the Netherlands
 - BSc, Wuhan University, China
 
-## Research Experience:
+## Work Experience:
 
+- Professor, School of Resource and Environmental Sciences, Wuhan University
 - Associate Professor, School of Resource and Environmental Sciences, Wuhan University
 - Visiting Scholar, University of Canterbury, New Zealand
 - Visiting Scholar, University of Illinois at Urbana-Champaign (UIUC)

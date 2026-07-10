@@ -6,7 +6,7 @@ title: 费  腾
 ## 费&ensp;&ensp;腾&ensp;&ensp;FEI Teng [<img src='..\img\icon.jpg' style=' float:right; width:150px;height: px' id='profile-photo'/>](https://scholar.google.com/citations?user=yDkjL1UAAAAJ&hl=en) 
 
 
-博士， 武汉大学 资源与环境科学学院，副教授，博导   
+博士， 武汉大学 资源与环境科学学院，教授，博导   
 研究方向： 城市地理大数据，生态遥感应用，地理信息科学相关  
 Email: feiteng[at]whu.edu.cn  
 
@@ -28,8 +28,11 @@ ITC，the Netherlands, MSc 科学硕士
 
 ## 研究工作经历：
 
-2013/01 - 今，&ensp;&ensp;&ensp;&ensp;&ensp;
-武汉大学，资源与环境科学学院，副教授  
+2025/11 - 今，&ensp;&ensp;&ensp;&ensp;&ensp;
+武汉大学，资源与环境科学学院，教授  
+
+2013/01 - 2025/11，
+武汉大学，资源与环境科学学院，副教授 
 
 2025/05 - 2026/01，坎特伯雷大学，访问学者
 
@@ -50,6 +53,8 @@ ITC，the Netherlands, MSc 科学硕士
 ---
 ## 招生：
 
-硕士研究生招生方向：地图学与地理信息科学 测绘工程；博士研究生：是否有名额，得看2027年运气 
+硕士研究生招生方向：地图学与地理信息科学 测绘工程；  
+
+博士研究生：是否有名额，得看我2027年运气 
 
 内啥，如果你是羽毛球高手就更好啦 
