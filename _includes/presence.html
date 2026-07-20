@@ -28,7 +28,12 @@
 <script>
   (function () {
     var STATUS_URL = {{ presence_status_url | jsonify }};
-    var LABELS = {{ presence_labels | jsonify }};
+    var LABELS = {
+      online:  {{ presence_label_online  | jsonify }},
+      offline: {{ presence_label_offline | jsonify }},
+      unknown: {{ presence_label_unknown | jsonify }},
+      last_updated: {{ presence_label_last_updated | jsonify }}
+    };
     var badge = document.getElementById('presence-badge');
     if (!badge) return;
     function render(state, updatedAt) {

@@ -45,7 +45,10 @@
       </footer>
     </main>
     {% assign presence_status_url = '/assets/status.json' %}
-    {% assign presence_labels = '{"online":"In Office","offline":"Out of Office","unknown":"Status Unknown","last_updated":"Last updated: "}' %}
+    {% assign presence_label_online = 'In Office' %}
+    {% assign presence_label_offline = 'Out of Office' %}
+    {% assign presence_label_unknown = 'Status Unknown' %}
+    {% assign presence_label_last_updated = 'Last updated: ' %}
     {% include presence.html %}
   </body>
 </html>

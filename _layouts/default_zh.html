@@ -46,7 +46,10 @@
       </footer>
     </main>
     {% assign presence_status_url = '../assets/status.json' %}
-    {% assign presence_labels = '{"online":"在办公室","offline":"不在办公室","unknown":"状态未知","last_updated":"最后更新："}' %}
+    {% assign presence_label_online = '在办公室' %}
+    {% assign presence_label_offline = '不在办公室' %}
+    {% assign presence_label_unknown = '状态未知' %}
+    {% assign presence_label_last_updated = '最后更新：' %}
     {% include presence.html %}
   </body>
 </html>
