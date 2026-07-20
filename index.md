@@ -2,7 +2,7 @@
 layout: default_en
 title: Fei Teng
 ---
-## Teng FEI [<img src='img\icon.jpg' style=' float:right; width:150px;height: px'/>](https://scholar.google.com/citations?user=yDkjL1UAAAAJ&hl=en)
+## Teng FEI [<img src='img\icon.jpg' style=' float:right; width:150px;height: px'/>](https://scholar.google.com/citations?user=yDkjL1UAAAAJ&hl=en) <span id="presence-badge" class="presence-badge presence-unknown" title="Loading presence…">···</span>
  
 Ph.D., Professor, Doctoral Promotor  
 School of Resource and Environmental Sciences, Wuhan University  

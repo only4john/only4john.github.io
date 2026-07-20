@@ -44,5 +44,8 @@
         <span class="site-footer-credits">This site information was last edited in May. 2026.</span>
       </footer>
     </main>
+    {% assign presence_status_url = '/assets/status.json' %}
+    {% assign presence_labels = '{"online":"In Office","offline":"Out of Office","unknown":"Status Unknown","last_updated":"Last updated: "}' %}
+    {% include presence.html %}
   </body>
 </html>

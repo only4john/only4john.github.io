@@ -1,0 +1,59 @@
+{%- comment -%}
+  Presence badge: 在标题后显示 "在办公室 / In Office" 状态徽章.
+  调用方需要在 include 前设置两个变量:
+    presence_status_url   status.json 的绝对或相对 URL (英文主页用 /assets/status.json; /zh/ 页面用 ../assets/status.json)
+    presence_labels       JSON 对象, 含 online / offline / unknown / loading 四个文案
+  调用方式:
+    {% include presence.html %}
+  页面 markdown 里需要塞一个占位 span:
+    <span id="presence-badge" class="presence-badge presence-unknown" title="...">···</span>
+{%- endcomment -%}
+<style>
+  .presence-badge {
+    display: inline-block;
+    margin-left: 0.4em;
+    padding: 0.1em 0.6em;
+    border-radius: 0.8em;
+    font-size: 0.55em;
+    vertical-align: middle;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    line-height: 1.6;
+    transition: background-color 0.25s ease, color 0.25s ease;
+  }
+  .presence-online  { background: #2ecc71; color: #fff; }
+  .presence-offline { background: #95a5a6; color: #fff; }
+  .presence-unknown { background: #bdc3c7; color: #fff; }
+</style>
+<script>
+  (function () {
+    var STATUS_URL = {{ presence_status_url | jsonify }};
+    var LABELS = {{ presence_labels | jsonify }};
+    var badge = document.getElementById('presence-badge');
+    if (!badge) return;
+    function render(state, updatedAt) {
+      badge.classList.remove('presence-online', 'presence-offline', 'presence-unknown');
+      var key, label;
+      if (state === true)        { key = 'online';  label = LABELS.online; }
+      else if (state === false)  { key = 'offline'; label = LABELS.offline; }
+      else                       { key = 'unknown'; label = LABELS.unknown; }
+      badge.classList.add('presence-' + key);
+      badge.textContent = label;
+      if (updatedAt) {
+        badge.title = (LABELS.last_updated || 'Last updated: ') + updatedAt;
+      }
+    }
+    function fetchStatus() {
+      fetch(STATUS_URL + (STATUS_URL.indexOf('?') >= 0 ? '&' : '?') + 't=' + Date.now(), { cache: 'no-store' })
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .then(function (j) {
+          if (j && typeof j.in_office === 'boolean') render(j.in_office, j.updated_at);
+          else render(null);
+        })
+        .catch(function () { render(null); });
+    }
+    render(null);
+    fetchStatus();
+    setInterval(fetchStatus, 60000);
+  })();
+</script>
