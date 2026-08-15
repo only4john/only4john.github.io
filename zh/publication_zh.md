@@ -7,6 +7,8 @@ title: 学术成果
 ## Publication 发表论文 （ * 为通讯作者）
 --- 2026 ---
 
+Dong Liu, Zihan Kan, **Teng Fei**, Yang Chen, Yan Zhang and Qiming Zheng, Applications in urban sensing for smart cities [book chapter],edited by Man-On Pun, Xiaokang Zhang, August 10, 2026, ISBN: 9780443291524
+
 Jia, D., Chen, Z., **Fei, T.**\*, Xie, H.\*, Guo, Z., & Bian, M. (2026). From satellite imagery to perceived noise annoyance: estimating urban sound environment annoyance using remote sensing and machine learning. International Journal of Remote Sensing, 1–25. https://doi.org/10.1080/01431161.2026.2672063 [城市声环境] 
 
 Chen, Z., Jia, D., **Fei, T.**\*, Xie, H., & Li, L. (2026). Estimating residential-block scale urban sound environment discomfort level across Chinese cities using multiscale, multispectral remote sensing, and deep learning. GIScience & Remote Sensing, 63(1). https://doi.org/10.1080/15481603.2026.2664930 [城市声环境] [研究漫谈](https://mp.weixin.qq.com/s/MzeEcfHLN8p3MVdcC0fSFg){:target="_blank"}  
