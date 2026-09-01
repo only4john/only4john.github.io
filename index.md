@@ -35,10 +35,11 @@ Urban Geospatial Big Data, Ecological Remote Sensing Applications, Geographic In
 
 ## Courses Taught:
 
-- Introduction to Remote Sensing
-- Remote Sensing Practicum
-- Freshman Seminar
-- Advances in Geographic Information Science
+- Spatial Intelligent Computing 
+- Introduction to Remote Sensing 
+- Remote Sensing Practicum 
+- Freshman Seminar 
+- Advances in Geographic Information Science 
 - Remote Sensing of Resources and Environment [Graduate Level]
 
 ---
