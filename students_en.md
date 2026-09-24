@@ -31,7 +31,8 @@ Students who worked with me on the mutual aid map during the epidemic [(snapshot
 
 -----
 
-## Supervised/Current Master's Students:
+## Supervised/Current Students:
+Song Hanxing  
 Zhen Min  
 Xie Wenxuan  
 Zhang Xinyang  
