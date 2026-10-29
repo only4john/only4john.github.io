@@ -1,0 +1,73 @@
+name: Publish GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      status_json:
+        description: Current office presence, supplied by MagicMirror
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Add current office presence to the build
+        env:
+          STATUS_JSON: ${{ inputs.status_json || vars.OFFICE_PRESENCE_JSON }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          raw = os.environ.get("STATUS_JSON")
+          if not raw:
+              raise SystemExit("OFFICE_PRESENCE_JSON is not configured")
+          status = json.loads(raw)
+          if type(status.get("in_office")) is not bool:
+              raise SystemExit("in_office must be a boolean")
+          if not isinstance(status.get("updated_at"), str):
+              raise SystemExit("updated_at must be a string")
+          status = {
+              "in_office": status["in_office"],
+              "updated_at": status["updated_at"],
+              "source": "magic-mirror-radar",
+          }
+          Path("assets/status.json").write_text(
+              json.dumps(status, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          PY
+      - uses: actions/configure-pages@v5
+      - uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
